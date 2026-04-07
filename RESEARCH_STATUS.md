@@ -1,6 +1,6 @@
 # LINX Research Engine — Status
 
-> **Last Updated:** 2026-04-06 (Engine initialization)
+> **Last Updated:** 2026-04-06 (First competitive intelligence run)
 > **Engine Version:** 1.0
 > **Agents Active:** 7
 
@@ -10,7 +10,7 @@
 
 | Pillar | Reports | Operators Profiled | Competitors Tracked | HOA Communities | Signals Flagged |
 |--------|---------|-------------------|--------------------|-----------------|----|
-| Competitive Intelligence | 0 | -- | 0 | -- | 0 |
+| Competitive Intelligence | 1 | -- | 7 (1 defunct) | -- | 6 |
 | Operator Scout | 0 | 0 | -- | -- | 0 |
 | Market Pulse | 0 | -- | -- | -- | 0 |
 | HOA Enrichment | 0 | -- | -- | 0 | 0 |
@@ -34,6 +34,7 @@
 
 | Date | Time (UTC) | Agent | Status | Files Written | Key Finding |
 |------|-----------|-------|--------|---------------|-------------|
+| 2026-04-06 | 21:15 | COMPETITIVE | COMPLETE | 7 battle cards + threat matrix + signals | Fora #1 at 72. Legends AI acq. Inspirato private (Steve Case). Mindtrip + Cap1 risk. Journera dead. No competitor has trust-verified peer referral. |
 | 2026-04-06 | -- | INIT | Setup | Engine initialized | 7 triggers deployed |
 
 ---
