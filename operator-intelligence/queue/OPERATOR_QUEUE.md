@@ -24,13 +24,19 @@ LINX Operator ICP Fit Score (0-100):
 | # | Operator | Vertical | ICP Fit | Status | Profile Location |
 |---|----------|----------|---------|--------|-----------------|
 | 1 | Pelorus | Expedition/Yacht | **85** | PROFILED | `profiles/pelorus.md` |
-| 2 | Singita | Safari/Lodge | **82** | PROFILED | `profiles/singita.md` |
-| 3 | Natural Habitat Adventures | Adventure/Wildlife | **81** | PROFILED | `profiles/natural-habitat-adventures.md` |
-| 4 | Wilderness Safaris | Safari/Lodge | 76 | PROFILED | `profiles/wilderness-safaris.md` |
-| 5 | Burgess Yachts | Yacht Charter | 72 | PROFILED | `profiles/burgess-yachts.md` |
-| 6 | Aman Resorts | Luxury Resort | 70 | PROFILED | `profiles/aman-resorts.md` |
-| 7 | Fraser Yachts | Yacht Charter | 68 | PROFILED | `profiles/fraser-yachts.md` |
-| 8 | Quark Expeditions | Expedition | 65 | PROFILED | `profiles/quark-expeditions.md` |
+| 2 | Cookson Adventures | Expedition | **84** | PROFILED | `profiles/cookson-adventures.md` |
+| 3 | Great Plains Conservation | Safari/Lodge | **83** | PROFILED | `profiles/great-plains-conservation.md` |
+| 4 | Singita | Safari/Lodge | **82** | PROFILED | `profiles/singita.md` |
+| 5 | Angama | Safari/Lodge | **81** | PROFILED | `profiles/angama.md` |
+| 6 | Natural Habitat Adventures | Adventure/Wildlife | **81** | PROFILED | `profiles/natural-habitat-adventures.md` |
+| 7 | Wilderness Safaris | Safari/Lodge | 76 | PROFILED | `profiles/wilderness-safaris.md` |
+| 8 | Cecil Wright & Partners | Yacht Charter | 74 | PROFILED | `profiles/cecil-wright-and-partners.md` |
+| 9 | Burgess Yachts | Yacht Charter | 72 | PROFILED | `profiles/burgess-yachts.md` |
+| 10 | Aman Resorts | Luxury Resort | 70 | PROFILED | `profiles/aman-resorts.md` |
+| 11 | IYC (International Yacht Company) | Yacht Charter | 68 | PROFILED | `profiles/iyc.md` |
+| 12 | Fraser Yachts | Yacht Charter | 68 | PROFILED | `profiles/fraser-yachts.md` |
+| 13 | Quark Expeditions | Expedition | 65 | PROFILED | `profiles/quark-expeditions.md` |
+| 14 | Northrop & Johnson | Yacht Charter | 62 | PROFILED | `profiles/northrop-and-johnson.md` |
 
 ## Queue — Phase 1 (100 operators, 20 per vertical)
 
@@ -39,9 +45,9 @@ LINX Operator ICP Fit Score (0-100):
 |---|----------|----------|--------|
 | 1 | Burgess Yachts | HIGH | PROFILED (72) |
 | 2 | Fraser Yachts | HIGH | PROFILED (68) |
-| 3 | Northrop & Johnson | HIGH | QUEUED |
-| 4 | IYC (International Yacht Company) | HIGH | QUEUED |
-| 5 | Cecil Wright & Partners | HIGH | QUEUED |
+| 3 | Northrop & Johnson | HIGH | PROFILED (62) |
+| 4 | IYC (International Yacht Company) | HIGH | PROFILED (68) |
+| 5 | Cecil Wright & Partners | HIGH | PROFILED (74) |
 | 6 | Y.CO | MEDIUM | QUEUED |
 | 7 | Edmiston & Company | MEDIUM | QUEUED |
 | 8 | Morley Yachts | MEDIUM | QUEUED |
@@ -63,8 +69,8 @@ LINX Operator ICP Fit Score (0-100):
 |---|----------|----------|--------|
 | 1 | Singita | HIGH | PROFILED (82) |
 | 2 | Wilderness Safaris | HIGH | PROFILED (76) |
-| 3 | Great Plains Conservation | HIGH | QUEUED |
-| 4 | Angama Mara | HIGH | QUEUED |
+| 3 | Great Plains Conservation | HIGH | PROFILED (83) |
+| 4 | Angama Mara | HIGH | PROFILED (81) |
 | 5 | Asilia Africa | MEDIUM | QUEUED |
 | 6 | Legendary Expeditions | MEDIUM | QUEUED |
 | 7 | Nomad Tanzania | MEDIUM | QUEUED |
@@ -87,7 +93,7 @@ LINX Operator ICP Fit Score (0-100):
 |---|----------|----------|--------|
 | 1 | Quark Expeditions | HIGH | PROFILED (65) |
 | 2 | Pelorus | HIGH | PROFILED (85) |
-| 3 | Cookson Adventures | HIGH | QUEUED |
+| 3 | Cookson Adventures | HIGH | PROFILED (84) |
 | 4 | Expedition Terra | HIGH | QUEUED |
 | 5 | Ponant | HIGH | QUEUED |
 | 6 | Aurora Expeditions | MEDIUM | QUEUED |
@@ -158,12 +164,12 @@ LINX Operator ICP Fit Score (0-100):
 
 | Vertical | Total Queued | HIGH Priority | Profiled | Remaining |
 |----------|-------------|---------------|----------|-----------|
-| Yacht Charter | 20 | 5 | 2 | 18 |
-| Safari/Lodge | 20 | 4 | 2 | 18 |
-| Expedition | 20 | 5 | 2 | 18 |
+| Yacht Charter | 20 | 5 | 5 | 15 |
+| Safari/Lodge | 20 | 4 | 4 | 16 |
+| Expedition | 20 | 5 | 3 | 17 |
 | Luxury Resort | 20 | 3 | 1 | 19 |
 | Adventure/Wellness | 20 | 3 | 1 | 19 |
-| **TOTAL** | **100** | **20** | **8** | **92** |
+| **TOTAL** | **100** | **20** | **14** | **86** |
 
 ---
 
