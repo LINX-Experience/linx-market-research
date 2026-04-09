@@ -44,6 +44,12 @@ LINX Operator ICP Fit Score (0-100):
 | 19 | Northrop & Johnson | Yacht Charter | 62 | PROFILED | `profiles/northrop-and-johnson.md` |
 | 20 | Ponant | Expedition/Cruise | 58 | PROFILED | `profiles/ponant.md` |
 | 21 | Six Senses | Luxury Resort | 52 | PROFILED | `profiles/six-senses.md` |
+| 22 | Nomad Tanzania | Safari/Lodge | **80** | PROFILED | `profiles/nomad-tanzania.md` |
+| 23 | Legendary Expeditions | Safari/Lodge | **78** | PROFILED | `profiles/legendary-expeditions.md` |
+| 24 | Asilia Africa | Safari/Lodge | 76 | PROFILED | `profiles/asilia-africa.md` |
+| 25 | Morley Yachts | Yacht Charter | 72 | PROFILED | `profiles/morley-yachts.md` |
+| 26 | Hill Robinson | Yacht Charter | 65 | PROFILED | `profiles/hill-robinson.md` |
+| 27 | Camper & Nicholsons | Yacht Charter | 62 | PROFILED | `profiles/camper-and-nicholsons.md` |
 
 ## Queue — Phase 1 (100 operators, 20 per vertical)
 
@@ -57,9 +63,9 @@ LINX Operator ICP Fit Score (0-100):
 | 5 | Cecil Wright & Partners | HIGH | PROFILED (74) |
 | 6 | Y.CO | MEDIUM | PROFILED (71) |
 | 7 | Edmiston & Company | MEDIUM | PROFILED (69) |
-| 8 | Morley Yachts | MEDIUM | QUEUED |
-| 9 | Camper & Nicholsons | MEDIUM | QUEUED |
-| 10 | Hill Robinson | MEDIUM | QUEUED |
+| 8 | Morley Yachts | MEDIUM | PROFILED (72) |
+| 9 | Camper & Nicholsons | MEDIUM | PROFILED (62) |
+| 10 | Hill Robinson | MEDIUM | PROFILED (65) |
 | 11 | Ahoy Club | MEDIUM | QUEUED |
 | 12 | CharterWorld | MEDIUM | QUEUED |
 | 13 | Yachtzoo | MEDIUM | QUEUED |
@@ -78,9 +84,9 @@ LINX Operator ICP Fit Score (0-100):
 | 2 | Wilderness Safaris | HIGH | PROFILED (76) |
 | 3 | Great Plains Conservation | HIGH | PROFILED (83) |
 | 4 | Angama Mara | HIGH | PROFILED (81) |
-| 5 | Asilia Africa | MEDIUM | QUEUED |
-| 6 | Legendary Expeditions | MEDIUM | QUEUED |
-| 7 | Nomad Tanzania | MEDIUM | QUEUED |
+| 5 | Asilia Africa | MEDIUM | PROFILED (76) |
+| 6 | Legendary Expeditions | MEDIUM | PROFILED (78) |
+| 7 | Nomad Tanzania | MEDIUM | PROFILED (80) |
 | 8 | Ker & Downey Africa | MEDIUM | QUEUED |
 | 9 | Natural Selection | MEDIUM | QUEUED |
 | 10 | Roar Africa | MEDIUM | QUEUED |
@@ -171,12 +177,12 @@ LINX Operator ICP Fit Score (0-100):
 
 | Vertical | Total Queued | HIGH Priority | Profiled | Remaining |
 |----------|-------------|---------------|----------|-----------|
-| Yacht Charter | 20 | 5 | 7 | 13 |
-| Safari/Lodge | 20 | 4 | 4 | 16 |
+| Yacht Charter | 20 | 5 | 10 | 10 |
+| Safari/Lodge | 20 | 4 | 7 | 13 |
 | Expedition | 20 | 5 | 4 | 16 |
 | Luxury Resort | 20 | 3 | 3 | 17 |
 | Adventure/Wellness | 20 | 3 | 3 | 17 |
-| **TOTAL** | **100** | **20** | **21** | **79** |
+| **TOTAL** | **100** | **20** | **27** | **73** |
 
 ---
 
