@@ -26,17 +26,24 @@ LINX Operator ICP Fit Score (0-100):
 | 1 | Pelorus | Expedition/Yacht | **85** | PROFILED | `profiles/pelorus.md` |
 | 2 | Cookson Adventures | Expedition | **84** | PROFILED | `profiles/cookson-adventures.md` |
 | 3 | Great Plains Conservation | Safari/Lodge | **83** | PROFILED | `profiles/great-plains-conservation.md` |
-| 4 | Singita | Safari/Lodge | **82** | PROFILED | `profiles/singita.md` |
-| 5 | Angama | Safari/Lodge | **81** | PROFILED | `profiles/angama.md` |
-| 6 | Natural Habitat Adventures | Adventure/Wildlife | **81** | PROFILED | `profiles/natural-habitat-adventures.md` |
-| 7 | Wilderness Safaris | Safari/Lodge | 76 | PROFILED | `profiles/wilderness-safaris.md` |
-| 8 | Cecil Wright & Partners | Yacht Charter | 74 | PROFILED | `profiles/cecil-wright-and-partners.md` |
-| 9 | Burgess Yachts | Yacht Charter | 72 | PROFILED | `profiles/burgess-yachts.md` |
-| 10 | Aman Resorts | Luxury Resort | 70 | PROFILED | `profiles/aman-resorts.md` |
-| 11 | IYC (International Yacht Company) | Yacht Charter | 68 | PROFILED | `profiles/iyc.md` |
-| 12 | Fraser Yachts | Yacht Charter | 68 | PROFILED | `profiles/fraser-yachts.md` |
-| 13 | Quark Expeditions | Expedition | 65 | PROFILED | `profiles/quark-expeditions.md` |
-| 14 | Northrop & Johnson | Yacht Charter | 62 | PROFILED | `profiles/northrop-and-johnson.md` |
+| 4 | White Desert | Adventure/Expedition | **82** | PROFILED | `profiles/white-desert.md` |
+| 5 | Singita | Safari/Lodge | **82** | PROFILED | `profiles/singita.md` |
+| 6 | Angama | Safari/Lodge | **81** | PROFILED | `profiles/angama.md` |
+| 7 | Natural Habitat Adventures | Adventure/Wildlife | **81** | PROFILED | `profiles/natural-habitat-adventures.md` |
+| 8 | NIHI Sumba | Luxury Resort | **79** | PROFILED | `profiles/nihi-sumba.md` |
+| 9 | Butterfield & Robinson | Adventure/Active | **77** | PROFILED | `profiles/butterfield-and-robinson.md` |
+| 10 | Wilderness Safaris | Safari/Lodge | 76 | PROFILED | `profiles/wilderness-safaris.md` |
+| 11 | Cecil Wright & Partners | Yacht Charter | 74 | PROFILED | `profiles/cecil-wright-and-partners.md` |
+| 12 | Burgess Yachts | Yacht Charter | 72 | PROFILED | `profiles/burgess-yachts.md` |
+| 13 | Y.CO | Yacht Charter | 71 | PROFILED | `profiles/y-co.md` |
+| 14 | Aman Resorts | Luxury Resort | 70 | PROFILED | `profiles/aman-resorts.md` |
+| 15 | Edmiston & Company | Yacht Charter | 69 | PROFILED | `profiles/edmiston.md` |
+| 16 | IYC (International Yacht Company) | Yacht Charter | 68 | PROFILED | `profiles/iyc.md` |
+| 17 | Fraser Yachts | Yacht Charter | 68 | PROFILED | `profiles/fraser-yachts.md` |
+| 18 | Quark Expeditions | Expedition | 65 | PROFILED | `profiles/quark-expeditions.md` |
+| 19 | Northrop & Johnson | Yacht Charter | 62 | PROFILED | `profiles/northrop-and-johnson.md` |
+| 20 | Ponant | Expedition/Cruise | 58 | PROFILED | `profiles/ponant.md` |
+| 21 | Six Senses | Luxury Resort | 52 | PROFILED | `profiles/six-senses.md` |
 
 ## Queue — Phase 1 (100 operators, 20 per vertical)
 
@@ -48,8 +55,8 @@ LINX Operator ICP Fit Score (0-100):
 | 3 | Northrop & Johnson | HIGH | PROFILED (62) |
 | 4 | IYC (International Yacht Company) | HIGH | PROFILED (68) |
 | 5 | Cecil Wright & Partners | HIGH | PROFILED (74) |
-| 6 | Y.CO | MEDIUM | QUEUED |
-| 7 | Edmiston & Company | MEDIUM | QUEUED |
+| 6 | Y.CO | MEDIUM | PROFILED (71) |
+| 7 | Edmiston & Company | MEDIUM | PROFILED (69) |
 | 8 | Morley Yachts | MEDIUM | QUEUED |
 | 9 | Camper & Nicholsons | MEDIUM | QUEUED |
 | 10 | Hill Robinson | MEDIUM | QUEUED |
@@ -95,7 +102,7 @@ LINX Operator ICP Fit Score (0-100):
 | 2 | Pelorus | HIGH | PROFILED (85) |
 | 3 | Cookson Adventures | HIGH | PROFILED (84) |
 | 4 | Expedition Terra | HIGH | QUEUED |
-| 5 | Ponant | HIGH | QUEUED |
+| 5 | Ponant | HIGH | PROFILED (58) |
 | 6 | Aurora Expeditions | MEDIUM | QUEUED |
 | 7 | Lindblad Expeditions | MEDIUM | QUEUED |
 | 8 | Silversea Expeditions | MEDIUM | QUEUED |
@@ -116,8 +123,8 @@ LINX Operator ICP Fit Score (0-100):
 | # | Operator | Priority | Status |
 |---|----------|----------|--------|
 | 1 | Aman Resorts | HIGH | PROFILED (70) |
-| 2 | Six Senses | HIGH | QUEUED |
-| 3 | Nihi Sumba | HIGH | QUEUED |
+| 2 | Six Senses | HIGH | PROFILED (52) |
+| 3 | Nihi Sumba | HIGH | PROFILED (79) |
 | 4 | Song Saa | MEDIUM | QUEUED |
 | 5 | Explora Journeys | MEDIUM | QUEUED |
 | 6 | Soneva | MEDIUM | QUEUED |
@@ -140,8 +147,8 @@ LINX Operator ICP Fit Score (0-100):
 | # | Operator | Priority | Status |
 |---|----------|----------|--------|
 | 1 | Natural Habitat Adventures | HIGH | PROFILED (81) |
-| 2 | Butterfield & Robinson | HIGH | QUEUED |
-| 3 | White Desert | HIGH | QUEUED |
+| 2 | Butterfield & Robinson | HIGH | PROFILED (77) |
+| 3 | White Desert | HIGH | PROFILED (82) |
 | 4 | Backroads | MEDIUM | QUEUED |
 | 5 | Mountain Travel Sobek | MEDIUM | QUEUED |
 | 6 | REI Adventures (luxury tier) | MEDIUM | QUEUED |
@@ -164,12 +171,12 @@ LINX Operator ICP Fit Score (0-100):
 
 | Vertical | Total Queued | HIGH Priority | Profiled | Remaining |
 |----------|-------------|---------------|----------|-----------|
-| Yacht Charter | 20 | 5 | 5 | 15 |
+| Yacht Charter | 20 | 5 | 7 | 13 |
 | Safari/Lodge | 20 | 4 | 4 | 16 |
-| Expedition | 20 | 5 | 3 | 17 |
-| Luxury Resort | 20 | 3 | 1 | 19 |
-| Adventure/Wellness | 20 | 3 | 1 | 19 |
-| **TOTAL** | **100** | **20** | **14** | **86** |
+| Expedition | 20 | 5 | 4 | 16 |
+| Luxury Resort | 20 | 3 | 3 | 17 |
+| Adventure/Wellness | 20 | 3 | 3 | 17 |
+| **TOTAL** | **100** | **20** | **21** | **79** |
 
 ---
 
