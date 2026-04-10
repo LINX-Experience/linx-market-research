@@ -1,6 +1,6 @@
 # LINX Research Engine — Status
 
-> **Last Updated:** 2026-04-10 (Day 4 full cycle)
+> **Last Updated:** 2026-04-11 (Day 5 full cycle)
 > **Engine Version:** 1.0
 > **Agents Active:** 7
 
@@ -11,12 +11,12 @@
 | Pillar | Reports | Operators Profiled | Competitors Tracked | HOA Communities | Signals Flagged |
 |--------|---------|-------------------|--------------------|-----------------|----|
 | Competitive Intelligence | 1 | -- | 7 (1 defunct) | -- | 6 |
-| Operator Scout | 4 | 27 | -- | -- | 14 |
-| Market Pulse | 4 | -- | -- | -- | 20 |
+| Operator Scout | 5 | 33 | -- | -- | 20 |
+| Market Pulse | 5 | -- | -- | -- | 26 |
 | HOA Enrichment | 0 | -- | -- | 0 | 0 |
 | GTM Intelligence | 0 | -- | -- | -- | 0 |
 | Weekly Synthesis | 0 | -- | -- | -- | 0 |
-| Executive Digest | 4 | -- | -- | -- | -- |
+| Executive Digest | 5 | -- | -- | -- | -- |
 
 ## Agent Schedule (All times UTC)
 
@@ -34,6 +34,7 @@
 
 | Date | Time (UTC) | Agent | Status | Files Written | Key Finding |
 |------|-----------|-------|--------|---------------|-------------|
+| 2026-04-11 | -- | FULL CYCLE | COMPLETE | 3 files (pulse + 6 profiles + digest) + queue + signals | Connections Barcelona TOMORROW. Fora+Away partnership. Lindblad $771M. Natural Selection 81, Ker & Downey 79. 33 operators profiled. |
 | 2026-04-10 | -- | FULL CYCLE | COMPLETE | 3 files (pulse + 6 profiles + digest) + queue + signals | Travel funding historic low. MSF Innovation Exchange. REV Ocean Q4 delivery. Nomad Tanzania 80/100. 27 operators profiled. |
 | 2026-04-09 | -- | FULL CYCLE | COMPLETE | 3 files + 7 profiles + queue + signals | Fora Canada expansion. MYBA prep. Charter market shift. White Desert 82, NIHI Sumba 79, B&R 77. |
 | 2026-04-08 | -- | FULL CYCLE | COMPLETE | 3 files + signals | Monaco 57 days. Fora CTO at Stripe. ASTA tariff survey. $544B TAM validation. |
