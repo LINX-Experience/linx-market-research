@@ -56,6 +56,12 @@ LINX Operator ICP Fit Score (0-100):
 | 31 | Lindblad Expeditions | Expedition/Cruise | 62 | PROFILED | `profiles/lindblad-expeditions.md` |
 | 32 | Ahoy Club | Yacht Charter | 58 | PROFILED | `profiles/ahoy-club.md` |
 | 33 | Expedition Terra | Adventure/Surf | 38 | PROFILED | `profiles/expedition-terra.md` |
+| 34 | ROAR AFRICA | Safari/Luxury Travel | **78** | PROFILED | `profiles/roar-africa.md` |
+| 35 | African Bush Camps | Safari/Lodge | 76 | PROFILED | `profiles/african-bush-camps.md` |
+| 36 | Song Saa Private Island | Luxury Resort | 72 | PROFILED | `profiles/song-saa.md` |
+| 37 | Yachtzoo | Yacht Charter | 60 | PROFILED | `profiles/yachtzoo.md` |
+| 38 | CharterWorld | Yacht Charter | 55 | PROFILED | `profiles/charterworld.md` |
+| 39 | Silversea Expeditions | Expedition/Cruise | 48 | PROFILED | `profiles/silversea-expeditions.md` |
 
 ## Queue — Phase 1 (100 operators, 20 per vertical)
 
@@ -73,8 +79,8 @@ LINX Operator ICP Fit Score (0-100):
 | 9 | Camper & Nicholsons | MEDIUM | PROFILED (62) |
 | 10 | Hill Robinson | MEDIUM | PROFILED (65) |
 | 11 | Ahoy Club | MEDIUM | PROFILED (58) |
-| 12 | CharterWorld | MEDIUM | QUEUED |
-| 13 | Yachtzoo | MEDIUM | QUEUED |
+| 12 | CharterWorld | MEDIUM | PROFILED (55) |
+| 13 | Yachtzoo | MEDIUM | PROFILED (60) |
 | 14 | SuperYachtFan (charter) | LOW | QUEUED |
 | 15 | Ocean Independence | MEDIUM | QUEUED |
 | 16 | Denison Yachting | MEDIUM | QUEUED |
@@ -95,8 +101,8 @@ LINX Operator ICP Fit Score (0-100):
 | 7 | Nomad Tanzania | MEDIUM | PROFILED (80) |
 | 8 | Ker & Downey Africa | MEDIUM | PROFILED (79) |
 | 9 | Natural Selection | MEDIUM | PROFILED (81) |
-| 10 | Roar Africa | MEDIUM | QUEUED |
-| 11 | African Bush Camps | MEDIUM | QUEUED |
+| 10 | Roar Africa | MEDIUM | PROFILED (78) |
+| 11 | African Bush Camps | MEDIUM | PROFILED (76) |
 | 12 | Sanctuary Retreats | MEDIUM | QUEUED |
 | 13 | Volcanoes Safaris | MEDIUM | QUEUED |
 | 14 | Robin Pope Safaris | MEDIUM | QUEUED |
@@ -117,7 +123,7 @@ LINX Operator ICP Fit Score (0-100):
 | 5 | Ponant | HIGH | PROFILED (58) |
 | 6 | Aurora Expeditions | MEDIUM | PROFILED (64) |
 | 7 | Lindblad Expeditions | MEDIUM | PROFILED (62) |
-| 8 | Silversea Expeditions | MEDIUM | QUEUED |
+| 8 | Silversea Expeditions | MEDIUM | PROFILED (48) |
 | 9 | Hurtigruten Expeditions | MEDIUM | QUEUED |
 | 10 | Seabourn Expedition | MEDIUM | QUEUED |
 | 11 | Scenic Eclipse | MEDIUM | QUEUED |
@@ -137,7 +143,7 @@ LINX Operator ICP Fit Score (0-100):
 | 1 | Aman Resorts | HIGH | PROFILED (70) |
 | 2 | Six Senses | HIGH | PROFILED (52) |
 | 3 | Nihi Sumba | HIGH | PROFILED (79) |
-| 4 | Song Saa | MEDIUM | QUEUED |
+| 4 | Song Saa | MEDIUM | PROFILED (72) |
 | 5 | Explora Journeys | MEDIUM | QUEUED |
 | 6 | Soneva | MEDIUM | QUEUED |
 | 7 | The Brando | MEDIUM | QUEUED |
@@ -183,12 +189,12 @@ LINX Operator ICP Fit Score (0-100):
 
 | Vertical | Total Queued | HIGH Priority | Profiled | Remaining |
 |----------|-------------|---------------|----------|-----------|
-| Yacht Charter | 20 | 5 | 11 | 9 |
-| Safari/Lodge | 20 | 4 | 9 | 11 |
-| Expedition | 20 | 5 | 7 | 13 |
-| Luxury Resort | 20 | 3 | 3 | 17 |
+| Yacht Charter | 20 | 5 | 13 | 7 |
+| Safari/Lodge | 20 | 4 | 11 | 9 |
+| Expedition | 20 | 5 | 8 | 12 |
+| Luxury Resort | 20 | 3 | 4 | 16 |
 | Adventure/Wellness | 20 | 3 | 3 | 17 |
-| **TOTAL** | **100** | **20** | **33** | **67** |
+| **TOTAL** | **100** | **20** | **39** | **61** |
 
 ---
 
