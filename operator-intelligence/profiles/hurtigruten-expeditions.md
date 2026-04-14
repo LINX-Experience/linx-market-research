@@ -1,0 +1,80 @@
+# Operator Profile: HX Hurtigruten Expeditions
+
+> **Generated:** April 14, 2026 | LINX Operator Scout
+> **ICP Fit Score:** 55/100
+> **Vertical:** Expedition / Cruise
+> **Archetype:** Large Expedition Cruise Line — Fleet operator with global itineraries
+
+---
+
+## Company Overview
+
+| Attribute | Detail |
+|-----------|--------|
+| Founded | 1893 (Hurtigruten); HX split 2024 |
+| Headquarters | London, UK (post-restructuring) |
+| Fleet | 5 vessels (MS Fridtjof Nansen, MS Roald Amundsen, MS Spitsbergen, MS Fram, MV Santa Cruz II) |
+| Ownership | Sold to consortium of existing investors for EUR 140M (Nov 2024) |
+| Est. Revenue | $200-400M (based on prior knowledge — verify) |
+| Destinations | Antarctica, Arctic (Svalbard, Greenland, Iceland), Galapagos, Norway, Alaska |
+| Website | travelhx.com |
+
+## Services & Positioning
+
+HX is one of the world's largest expedition cruise operators, specializing in polar and nature-focused itineraries. Record 2025-26 Antarctica season: 34 sailings, 93% five-star ratings, highest suite bookings ever, 188% increase in kayaking capacity. Plans to "seriously expand" fleet in 2026 following the Hurtigruten Group split. Offers FAM trips to travel agents — confirming agent/referral channel dependency.
+
+Hybrid expedition model: combines expedition landings with onboard lectures and expert-led excursions. Galapagos operation (MV Santa Cruz II) adds diversity. Norwegian coastal voyages via sister company (separate entity post-split).
+
+**Source:** [Wikipedia](https://en.wikipedia.org/wiki/Hurtigruten_AS), [Travel Weekly UK](https://travelweekly.co.uk/in-depth/hx-hurtigruten-expeditions-plans-to-seriously-expand-fleet-in-2026)
+
+## ICP Fit Score Breakdown
+
+| Dimension | Score | Reasoning |
+|-----------|-------|-----------|
+| Asset Proximity (Tier 1-3) | 15/20 | Owner-operator of 5 vessels. Direct asset control. |
+| Revenue Band ($1M-$50M) | 5/15 | Est. $200-400M = well above LINX sweet spot. Enterprise-scale. |
+| Referral Dependency (>50%) | 10/20 | Mixed: strong agent/trade network + direct consumer marketing. ~40-50% referral. FAM trips confirm agent dependency. |
+| Commission Arbitrage | 5/15 | Pays standard 10-15% to agents. LINX at 10% = minimal savings. Expedition cruises have tighter margins. |
+| Brand Quality | 8/10 | Strong expedition brand. Record Antarctica season. |
+| Technology Readiness | 7/10 | Modern website, booking system, investor relations portal |
+| Approachability | 5/10 | Large company. Corporate decision-making. No direct connection. |
+| **TOTAL** | **55/100** | |
+
+## Key Strengths for LINX
+
+1. **Expedition credibility.** HX on LINX = instant expedition cruise vertical validation.
+2. **Record demand signals.** Highest suite bookings ever = UHNW participation increasing.
+3. **Fleet expansion.** New vessels = new inventory seeking distribution partners.
+4. **FAM trip model.** Already invests in agent/referral relationships — understands the value of recommendation-driven bookings.
+
+## Limitations
+
+- **Too large for LINX sweet spot.** $200-400M revenue is enterprise-scale. LINX's 10% commission model works better with $5-50M operators where referral dependency is higher.
+- **Heavy direct marketing.** HX invests significantly in its own consumer marketing. Less pain on referral tracking.
+- **Post-restructuring complexity.** Company was sold for EUR 140M in late 2024. New ownership may be focused on operational stability, not new partnerships.
+- **Tighter expedition margins.** Expedition cruises have high COGS (fuel, crew, permits). Less room for commission flexibility.
+
+## Top 3 Objections & Responses
+
+1. **"We have our own sales team and agent network."** → "LINX does not replace agents. It surfaces the referrals that never reach your sales team — the friend who says 'you have to do this Antarctica trip' at a dinner party. That recommendation drives a $15K-$30K booking you never tracked."
+2. **"Our booking values are standardized."** → "Even at standardized pricing, a single suite booking at $20K+ generates $2K in LINX commission. Across 34 Antarctica sailings, even 5% referral attribution is significant."
+3. **"We are in a restructuring phase."** → "New ownership is the perfect time to add a new distribution channel. LINX requires zero upfront cost — you pay 10% commission only on closed, attributable referral bookings."
+
+## Intro Path
+
+- **No direct connection confirmed.** Cold approach.
+- **Industry events.** HX will be present at MYBA-adjacent events and Mediterranean season kickoff.
+- **EYOS network.** Polar expedition community is small. Ben Lyons may have connections.
+- **Stein Studios angle.** Expedition content partnership could open the door.
+
+## Est. LINX Revenue
+
+| Metric | Estimate | Confidence |
+|--------|----------|------------|
+| Annual passenger revenue | $200-400M | UNVERIFIED |
+| LINX-attributable referrals (Y1) | <1% of volume | UNVERIFIED |
+| LINX commission at 10% | $20K-$80K | UNVERIFIED |
+
+---
+
+*Profile generated by LINX Operator Scout | Source confidence: CONFIRMED (fleet/event data), UNVERIFIED (revenue estimates — based on prior knowledge, verify current status)*

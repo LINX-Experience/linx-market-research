@@ -82,7 +82,7 @@ LINX Operator ICP Fit Score (0-100):
 | 12 | CharterWorld | MEDIUM | PROFILED (55) |
 | 13 | Yachtzoo | MEDIUM | PROFILED (60) |
 | 14 | SuperYachtFan (charter) | LOW | QUEUED |
-| 15 | Ocean Independence | MEDIUM | QUEUED |
+| 15 | Ocean Independence | MEDIUM | PROFILED (70) |
 | 16 | Denison Yachting | MEDIUM | QUEUED |
 | 17 | Worth Avenue Yachts | MEDIUM | QUEUED |
 | 18 | TWW Yachts | LOW | QUEUED |
@@ -103,8 +103,8 @@ LINX Operator ICP Fit Score (0-100):
 | 9 | Natural Selection | MEDIUM | PROFILED (81) |
 | 10 | Roar Africa | MEDIUM | PROFILED (78) |
 | 11 | African Bush Camps | MEDIUM | PROFILED (76) |
-| 12 | Sanctuary Retreats | MEDIUM | QUEUED |
-| 13 | Volcanoes Safaris | MEDIUM | QUEUED |
+| 12 | Sanctuary Retreats (A&K Sanctuary) | MEDIUM | PROFILED (68) |
+| 13 | Volcanoes Safaris | MEDIUM | PROFILED (77) |
 | 14 | Robin Pope Safaris | MEDIUM | QUEUED |
 | 15 | Gibbs Farm | LOW | QUEUED |
 | 16 | Cottar's 1920s | LOW | QUEUED |
@@ -124,7 +124,7 @@ LINX Operator ICP Fit Score (0-100):
 | 6 | Aurora Expeditions | MEDIUM | PROFILED (64) |
 | 7 | Lindblad Expeditions | MEDIUM | PROFILED (62) |
 | 8 | Silversea Expeditions | MEDIUM | PROFILED (48) |
-| 9 | Hurtigruten Expeditions | MEDIUM | QUEUED |
+| 9 | Hurtigruten Expeditions (HX) | MEDIUM | PROFILED (55) |
 | 10 | Seabourn Expedition | MEDIUM | QUEUED |
 | 11 | Scenic Eclipse | MEDIUM | QUEUED |
 | 12 | Swan Hellenic | MEDIUM | QUEUED |
@@ -145,7 +145,7 @@ LINX Operator ICP Fit Score (0-100):
 | 3 | Nihi Sumba | HIGH | PROFILED (79) |
 | 4 | Song Saa | MEDIUM | PROFILED (72) |
 | 5 | Explora Journeys | MEDIUM | QUEUED |
-| 6 | Soneva | MEDIUM | QUEUED |
+| 6 | Soneva | MEDIUM | PROFILED (65) |
 | 7 | The Brando | MEDIUM | QUEUED |
 | 8 | Clayoquot Wilderness Lodge | MEDIUM | QUEUED |
 | 9 | Deplar Farm (Eleven) | MEDIUM | QUEUED |
@@ -167,7 +167,7 @@ LINX Operator ICP Fit Score (0-100):
 | 1 | Natural Habitat Adventures | HIGH | PROFILED (81) |
 | 2 | Butterfield & Robinson | HIGH | PROFILED (77) |
 | 3 | White Desert | HIGH | PROFILED (82) |
-| 4 | Backroads | MEDIUM | QUEUED |
+| 4 | Backroads | MEDIUM | PROFILED (62) |
 | 5 | Mountain Travel Sobek | MEDIUM | QUEUED |
 | 6 | REI Adventures (luxury tier) | MEDIUM | QUEUED |
 | 7 | Exodus Travels (premium) | MEDIUM | QUEUED |
@@ -189,12 +189,12 @@ LINX Operator ICP Fit Score (0-100):
 
 | Vertical | Total Queued | HIGH Priority | Profiled | Remaining |
 |----------|-------------|---------------|----------|-----------|
-| Yacht Charter | 20 | 5 | 13 | 7 |
-| Safari/Lodge | 20 | 4 | 11 | 9 |
-| Expedition | 20 | 5 | 8 | 12 |
-| Luxury Resort | 20 | 3 | 4 | 16 |
-| Adventure/Wellness | 20 | 3 | 3 | 17 |
-| **TOTAL** | **100** | **20** | **39** | **61** |
+| Yacht Charter | 20 | 5 | 14 | 6 |
+| Safari/Lodge | 20 | 4 | 13 | 7 |
+| Expedition | 20 | 5 | 9 | 11 |
+| Luxury Resort | 20 | 3 | 5 | 15 |
+| Adventure/Wellness | 20 | 3 | 4 | 16 |
+| **TOTAL** | **100** | **20** | **45** | **55** |
 
 ---
 
