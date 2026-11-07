@@ -1,8 +1,8 @@
 # Battle Card: Inspirato / The Exclusive Collective
 
-> **Last Updated:** 2026-04-06
+> **Last Updated:** 2026-11-07
 > **Threat Score:** 45/100
-> **Trend:** RESTRUCTURING (watch)
+> **Trend:** RESTRUCTURING — integration ongoing, permanent CEO still being recruited
 
 ---
 
@@ -15,7 +15,8 @@
 | Acquisition | Acquired by Exclusive Investments (Steve Case) for $59M, Feb 2026. Taken private from Nasdaq (ISPO). |
 | Parent | The Exclusive Collective = Exclusive Resorts + Inspirato + onefinestay |
 | Projected Revenue | $500M+ revenue, ~$70M EBITDA in 2026 |
-| Members | 25,000+ high-net-worth travelers |
+| Members | ~24,000 high-net-worth travelers annually (corrected from 25K: BusinessWire Feb 2026) |
+| Leadership | James Henderson, Interim CEO (permanent search underway as of Feb 2026) |
 | Model | Luxury vacation rental/subscription. Members pay annual fees for access to curated residences, experiences, and cruises. Commission on partner bookings. |
 
 ---

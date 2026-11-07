@@ -1,8 +1,8 @@
 # Battle Card: Virtuoso
 
-> **Last Updated:** 2026-04-06
-> **Threat Score:** 58/100
-> **Trend:** STABLE
+> **Last Updated:** 2026-11-07
+> **Threat Score:** 60/100
+> **Trend:** RISING (AI capability launched)
 
 ---
 
@@ -60,21 +60,22 @@
 
 | Date | Move | Source |
 |------|------|--------|
-| Nov 2025 | Published 2026 Luxe Report: "Spacious, Soulful and Spectacular." Top trends: crowd control, wellness, slow travel. 67% of advisors predict demand increase. | [PR Newswire](https://www.prnewswire.com/news-releases/the-2026-virtuoso-luxe-report-unveils-the-future-of-luxury-travel-spacious-soulful-and-spectacular-302618753.html) |
-| Aug 2025 | Announced expansion of Community events for 2026. | [Latte Luxury News](https://latteluxurynews.com/2025/08/12/virtuoso-to-roll-out-other-community-events-in-2026/) |
-| 2026 | Honored 178 cruise icons in 2026 Global Advisor Class. | [The Traveler](https://www.thetraveler.org/virtuoso-honors-178-cruise-icons-in-2026-global-advisor-class/) |
+| Aug 2026 | **Launched AI Collective Intelligence capability** at Travel Week Las Vegas. Not a named product — described as "an intelligence foundation" for future products. Advisors query network-wide knowledge, promotions analysis, training recommendations. Rolling out in waves via My Virtuoso. No cost to members currently. Built over 7 months. ISO 27001 certified. | [Travel Weekly](https://www.travelweekly.com/Travel-News/Travel-Agent-Issues/Virtuoso-unveils-new-AI-powered-intelligence-capability) / [PAX News](https://www.paxnews.com/news/technology/virtuoso-unveils-ai-powered-collective-intelligence-capability) — CONFIRMED |
+| Aug 2026 | Travel Week 2026: 4,800 delegates, 105 countries. Sales pacing 21% ahead of full year 2025. Fall pacing 69% ahead of H1 2025. Festive 2026 pacing 56% higher. Wellness bookings up 32%. | [Journal des Palaces](https://www.journaldespalaces.com/en/article-79185-five-themes-maxxing-the-travel-industry-at-virtuoso-travel-week-2026-NL.html) — CONFIRMED (Virtuoso self-reported) |
+| 2026 | Unveiled Global Travel Outlook Through 2028 at annual Symposium (Seoul). Oxford Economics data: international forecasts revised lower while Virtuoso performance runs at 2x the broader leisure market pace. | [Travel Pulse](https://www.travelpulse.com/news/host/virtuoso-unveils-global-travel-outlook-through-2028) — CONFIRMED |
+| Nov 2025 | Published 2026 Luxe Report: "Spacious, Soulful and Spectacular." Top trends: crowd control, wellness, slow travel. 67% of advisors predict demand increase. | [PR Newswire](https://www.prnewswire.com/news-releases/the-2026-virtuoso-luxe-report-unveils-the-future-of-luxury-travel-spacious-soulful-and-spectacular-302618753.html) — CONFIRMED |
 
 ---
 
-## Threat Score: 58/100
+## Threat Score: 60/100
 
 | Category | Score | Rationale |
 |----------|-------|-----------|
-| Funding (25 pts) | 10 | Self-funded, profitable. No VC war chest but no burn rate either. |
-| Feature Parity (25 pts) | 8 | Zero tech platform overlap. No attribution, no trust graph, no digital discovery. |
-| Market Overlap (20 pts) | 16 | Deep luxury travel overlap on operator relationships. Advisors could block operator adoption. |
-| Momentum (15 pts) | 12 | Steady growth. $35B is massive but growth rate is single-digit. |
-| Velocity (15 pts) | 12 | Low product velocity. No acquisitions, no tech launches. Thought leadership only. |
+| Funding (25 pts) | 10 | Self-funded, profitable. No VC war chest but no burn rate. Net positive: infinite runway. |
+| Feature Parity (25 pts) | 10 | AI Collective Intelligence = first real tech move. Still no trust graph, attribution, or peer-to-peer layer. +2 from last score. |
+| Market Overlap (20 pts) | 16 | Deep operator relationships unchanged. Advisors could still block LINX operator adoption. Highest overlap on this dimension. |
+| Momentum (15 pts) | 13 | 20%+ growth year. 4,800 Travel Week delegates. $35B+ base + accelerating. Not single-digit anymore. |
+| Velocity (15 pts) | 11 | First AI capability is a real move. Tech Summit spotlight on advisor innovation. Not legacy-only anymore. |
 
 ---
 

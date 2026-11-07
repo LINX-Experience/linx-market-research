@@ -1,8 +1,8 @@
 # Battle Card: Mindtrip (acquired Thatch)
 
-> **Last Updated:** 2026-04-06
-> **Threat Score:** 52/100
-> **Trend:** RISING
+> **Last Updated:** 2026-11-07
+> **Threat Score:** 61/100
+> **Trend:** RISING (end-to-end booking now live)
 
 ---
 
@@ -46,7 +46,7 @@
 ## Weaknesses LINX Can Exploit
 
 1. **AI hallucination risk** -- AI-generated recommendations have no trust verification. A friend who sailed Antarctica is more trustworthy than GPT-4.
-2. **No booking attribution** -- Mindtrip points to booking links but doesn't own the transaction. No commission infrastructure.
+2. **Booking attribution now partially closed** -- Mindtrip Flights (May 2026) with Sabre + PayPal: owns full transaction in-chat. Hotels still pending. Commission infrastructure is real for flights. Update: this weakness is narrowing.
 3. **Creator vs. peer** -- "Travel creators" are content producers, not trusted friends. Different trust signal entirely.
 4. **No operator relationships** -- Mindtrip has no direct operator contracts, no commission agreements, no B2B revenue.
 5. **Affiliate dependency** -- Revenue from affiliate links is low-margin and easily disrupted by operator direct booking pushes.
@@ -59,21 +59,23 @@
 
 | Date | Move | Source |
 |------|------|--------|
-| Dec 2025 | Capital One Ventures and United Airlines Ventures invest. Total funding reaches $22.5M. | [PhocusWire](https://www.phocuswire.com/mindtrip-ai-travel-planning-capital-one-ventures-united-airlines-ventures) |
-| Mar 2025 | Acquired Thatch (travel creator platform). Combined entity merges AI planning + creator curation. | [PhocusWire](https://www.phocuswire.com/mindtrip-thatch-merge-ai-travel-planning-creators) |
-| Oct 2025 | Positioned as luxury AI travel platform. "UX meets luxury" editorial coverage. | [Resident](https://resident.com/tech-and-gear/2025/10/29/ux-meets-luxury-the-art-of-itinerary-visualization-in-mindtripai) |
+| May 2026 | **Mindtrip Flights LAUNCHED.** End-to-end agentic booking: Sabre Mosaic APIs (real-time flight content) + PayPal (in-chat checkout + BNPL). First product with full transaction ownership. Hotels to follow. PayPal launch offer: 5,000 PayPal points on $250+ BNPL booking. | [AltexSoft](https://www.altexsoft.com/travel-industry-news/sabre-paypal-power-ai-bookings-flights-q2-2026/) / [Skift](https://skift.com/?p=801575) — CONFIRMED |
+| Feb 2026 | Sabre + PayPal + Mindtrip partnership announced; Q2 2026 launch scheduled. | [Hotel Management](https://www.hotelmanagement.net/tech/sabre-paypal-and-mindtrip-partner-launch-agentic-ai-travel-booking-platform) — CONFIRMED |
+| Mar 2026 | Capital One launches standalone Capital One Travel app (powered in-house from Hopper). Separate from Mindtrip but same investor. Live lounge locator, flight delay alerts. | [The Paypers](https://thepaypers.com) — LIKELY |
+| Dec 2025 | Capital One Ventures and United Airlines Ventures invest. Total funding reaches $22.5M. | [PhocusWire](https://www.phocuswire.com/mindtrip-ai-travel-planning-capital-one-ventures-united-airlines-ventures) — CONFIRMED |
+| Mar 2025 | Acquired Thatch (travel creator platform). Combined entity merges AI planning + creator curation. | [PhocusWire](https://www.phocuswire.com/mindtrip-thatch-merge-ai-travel-planning-creators) — CONFIRMED |
 
 ---
 
-## Threat Score: 52/100
+## Threat Score: 61/100
 
 | Category | Score | Rationale |
 |----------|-------|-----------|
-| Funding (25 pts) | 14 | $22.5M + Thatch's $83.6M. Well-capitalized but not mega-round territory. |
-| Feature Parity (25 pts) | 10 | AI planning overlaps with discovery. But no trust graph, no attribution, no commission. |
-| Market Overlap (20 pts) | 12 | Luxury travel discovery overlap. But different mechanism (AI vs. trust). |
-| Momentum (15 pts) | 9 | Growing but early. No booking volume metrics published. |
-| Velocity (15 pts) | 7 | Acquisition + funding shows velocity. But integration takes time. |
+| Funding (25 pts) | 14 | $22.5M + Thatch's $83.6M. Well-capitalized. No new round found. |
+| Feature Parity (25 pts) | 14 | Flights live with full transaction ownership (Sabre+PayPal). Attribution now exists for flights. Hotels pending. No trust graph, no peer layer. +4 from last score. |
+| Market Overlap (20 pts) | 13 | Discovery + booking = more direct traveler overlap. +1 from last score. |
+| Momentum (15 pts) | 11 | 1M+ monthly visits. Product shipped. Capital One + United as strategic backers. |
+| Velocity (15 pts) | 9 | Major infrastructure launch (Sabre+PayPal). Capital One's parallel app = ecosystem building. |
 
 ---
 

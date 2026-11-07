@@ -1,8 +1,8 @@
 # Battle Card: Fora Travel
 
-> **Last Updated:** 2026-04-06
-> **Threat Score:** 72/100
-> **Trend:** RISING
+> **Last Updated:** 2026-11-07
+> **Threat Score:** 81/100
+> **Trend:** CRITICAL — UNICORN STATUS ACHIEVED
 
 ---
 
@@ -12,7 +12,7 @@
 |-------|--------|
 | Founded | 2021 |
 | HQ | New York, NY |
-| Total Funding | $78.5M (Series C, Apr 2025) |
+| Total Funding | $138.5M (Series D, Jul 2026) — **UNICORN: $1B valuation** |
 | Key Investors | Thrive Capital, Insight Partners, Forerunner Ventures, Heartcore Capital |
 | Employees | ~200 (est.) |
 | Model | Host agency platform for travel advisors. Recruits newcomers, provides tools/training, earns override commissions on advisor bookings. |
@@ -26,20 +26,21 @@
 | Recruits and trains new travel advisors (97% never worked in travel before) | Empowers existing trusted peers who already recommend experiences |
 | Traditional advisor-client model with tech layer | Peer-to-peer trust referral network |
 | Commission flows through advisor (standard 10-20% industry rates) | Below-industry 10% commission (5% yacht), split with referrer |
-| $1B+ in bookings, 2M+ nights booked | Pre-seed, MVP stage |
-| AI-powered advisor tools (Legends acquisition) | Trust graph + attribution infrastructure |
+| $3B+ in total bookings, 15,000+ active advisors | Pre-seed, MVP stage |
+| Via AI assistant (beta): itinerary drafting, research, admin automation | Trust graph + attribution infrastructure |
 | Mass-market luxury (anyone can become an advisor) | Invite-only, curated community |
 
 ---
 
 ## Strengths
 
-1. **Massive funding runway** -- $78.5M gives 3-5 years of aggressive execution
-2. **Proven scale** -- $1B+ bookings, 92 countries, 2M+ nights
-3. **AI moat forming** -- Legends acquisition gives predictive personalization (LegendsDNA profiles from calendar, email, mobile data)
-4. **Advisor network effect** -- Each new advisor brings clients; 97% are new to industry (low switching cost from other hosts)
-5. **Strong investor backing** -- Thrive Capital (Kareem Zaki) signals continued funding access
-6. **First-mover in "modern host agency"** -- Defined the category
+1. **Unicorn runway** -- $138.5M total and $1B valuation gives 5+ years of aggressive execution. Forerunner + Tactile led Series D. Prior investors (Thrive, Insight, Heartcore) doubled down.
+2. **Proven scale** -- $3B+ total bookings. 15,000+ active advisors. 70,000+ cruise bookings alone. 97% new to profession.
+3. **Via AI deepening** -- Via beta expands: supplier knowledge, proposal generation, destination research, email drafting, client management. Advisors surfacing peer firsthand reviews within AI workflow.
+4. **Advisor flywheel** -- 97% career-changers = no legacy constraints. 40 advisors booking $2M+ each in 2025. Top 100 (Centum) = elite tier forming.
+5. **Brand legitimacy** -- TIME100 Most Influential Companies 2026 (April 30). CLIA Premier Agency Member. No startup credibility gap.
+6. **International expansion** -- Canada operational (British Columbia June 2026, Ontario April 2026). UK footprint established. Geographic moat widening.
+7. **5,000+ preferred supplier relationships** -- Fora Reserve program. Scale operators can't ignore.
 
 ---
 
@@ -59,28 +60,34 @@
 
 | Date | Move | Source |
 |------|------|--------|
-| Aug 2025 | Acquired AI startup Legends (undisclosed price). Founders joined as VP Product (Shiwarsky) and VP Strategic Initiatives (Daniel). | [Fora Newsroom](https://www.foratravel.com/newsroom/fora-acquires-ai-startup-legends) |
-| Apr 2025 | Closed $40M Series C led by Thrive Capital and Insight Partners. Total funding: $78.5M. | [Fortune](https://fortune.com/2025/04/24/fora-travel-thrive-series-c-60-million-recession/) |
-| 2025 | Surpassed $1B in cumulative bookings, 2M+ nights, 92 countries. | [Skift](https://skift.com/2025/04/24/fora-travel-raises-40-million-to-expand-offering-for-newbie-advisors/) |
+| Jul 2026 | **UNICORN: $60M Series D at $1B valuation.** Led by Forerunner + Tactile. Total funding $138.5M. Funds allocated to Via AI expansion and new travel verticals (cruises, flights). 15,000+ advisors. $3B+ cumulative bookings. | [TechCrunch](https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/) / [Travel Weekly](https://www.travelweekly.com/Travel-News/Travel-Agent-Issues/Host-agency-Fora-gets-60-million-funding-round) — CONFIRMED |
+| Jun 2026 | Canada expansion: British Columbia. TICO registration. Full Canadian operation underway. | [PAX News](https://www.paxnews.com/news/host-agencies/fora-travel-expands-british-columbia) — CONFIRMED |
+| Apr 2026 | Named TIME100 Most Influential Companies 2026. | [Fora Newsroom](https://www.foratravel.com/newsroom/fora-named-time100-most-influential-company-2026) — CONFIRMED |
+| Apr 2026 | Named CLIA Premier Agency Member (cruise vertical validation). 70,000+ cruise bookings reported. | [Fora Newsroom](https://www.foratravel.com/newsroom/fora-is-named-a-clia-premier-agency-member) — CONFIRMED |
+| Jan 2026 | Centum 2026: top 100 producers honored. ~40 advisors booked $2M+ each in 2025. | [Fora Newsroom](https://www.foratravel.com/newsroom/fora-announces-centum-2026-honorees) — CONFIRMED |
+| Aug 2025 | Acquired AI startup Legends (undisclosed price). Founders joined as VP Product (Shiwarsky) and VP Strategic Initiatives (Daniel). | [Fora Newsroom](https://www.foratravel.com/newsroom/fora-acquires-ai-startup-legends) — CONFIRMED |
+| Apr 2025 | Closed $40M Series C led by Thrive Capital and Insight Partners. Total funding: $78.5M. | [Fortune](https://fortune.com/2025/04/24/fora-travel-thrive-series-c-60-million-recession/) — CONFIRMED |
+| 2025 | Surpassed $1B in cumulative bookings, 2M+ nights, 92 countries. | [Skift](https://skift.com/2025/04/24/fora-travel-raises-40-million-to-expand-offering-for-newbie-advisors/) — CONFIRMED |
 
 ---
 
-## Threat Score: 72/100
+## Threat Score: 81/100
 
 | Category | Score | Rationale |
 |----------|-------|-----------|
-| Funding (25 pts) | 20 | $78.5M Series C. Not D+ but substantial. |
-| Feature Parity (25 pts) | 12 | Has advisor tools + AI but NO trust attribution, NO peer referral, NO trust graph. |
-| Market Overlap (20 pts) | 14 | Luxury travel, yes. But advisor model, not peer referral. Overlap on operators, not on referrer type. |
-| Momentum (15 pts) | 13 | $1B+ bookings, growing fast, strong press. |
-| Velocity (15 pts) | 13 | Legends acquisition + Series C in same year. Shipping fast. |
+| Funding (25 pts) | 25 | Series D = D+ (25 pts). $138.5M total. Unicorn. 5+ year runway. |
+| Feature Parity (25 pts) | 14 | Via AI adds sophisticated advisor intelligence. Still NO trust attribution, NO peer referral, NO trust graph. Ceiling is 14 without those features. |
+| Market Overlap (20 pts) | 14 | Luxury travel, yes. 5,000+ operator relationships = operator channel competition. Advisor ≠ peer but operator overlap is real. |
+| Momentum (15 pts) | 14 | $3B bookings, TIME100, unicorn milestone, 15K advisors. Near-maximum. |
+| Velocity (15 pts) | 14 | Via beta, Canada, cruise vertical, UK expansion. 6+ major moves in 12 months. |
 
 ---
 
 ## LINX Counter-Strategy
 
-1. **Messaging:** "Fora trains strangers to sell you trips. LINX rewards the friend who already knows." Position trust authenticity vs. advisor credentialing.
-2. **Operator pitch:** "Why pay 15-20% through a Fora advisor when LINX referrers drive the same booking at 10%?" Quantify operator savings.
-3. **Monaco angle:** EYOS and yacht operators already know Fora doesn't serve their vertical. LINX owns yacht/expedition from day one.
-4. **Speed:** Fora's AI is advisor-workflow focused. LINX's trust graph is infrastructure -- harder to replicate, more defensible long-term.
-5. **Watch:** If Fora adds peer referral or lowers commission rates, threat score rises to 85+. Monitor quarterly.
+1. **Messaging hardened:** "Fora trains 15,000 strangers to sell you trips. LINX rewards the one friend who's actually been." At $1B valuation Fora's trust deficit is MORE credible as a LINX differentiator, not less. Scale = diluted trust.
+2. **Operator pitch recalibrated:** Fora's unicorn status means operators KNOW them. Lead with what Fora cannot do: "Your Fora advisors reach professionals. LINX reaches the person your client calls before they call an advisor."
+3. **Via AI exposes the gap:** Via surfaces peer-review-style content from other Fora advisors. This is Fora's closest move to a trust network. Counter: advisor reviews ≠ traveler trust. The peer who chartered the yacht IS the trust signal, not an advisor who read about it.
+4. **Don't fight the valuation:** Use Fora's unicorn as investor validation. "The model is proven at $1B. LINX owns the layer Fora cannot touch."
+5. **Cruise vertical watch:** Fora just expanded aggressively into cruises (70K+ bookings). If they add superyacht/expedition, overlap with LINX yacht vertical increases. Monitor Via product roadmap for any referral or peer feature.
+6. **CRITICAL WATCH (Nov 2026):** Via AI is moving toward surfacing peer recommendations inside advisor workflows. If this evolves into a traveler-facing trust network, threat score reaches 90+. Next milestone: does Via move from advisor-only to traveler-facing?
