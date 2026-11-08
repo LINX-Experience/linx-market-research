@@ -134,4 +134,45 @@
 
 ---
 
-*Updated: 2026-04-07. Next review: Monthly or after fundraise close.*
+## POST-EVENT INTELLIGENCE (Updated 2026-11-08)
+
+### Monaco Yacht Show 2026 — CONCLUDED
+- **Result:** 118 superyachts, 560 exhibitors, 30,678 visitors (Sep 23–26, 2026)
+- **LINX attendance:** No. Intelligence gap.
+- **2027 edition:** September 22–25, 2027 (confirmed). Submit exhibitor inquiry Mar 2027.
+
+### ATWS Quebec City 2026 — CONCLUDED
+- **Result:** 800 delegates, 63 countries, sold out (Sep 14–17, 2026)
+- **LINX attendance:** No.
+- **2027:** Location TBC. Watch ATTA calendar.
+
+### ILTM North America 2026 — CONCLUDED
+- **Result:** 560 luxury brands, 560 advisors, 69% first-timers, +7% YoY exhibitors (Sep 28–Oct 1, Baha Mar)
+- **LINX attendance:** No. Intelligence gap.
+- **2027 edition:** September 27–30, 2027 at Baha Mar (confirmed).
+
+### FLIBS 2026 — CONCLUDED
+- **Result:** 211 superyachts, $1.7B listings, charter share 28.44% (Oct 28–Nov 1)
+- **LINX attendance:** No.
+- **Key intel:** Charter inventory share contracting (28% vs 35% in 2025). Charter tightening = trust signal more valuable.
+- **2027:** Add RefitX (new official refit event) to monitor.
+
+### WTM London 2026 — CONCLUDED
+- **Result:** Buyers +50% YoY; luxury redefined as "exclusive access + personal growth" (Nov 3–5)
+- **LINX attendance:** No.
+- **Key intel:** 60% of travelers interested in luxury holidays (WTM Global Travel Report). AI booking demo live.
+
+---
+
+## TIER 1 URGENT — ILTM CANNES (22 DAYS)
+
+### ILTM Cannes 2026
+- **Dates:** November 30 – December 3, 2026 ← **22 DAYS FROM TODAY**
+- **Location:** Palais des Festivals, Cannes
+- **Scale:** 10,000+ attendees, 100,000+ pre-scheduled meetings (2025 figures)
+- **Action:** See full brief at `gtm-execution/trade-shows/iltm-cannes-2026.md`
+- **Status:** URGENT. Register as trade visitor NOW.
+
+---
+
+*Updated: 2026-11-08 by Market Pulse + GTM Agent.*
