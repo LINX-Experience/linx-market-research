@@ -1,8 +1,8 @@
 # Battle Card: Fora Travel
 
-> **Last Updated:** 2026-11-08 (third run)
-> **Threat Score:** 83/100 (↑ from 82)
-> **Trend:** CRITICAL — UNICORN + CONSUMER CAMPAIGN NOW LIVE
+> **Last Updated:** 2026-11-08 (fourth run, ~23:00 UTC)
+> **Threat Score:** 84/100 (↑ from 83)
+> **Trend:** CRITICAL — UNICORN + CONSUMER CAMPAIGN LIVE + CRUISE INTEGRATION + UK LAUNCH
 
 ---
 
@@ -60,6 +60,8 @@
 
 | Date | Move | Source |
 |------|------|--------|
+| Nov 4-6, 2026 | **Cruise integration LAUNCHED: 55-66 cruise lines searchable, 25-30+ directly bookable within Portal.** Automatic commission + booking logging. $600M+ in cruise division sales since 2024. Cruise is now Fora's second-largest booking category after hotels. Already CLIA Premier Agency Member (April 2026). LINX IMPLICATION: Fora now has fully operational expedition and luxury cruise vertical. Swan Hellenic, Explora Journeys, Lindblad — every expedition cruise operator LINX is targeting is now on Fora's platform with 15,000 advisors. Direct overlap with LINX expedition vertical. Threat score +1. | [TravelPulse](https://www.travelpulse.com/news/technology/fora-debuts-integrated-cruise-bookings-within-travel-advisor-platform) / [Travel Market Report](https://www.travelmarketreport.com/retail-strategies/articles/fora-integrates-cruise-search-into-advisor-platform) — CONFIRMED |
+| Oct 6, 2026 | **UK launch confirmed. ABTA + ATOL certified. £222/year membership.** Full operation (not just advisor outreach): booking platform live, UK-specific legal pages, compliance registered. First London chapter opened 2024. Hiring Senior Strategy & Ops Manager (£100-125K, posted Aug 2026). Third confirmed international market (US → Canada → UK). LINX IMPLICATION: Fora is building an international advisor network that now spans two of the world's highest-spending luxury travel markets. If LINX does not establish UK presence before Fora reaches critical mass there, the European referrer network opportunity narrows. | [Travel Daily News](https://www.traveldailynews.com/tour-operators/fora-travel-officially-launches-uk-operation/) / [Latte Luxury News](https://latteluxurynews.com/2026/10/06/fora-enters-the-united-kingdom/) — CONFIRMED |
 | Nov 5, 2026 | **First confirmed consumer-facing campaign: Black Friday + Travel Tuesday deals live.** Local chamber of commerce (Arcadia, CA) promotes Fora's upcoming Black Friday and Travel Tuesday travel deals, confirming Fora is marketing directly to travelers for deals — not just recruiting advisors. CMO hire (Aug 2026) has resulted in in-market consumer campaigns within 90 days. This confirms the consumer pivot is LIVE, not aspirational. LINX IMPLICATION: Fora is now in the traveler discovery and consideration space. Threat score +1. | [Arcadia Chamber of Commerce](https://arcadiacachamber.org/some-of-the-years-most-exciting-travel-deals-are-just-around-the-corner-with-fora-travel/) — CONFIRMED |
 | Aug 2026 | **First CMO hired: Alanna Gregory.** From Block (VP Consumer Marketing, Cash App + Afterpay). Remit: advisor AND traveler-facing marketing — creative, media, content, partnerships, comms. Hire follows $60M Series D and signals consumer brand ambition, not just advisor sales. Director of Consumer Insights role also open (confirmed job posting). Senior Growth Marketing Lead also posted. This is Fora building a consumer brand, not just a sales funnel. LINX IMPLICATION: Fora is moving toward traveler-facing marketing for the first time. Threat score +1. | [Fora Newsroom](https://www.foratravel.com/newsroom/fora-announces-alanna-gregory-first-cmo) / [Business Insider CMO Insider](https://www.businessinsider.com/fora-travel-first-cmo-alanna-gregory-2026-8) — CONFIRMED |
 | Jul 2026 | **UNICORN: $60M Series D at $1B valuation.** Led by Forerunner + Tactile. Total funding $138.5M. Funds allocated to Via AI expansion and new travel verticals (cruises, flights). 15,000+ advisors. $3B+ cumulative bookings. | [TechCrunch](https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/) / [Travel Weekly](https://www.travelweekly.com/Travel-News/Travel-Agent-Issues/Host-agency-Fora-gets-60-million-funding-round) — CONFIRMED |
@@ -73,15 +75,15 @@
 
 ---
 
-## Threat Score: 83/100 (↑ from 82)
+## Threat Score: 84/100 (↑ from 83)
 
 | Category | Score | Rationale |
 |----------|-------|-----------|
 | Funding (25 pts) | 25 | Series D = D+ (25 pts). $138.5M total. Unicorn. 5+ year runway. |
 | Feature Parity (25 pts) | 14 | Via AI adds sophisticated advisor intelligence. Still NO trust attribution, NO peer referral, NO trust graph. Ceiling is 14 without those features. |
-| Market Overlap (20 pts) | 16 | **UPGRADED +1.** Black Friday/Travel Tuesday consumer campaign confirmed live (Nov 5, 2026). CMO hire (Aug 2026) has resulted in consumer-facing deal marketing. Fora is now in the traveler discovery space, not just the advisor recruitment space. |
+| Market Overlap (20 pts) | 17 | **UPGRADED +1 (Nov 8 4th run).** Cruise integration launched (Nov 2026): expedition and luxury cruise operators now fully on-platform. Swan Hellenic, Explora, Lindblad-type operators accessible by 15K advisors. Direct overlap with LINX expedition vertical now confirmed. Prior: consumer campaign (Nov 5) already captured (+1). |
 | Momentum (15 pts) | 14 | $3B bookings, TIME100, unicorn, 15K advisors. Near-maximum. |
-| Velocity (15 pts) | 14 | CMO hire → consumer campaigns within 90 days. Director Consumer Insights posting. Via beta. Canada. 8+ major moves in 12 months. |
+| Velocity (15 pts) | 14 | CMO hire → consumer campaigns within 90 days. Cruise integration (Nov). UK launch (Oct). Director Consumer Insights posting. Via beta. Canada. 9+ major moves in 12 months. |
 
 ---
 
@@ -91,7 +93,7 @@
 2. **Operator pitch recalibrated:** Fora's unicorn status means operators KNOW them. Lead with what Fora cannot do: "Your Fora advisors reach professionals. LINX reaches the person your client calls before they call an advisor."
 3. **Via AI exposes the gap:** Via surfaces peer-review-style content from other Fora advisors. This is Fora's closest move to a trust network. Counter: advisor reviews ≠ traveler trust. The peer who chartered the yacht IS the trust signal, not an advisor who read about it.
 4. **Don't fight the valuation:** Use Fora's unicorn as investor validation. "The model is proven at $1B. LINX owns the layer Fora cannot touch."
-5. **Cruise vertical watch:** Fora just expanded aggressively into cruises (70K+ bookings). If they add superyacht/expedition, overlap with LINX yacht vertical increases. Monitor Via product roadmap for any referral or peer feature.
+5. **CRUISE VERTICAL NOW LIVE (Nov 8, 4th run):** Fora has launched integrated cruise booking. 55-66 lines searchable, 25-30+ directly bookable. $600M+ cruise sales since 2024. This is NOT a future threat — it is a present reality. Swan Hellenic, Lindblad-type expedition cruise operators are NOW accessible to 15,000 Fora advisors. LINX must differentiate on the peer trust layer, not availability: "Fora advisors can book the expedition. LINX tells you which expedition your most-trusted friend actually survived and loved." Commission arbitrage still holds: Fora advisors charge 10-20%; LINX charges 10%.
 6. **CRITICAL WATCH (Nov 2026):** Via AI is moving toward surfacing peer recommendations inside advisor workflows. If this evolves into a traveler-facing trust network, threat score reaches 90+. Next milestone: does Via move from advisor-only to traveler-facing?
 7. **CONFIRMED (Nov 8, 2026, 3rd run): Consumer campaign is LIVE.** Black Friday + Travel Tuesday deals marketed to consumers, not advisors, as of Nov 5, 2026. CMO (Aug 2026) → consumer campaigns (Nov 2026) = 90-day execution cycle. Fora is not "about to" market to consumers. They already are. LINX must have a consumer narrative that differentiates from deal-driven travel purchasing. Counter: "Fora runs deals. LINX runs on trust. UHNW travelers don't buy Antarctica on a Black Friday discount."
 8. **Watch Via AI + consumer overlap:** Via is still advisor-facing as of Nov 2026. But with CMO running consumer campaigns and consumer insights team building, the logical product evolution is Via features that travelers themselves access — not just advisors. If this happens, threat reaches 90+. Timeline: Q1-Q2 2027.

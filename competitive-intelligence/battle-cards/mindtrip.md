@@ -1,7 +1,7 @@
 # Battle Card: Mindtrip (acquired Thatch)
 
-> **Last Updated:** 2026-11-08 (third run)
-> **Threat Score:** 70/100 (↑ from 67)
+> **Last Updated:** 2026-11-08 (fourth run, ~23:00 UTC)
+> **Threat Score:** 70/100 (no change — Norway DMO is incremental, PTA already captured)
 > **Trend:** RISING — PERSISTENT AI MEMORY LAYER + DMO B2B CHANNEL OPENING
 
 ---
@@ -59,6 +59,7 @@
 
 | Date | Move | Source |
 |------|------|--------|
+| Oct 14, 2026 | **Norway by Locals partnership: 29 destination regions, 150+ municipalities, thousands of tourism businesses.** Norwegian Travel Cluster backing. Formalizes Mindtrip's first announced European partnership (June 2026 European expansion). Deeper than previously confirmed — this is a national-scale coverage deal, not a single destination. LINX IMPLICATION: Mindtrip is building a destination-web where their AI is the discovery entry point for entire national tourism networks. When a Norway-bound traveler finds expedition itineraries via "Norway by Locals," Mindtrip influences the discovery moment before any peer recommendation occurs. | [Mindtrip Press](https://mindtrip.ai/press/mindtrip-partners-with-norway-by-locals-to-power-ai-driven-discovery-across-norways-29-destination-regions) / [PhocusWire](https://www.phocuswire.com/news/technology/mindtrip-brings-ai-discovery-norwegian-destination-organizations) — CONFIRMED |
 | Nov 3-4, 2026 | **DMO partnership channel opens. Visit Santa Barbara + Visit Portland (Maine) both signed.** Mindtrip embeds AI trip planning into regional destination organization websites. B2B SaaS distribution play: DMOs pay Mindtrip to serve their traveler discovery flow. First confirmed B2B revenue channel beyond affiliate. If Mindtrip signs 10+ DMOs, they control the entry point to destination discovery globally before travelers encounter any advisor or peer recommendation. | [PR Newswire – Santa Barbara](https://www.prnewswire.com/news-releases/visit-santa-barbara-partners-with-mindtrip-to-personalize-travel-discovery-302927366.html) — CONFIRMED |
 | Sep 30, 2026 | **Personal Travel Assistant launched.** Persistent AI travel companion that learns about the TRAVELER, not just the trip. Maintains context and preferences across journeys. Background agents work between sessions (monitor hotel prices, check flight alternates, track travel dates). Beta results: 18,000+ travelers set up the assistant; 3x more likely to create a trip than non-PTA users. This is Mindtrip's most dangerous product: it creates relationship-like continuity across bookings — the same architectural territory LINX occupies via trust graph and traveler memory. | [PR Newswire](https://www.prnewswire.com/news-releases/mindtrip-launches-personal-travel-assistant-that-knows-the-traveler-not-just-the-trip-302893318.html) — CONFIRMED |
 | Q3 2026 | **Europe expansion.** Signed first contracts with Madeira Promotion Bureau and Norwegian Travel Cluster. Geographic expansion signals ambition beyond US market. No date confirmed; may overlap with Stays launch period. | [Mindtrip Press](https://mindtrip.ai/press/mindtrip-expands-to-europe) — CONFIRMED |
