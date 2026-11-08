@@ -1,6 +1,6 @@
 # LINX Research Engine — Status
 
-> **Last Updated:** 2026-11-07 (Competitive Intelligence cycle)
+> **Last Updated:** 2026-11-08 (Operator Scout cycle)
 > **Engine Version:** 1.0
 > **Agents Active:** 7
 
@@ -11,7 +11,7 @@
 | Pillar | Reports | Operators Profiled | Competitors Tracked | HOA Communities | Signals Flagged |
 |--------|---------|-------------------|--------------------|-----------------|----|
 | Competitive Intelligence | 5 | -- | 8 (1 defunct) + 3 new watch | -- | 18 |
-| Operator Scout | 5 | 33 | -- | -- | 20 |
+| Operator Scout | 6 | 57 | -- | -- | 22 |
 | Market Pulse | 5 | -- | -- | -- | 26 |
 | HOA Enrichment | 0 | -- | -- | 0 | 0 |
 | GTM Intelligence | 0 | -- | -- | -- | 0 |
@@ -34,6 +34,7 @@
 
 | Date | Time (UTC) | Agent | Status | Files Written | Key Finding |
 |------|-----------|-------|--------|---------------|-------------|
+| 2026-11-08 | ~21:00 | OPERATOR SCOUT | COMPLETE | 6 profiles (swan-hellenic, aqua-expeditions, polar-latitudes-expeditions, explora-journeys, clayoquot-wilderness-lodge, kamalaya) + queue updated + signals + status | Explora Journeys (83): highest mechanical ICP yet — MSC-owned, pays 18% to agents, 2028 target not 2026. Swan Hellenic (80): expedition cruise, Virtuoso since Jul 2024, paying 12–18%, best near-term expedition prospect. Kamalaya (73): founders exited Nov 2024, new ownership = opportunity window Q1–Q2 2027. 57/100 operators profiled. |
 | 2026-11-08 | ~17:00 | COMPETITIVE | COMPLETE | 2 battle cards updated + threat matrix + product-tracking/2026-11-08 (appended) + 3 new signals + status | Mindtrip PTA (67→70): persistent AI memory layer live with 18K+ users — closest architectural approach to LINX trust graph yet. DMO B2B channel opening (Santa Barbara + Portland ME). Fora consumer campaign live (82→83): Black Friday/Travel Tuesday in market 92 days after CMO hire. QR launch unconfirmed. Skift: 0 venture financings in Nov. LINX peer-trust moat still unbuilt by any competitor. |
 | 2026-11-08 | ~11:00 | COMPETITIVE | COMPLETE | 5 battle cards updated + 1 new battle card (quite-remarkable) + threat matrix + product-tracking/2026-11-08 (appended) + 3 new signals + status | Fora CMO hire (81→82): traveler-facing consumer pivot confirmed. Quite Remarkable $50M new entry at 52. Virtuoso 2027 Luxe Japan #1 (60→61). Ahoy Club Sales Division + US expansion (39→40). Mindtrip Europe expansion. No peer-referral competitor found. LINX moat intact. |
 | 2026-11-08 | ~05:00 | COMPETITIVE | COMPLETE | 4 battle cards updated + threat matrix + product-tracking/2026-11-08 + 3 new signals + status | Mindtrip Stays launched Jul 2026 (61→67). Virtuoso Nov +71% confirmed. WeRoad/Airbnb $58M added to watch. Ahoy Days launched (38→39). No peer-referral competitor found. LINX moat intact. |

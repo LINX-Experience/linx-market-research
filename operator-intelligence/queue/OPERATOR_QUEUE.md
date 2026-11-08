@@ -68,6 +68,12 @@ LINX Operator ICP Fit Score (0-100):
 | 43 | Mountain Travel Sobek | Adventure/Wellness | 71 | PROFILED | `profiles/mountain-travel-sobek.md` |
 | 44 | Scenic Eclipse | Expedition/Cruise | 62 | PROFILED | `profiles/scenic-eclipse.md` |
 | 45 | Seabourn Expedition | Expedition/Cruise | 58 | PROFILED | `profiles/seabourn-expedition.md` |
+| 46 | Swan Hellenic | Expedition/Cruise | **80** | PROFILED | `profiles/swan-hellenic.md` |
+| 47 | Aqua Expeditions | Expedition/Cruise | 72 | PROFILED | `profiles/aqua-expeditions.md` |
+| 48 | Polar Latitudes Expeditions | Expedition/Polar | 71 | PROFILED | `profiles/polar-latitudes-expeditions.md` |
+| 49 | Explora Journeys | Luxury Cruise | **83** | PROFILED | `profiles/explora-journeys.md` |
+| 50 | Clayoquot Wilderness Lodge | Luxury Lodge | 70 | PROFILED | `profiles/clayoquot-wilderness-lodge.md` |
+| 51 | Kamalaya | Wellness Retreat | 73 | PROFILED | `profiles/kamalaya.md` |
 
 ## Queue — Phase 1 (100 operators, 20 per vertical)
 
@@ -133,9 +139,9 @@ LINX Operator ICP Fit Score (0-100):
 | 9 | Hurtigruten Expeditions (HX) | MEDIUM | PROFILED (55) |
 | 10 | Seabourn Expedition | MEDIUM | PROFILED (58) |
 | 11 | Scenic Eclipse | MEDIUM | PROFILED (62) |
-| 12 | Swan Hellenic | MEDIUM | QUEUED |
-| 13 | Aqua Expeditions | MEDIUM | QUEUED |
-| 14 | Polar Latitudes | MEDIUM | QUEUED |
+| 12 | Swan Hellenic | MEDIUM | PROFILED (80) |
+| 13 | Aqua Expeditions | MEDIUM | PROFILED (72) |
+| 14 | Polar Latitudes | MEDIUM | PROFILED (71) |
 | 15 | One Ocean Expeditions | MEDIUM | QUEUED |
 | 16 | Heritage Expeditions | LOW | QUEUED |
 | 17 | Poseidon Expeditions | LOW | QUEUED |
@@ -150,10 +156,10 @@ LINX Operator ICP Fit Score (0-100):
 | 2 | Six Senses | HIGH | PROFILED (52) |
 | 3 | Nihi Sumba | HIGH | PROFILED (79) |
 | 4 | Song Saa | MEDIUM | PROFILED (72) |
-| 5 | Explora Journeys | MEDIUM | QUEUED |
+| 5 | Explora Journeys | MEDIUM | PROFILED (83) |
 | 6 | Soneva | MEDIUM | PROFILED (65) |
 | 7 | The Brando | MEDIUM | PROFILED (74) |
-| 8 | Clayoquot Wilderness Lodge | MEDIUM | QUEUED |
+| 8 | Clayoquot Wilderness Lodge | MEDIUM | PROFILED (70) |
 | 9 | Deplar Farm (Eleven) | MEDIUM | QUEUED |
 | 10 | Sheldon Chalet | MEDIUM | QUEUED |
 | 11 | Longitude 131 | MEDIUM | QUEUED |
@@ -178,7 +184,7 @@ LINX Operator ICP Fit Score (0-100):
 | 6 | REI Adventures (luxury tier) | MEDIUM | QUEUED |
 | 7 | Exodus Travels (premium) | MEDIUM | QUEUED |
 | 8 | Intrepid Travel (premium) | MEDIUM | QUEUED |
-| 9 | Kamalaya | MEDIUM | QUEUED |
+| 9 | Kamalaya | MEDIUM | PROFILED (73) |
 | 10 | SHA Wellness Clinic | MEDIUM | QUEUED |
 | 11 | Rancho La Puerta | MEDIUM | QUEUED |
 | 12 | Canyon Ranch | MEDIUM | QUEUED |
@@ -197,10 +203,10 @@ LINX Operator ICP Fit Score (0-100):
 |----------|-------------|---------------|----------|-----------|
 | Yacht Charter | 20 | 5 | 15 | 5 |
 | Safari/Lodge | 20 | 4 | 14 | 6 |
-| Expedition | 20 | 5 | 11 | 9 |
-| Luxury Resort | 20 | 3 | 6 | 14 |
-| Adventure/Wellness | 20 | 3 | 5 | 15 |
-| **TOTAL** | **100** | **20** | **51** | **49** |
+| Expedition | 20 | 5 | 14 | 6 |
+| Luxury Resort | 20 | 3 | 8 | 12 |
+| Adventure/Wellness | 20 | 3 | 6 | 14 |
+| **TOTAL** | **100** | **20** | **57** | **43** |
 
 ---
 
