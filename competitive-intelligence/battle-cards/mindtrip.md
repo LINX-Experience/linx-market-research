@@ -1,8 +1,8 @@
 # Battle Card: Mindtrip (acquired Thatch)
 
-> **Last Updated:** 2026-11-07
-> **Threat Score:** 61/100
-> **Trend:** RISING (end-to-end booking now live)
+> **Last Updated:** 2026-11-08
+> **Threat Score:** 67/100 ↑ from 61
+> **Trend:** RISING — FULL TRAVEL STACK LIVE (flights + hotels)
 
 ---
 
@@ -59,6 +59,7 @@
 
 | Date | Move | Source |
 |------|------|--------|
+| Jul 2026 | **Mindtrip Stays LAUNCHED. Full AI hotel search + booking now live.** Conversational interface: users describe accommodations in natural language (location, amenities, budget, room config, loyalty prefs). Real-time inventory aggregated from Expedia, Booking.com, Priceline, Nuitee, Agoda. Price-drop alerts. Best-fit/best-value optimization. Room-level research. Roadmap: loyalty-aware recommendations factoring status + credit card benefits. This closes Mindtrip's "hotels pending" gap — full travel stack (flights + hotels) now operational. | [Hotel Management](https://www.hotelmanagement.net/tech/mindtrip-launches-ai-powered-hotel-search-booking-platform) / [PR Newswire](https://www.prnewswire.com/news-releases/mindtrip-launches-mindtrip-stays-bringing-agentic-ai-to-hotel-search-and-booking-302826228.html) — CONFIRMED |
 | May 2026 | **Mindtrip Flights LAUNCHED.** End-to-end agentic booking: Sabre Mosaic APIs (real-time flight content) + PayPal (in-chat checkout + BNPL). First product with full transaction ownership. Hotels to follow. PayPal launch offer: 5,000 PayPal points on $250+ BNPL booking. | [AltexSoft](https://www.altexsoft.com/travel-industry-news/sabre-paypal-power-ai-bookings-flights-q2-2026/) / [Skift](https://skift.com/?p=801575) — CONFIRMED |
 | Feb 2026 | Sabre + PayPal + Mindtrip partnership announced; Q2 2026 launch scheduled. | [Hotel Management](https://www.hotelmanagement.net/tech/sabre-paypal-and-mindtrip-partner-launch-agentic-ai-travel-booking-platform) — CONFIRMED |
 | Mar 2026 | Capital One launches standalone Capital One Travel app (powered in-house from Hopper). Separate from Mindtrip but same investor. Live lounge locator, flight delay alerts. | [The Paypers](https://thepaypers.com) — LIKELY |
@@ -67,22 +68,23 @@
 
 ---
 
-## Threat Score: 61/100
+## Threat Score: 67/100 (↑ from 61 on 2026-11-07)
 
 | Category | Score | Rationale |
 |----------|-------|-----------|
 | Funding (25 pts) | 14 | $22.5M + Thatch's $83.6M. Well-capitalized. No new round found. |
-| Feature Parity (25 pts) | 14 | Flights live with full transaction ownership (Sabre+PayPal). Attribution now exists for flights. Hotels pending. No trust graph, no peer layer. +4 from last score. |
-| Market Overlap (20 pts) | 13 | Discovery + booking = more direct traveler overlap. +1 from last score. |
-| Momentum (15 pts) | 11 | 1M+ monthly visits. Product shipped. Capital One + United as strategic backers. |
-| Velocity (15 pts) | 9 | Major infrastructure launch (Sabre+PayPal). Capital One's parallel app = ecosystem building. |
+| Feature Parity (25 pts) | 18 | **UPGRADED: Mindtrip Stays launched Jul 2026. Full AI transaction ownership: flights + hotels.** Price-drop alerts + loyalty-aware recommendations on roadmap. Attribution now real for both travel categories. Still no trust graph, no peer referral layer. +4 from last score. |
+| Market Overlap (20 pts) | 15 | Full booking stack = direct competition with any platform that also books hotels. LINX's pre-seed stage means Mindtrip now reaches LINX's target travelers before LINX does. +2 from last score. |
+| Momentum (15 pts) | 11 | 1M+ monthly visits. Capital One Travel app now a separate luxury curation play (Aug 2026 Skift). Two ecosystem entries now live. |
+| Velocity (15 pts) | 9 | Flights (May) + Stays (Jul) = 2 major product launches in 90 days. Fastest shipping cadence of any competitor tracked. |
 
 ---
 
 ## LINX Counter-Strategy
 
-1. **Differentiation is clear:** "Mindtrip tells you where to go. LINX tells you who to trust." AI generates suggestions. Trust verifies them.
-2. **Complementary positioning:** Mindtrip could eventually become a discovery CHANNEL for LINX. AI surfaces options, LINX verifies them through trusted peers.
-3. **Capital One watch:** If Capital One deeply integrates Mindtrip into their travel portal, the distribution advantage is massive. Monitor quarterly.
-4. **Anti-AI messaging:** In investor conversations, use Mindtrip as the "AI-only" cautionary tale. "AI can plan a trip. It can't tell you if the operator is trustworthy."
+1. **Differentiation hardened with Stays launch:** "Mindtrip books the hotel. LINX tells you which one's worth $50K for the week." Full booking stack doesn't equal trust verification. Mindtrip's hotel recommendations come from aggregated inventory — not from someone who stayed there.
+2. **Capital One ecosystem watch — UPGRADED:** Capital One now operates a parallel luxury travel curation strategy (1,400+ Premier/Lifestyle Hotels, 500K vacation rentals, 50% booking volume growth YoY). Two ecosystem entries attacking luxury simultaneously: Mindtrip (AI planning) + Capital One Travel (card-linked loyalty). Combined these are 100M+ cardholder distribution. If Mindtrip gets integrated into Capital One's portal, threat score hits 75+. Monitor Capital One Travel Q4 announcements.
+3. **Loyalty-aware roadmap is the flag:** Mindtrip Stays includes loyalty-aware recommendations (status, memberships, credit card benefits) on roadmap. This is Mindtrip moving toward personalization that feels like peer recommendation. Watch this feature closely.
+4. **Anti-AI messaging holds:** "AI aggregates options by rate and amenity. LINX aggregates trust. The $200K expedition charter needs trust, not an Expedia feed."
 5. **Content vs. trust:** Thatch creators produce content. LINX referrers produce trust. These are fundamentally different value propositions.
+6. **CRITICAL WATCH (Nov 2026):** Mindtrip's velocity (Flights May → Stays July = 90-day launch cadence) is the fastest of any competitor. If they add a creator-review or peer-verification layer to Stays, threat score exceeds Virtuoso immediately.

@@ -1,8 +1,8 @@
 # Battle Card: Ahoy Club
 
-> **Last Updated:** 2026-04-06
-> **Threat Score:** 38/100
-> **Trend:** STABLE
+> **Last Updated:** 2026-11-08
+> **Threat Score:** 39/100 ↑ from 38
+> **Trend:** STABLE — expanding day charter vertical
 
 ---
 
@@ -62,6 +62,7 @@
 |------|------|--------|
 | 2023 | Acquired stake in Ray White Marine (brokerage). | [Ahoy Club About](https://ahoyclub.com/about) |
 | 2023 | Acquired Floatspace (digital charter platform) to serve catamaran-to-megayacht range. | [Ahoy Club About](https://ahoyclub.com/about) |
+| May 2026 | **Ahoy Days launched globally.** Instant day charter booking expanded to world's most sought-after destinations. Founded as separate venture by Malouf family. Extends Ahoy Club's core charter brand into day-trip market, capturing lower entry-point yacht users who may convert to full charters. | [eGlobalTravelMedia](https://eglobaltravelmedia.com.au/2026/05/31/ahoy-days-expands-global-instant-charter-bookings/) / [TravMedia](https://au.travmedia.com/showPRPreview/ahoy-days-launches-globally-bringing-instant-day-charter-booking-to-worlds-most-sought-after-destinations) — CONFIRMED |
 | 2026 | Active at global boat shows. Calendar events positioning yachts at F1, regattas, festivals. | [Ahoy Club Events](https://ahoyclub.com/whats-on) |
 
 ---

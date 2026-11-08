@@ -10,7 +10,7 @@
 
 | Pillar | Reports | Operators Profiled | Competitors Tracked | HOA Communities | Signals Flagged |
 |--------|---------|-------------------|--------------------|-----------------|----|
-| Competitive Intelligence | 2 | -- | 7 (1 defunct) | -- | 9 |
+| Competitive Intelligence | 3 | -- | 7 (1 defunct) + 2 new watch | -- | 12 |
 | Operator Scout | 5 | 33 | -- | -- | 20 |
 | Market Pulse | 5 | -- | -- | -- | 26 |
 | HOA Enrichment | 0 | -- | -- | 0 | 0 |
@@ -34,6 +34,7 @@
 
 | Date | Time (UTC) | Agent | Status | Files Written | Key Finding |
 |------|-----------|-------|--------|---------------|-------------|
+| 2026-11-08 | ~05:00 | COMPETITIVE | COMPLETE | 4 battle cards updated + threat matrix + product-tracking/2026-11-08 + 3 new signals + status | Mindtrip Stays launched Jul 2026 (61→67). Virtuoso Nov +71% confirmed. WeRoad/Airbnb $58M added to watch. Ahoy Days launched (38→39). No peer-referral competitor found. LINX moat intact. |
 | 2026-11-07 | 17:17 | COMPETITIVE | COMPLETE | 5 battle cards updated + threat matrix + product-tracking + signals + status | Fora UNICORN $1B (72→81). Mindtrip Flights live (52→61). Virtuoso AI launched (58→60). No new peer-referral competitor found. LINX moat intact; clock accelerating. |
 | 2026-04-11 | -- | FULL CYCLE | COMPLETE | 3 files (pulse + 6 profiles + digest) + queue + signals | Connections Barcelona TOMORROW. Fora+Away partnership. Lindblad $771M. Natural Selection 81, Ker & Downey 79. 33 operators profiled. |
 | 2026-04-10 | -- | FULL CYCLE | COMPLETE | 3 files (pulse + 6 profiles + digest) + queue + signals | Travel funding historic low. MSF Innovation Exchange. REV Ocean Q4 delivery. Nomad Tanzania 80/100. 27 operators profiled. |

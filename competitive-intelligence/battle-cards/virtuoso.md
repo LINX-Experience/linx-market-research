@@ -1,8 +1,8 @@
 # Battle Card: Virtuoso
 
-> **Last Updated:** 2026-11-07
-> **Threat Score:** 60/100
-> **Trend:** RISING (AI capability launched)
+> **Last Updated:** 2026-11-08
+> **Threat Score:** 60/100 (confirmed)
+> **Trend:** RISING — fall sales surge validates incumbent dominance
 
 ---
 
@@ -61,6 +61,7 @@
 | Date | Move | Source |
 |------|------|--------|
 | Aug 2026 | **Launched AI Collective Intelligence capability** at Travel Week Las Vegas. Not a named product — described as "an intelligence foundation" for future products. Advisors query network-wide knowledge, promotions analysis, training recommendations. Rolling out in waves via My Virtuoso. No cost to members currently. Built over 7 months. ISO 27001 certified. | [Travel Weekly](https://www.travelweekly.com/Travel-News/Travel-Agent-Issues/Virtuoso-unveils-new-AI-powered-intelligence-capability) / [PAX News](https://www.paxnews.com/news/technology/virtuoso-unveils-ai-powered-collective-intelligence-capability) — CONFIRMED |
+| Nov 2026 | **Fall is now Virtuoso's new peak season.** September sales +77% YoY. October +54% YoY. November +71% YoY. Full-year 2026 sales on pace for +20.8% over 2025. Wellness hotels +28% bookings, +44% revenue. Ultra-luxury experience requests +45%. City-maxxing (multicity itineraries, 50%+ cross-border) named as top trend. | [Caribbean Journal](https://www.caribjournal.com/2026/08/14/luxury-travel-fall/) / [Travel Weekly](https://www.travelweekly.com/World-of-Luxury/Virtuoso-unveils-luxury-travel-trends-Surging-sales-and-evolving-preferences) / [Hospitality Tribune](https://thehospitalitytribune.com/virtuoso-luxury-hotel-sales-surge-2026/) — CONFIRMED |
 | Aug 2026 | Travel Week 2026: 4,800 delegates, 105 countries. Sales pacing 21% ahead of full year 2025. Fall pacing 69% ahead of H1 2025. Festive 2026 pacing 56% higher. Wellness bookings up 32%. | [Journal des Palaces](https://www.journaldespalaces.com/en/article-79185-five-themes-maxxing-the-travel-industry-at-virtuoso-travel-week-2026-NL.html) — CONFIRMED (Virtuoso self-reported) |
 | 2026 | Unveiled Global Travel Outlook Through 2028 at annual Symposium (Seoul). Oxford Economics data: international forecasts revised lower while Virtuoso performance runs at 2x the broader leisure market pace. | [Travel Pulse](https://www.travelpulse.com/news/host/virtuoso-unveils-global-travel-outlook-through-2028) — CONFIRMED |
 | Nov 2025 | Published 2026 Luxe Report: "Spacious, Soulful and Spectacular." Top trends: crowd control, wellness, slow travel. 67% of advisors predict demand increase. | [PR Newswire](https://www.prnewswire.com/news-releases/the-2026-virtuoso-luxe-report-unveils-the-future-of-luxury-travel-spacious-soulful-and-spectacular-302618753.html) — CONFIRMED |
