@@ -1,8 +1,8 @@
 # Battle Card: Fora Travel
 
-> **Last Updated:** 2026-11-07
-> **Threat Score:** 81/100
-> **Trend:** CRITICAL — UNICORN STATUS ACHIEVED
+> **Last Updated:** 2026-11-08
+> **Threat Score:** 82/100 (↑ from 81)
+> **Trend:** CRITICAL — UNICORN + CONSUMER BRAND PIVOT
 
 ---
 
@@ -60,6 +60,7 @@
 
 | Date | Move | Source |
 |------|------|--------|
+| Aug 2026 | **First CMO hired: Alanna Gregory.** From Block (VP Consumer Marketing, Cash App + Afterpay). Remit: advisor AND traveler-facing marketing — creative, media, content, partnerships, comms. Hire follows $60M Series D and signals consumer brand ambition, not just advisor sales. Director of Consumer Insights role also open (confirmed job posting). Senior Growth Marketing Lead also posted. This is Fora building a consumer brand, not just a sales funnel. LINX IMPLICATION: Fora is moving toward traveler-facing marketing for the first time. Threat score +1. | [Fora Newsroom](https://www.foratravel.com/newsroom/fora-announces-alanna-gregory-first-cmo) / [Business Insider CMO Insider](https://www.businessinsider.com/fora-travel-first-cmo-alanna-gregory-2026-8) — CONFIRMED |
 | Jul 2026 | **UNICORN: $60M Series D at $1B valuation.** Led by Forerunner + Tactile. Total funding $138.5M. Funds allocated to Via AI expansion and new travel verticals (cruises, flights). 15,000+ advisors. $3B+ cumulative bookings. | [TechCrunch](https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/) / [Travel Weekly](https://www.travelweekly.com/Travel-News/Travel-Agent-Issues/Host-agency-Fora-gets-60-million-funding-round) — CONFIRMED |
 | Jun 2026 | Canada expansion: British Columbia. TICO registration. Full Canadian operation underway. | [PAX News](https://www.paxnews.com/news/host-agencies/fora-travel-expands-british-columbia) — CONFIRMED |
 | Apr 2026 | Named TIME100 Most Influential Companies 2026. | [Fora Newsroom](https://www.foratravel.com/newsroom/fora-named-time100-most-influential-company-2026) — CONFIRMED |
@@ -71,15 +72,15 @@
 
 ---
 
-## Threat Score: 81/100
+## Threat Score: 82/100 (↑ from 81)
 
 | Category | Score | Rationale |
 |----------|-------|-----------|
 | Funding (25 pts) | 25 | Series D = D+ (25 pts). $138.5M total. Unicorn. 5+ year runway. |
 | Feature Parity (25 pts) | 14 | Via AI adds sophisticated advisor intelligence. Still NO trust attribution, NO peer referral, NO trust graph. Ceiling is 14 without those features. |
-| Market Overlap (20 pts) | 14 | Luxury travel, yes. 5,000+ operator relationships = operator channel competition. Advisor ≠ peer but operator overlap is real. |
+| Market Overlap (20 pts) | 15 | **UPGRADED +1.** CMO hire with traveler-facing remit = Fora now investing in consumer brand, not just advisor recruitment. Operator overlap + nascent traveler brand overlap. |
 | Momentum (15 pts) | 14 | $3B bookings, TIME100, unicorn milestone, 15K advisors. Near-maximum. |
-| Velocity (15 pts) | 14 | Via beta, Canada, cruise vertical, UK expansion. 6+ major moves in 12 months. |
+| Velocity (15 pts) | 14 | CMO hire, Director Consumer Insights posting, Via beta, Canada, cruise vertical. 7+ major moves in 12 months. |
 
 ---
 
@@ -91,3 +92,4 @@
 4. **Don't fight the valuation:** Use Fora's unicorn as investor validation. "The model is proven at $1B. LINX owns the layer Fora cannot touch."
 5. **Cruise vertical watch:** Fora just expanded aggressively into cruises (70K+ bookings). If they add superyacht/expedition, overlap with LINX yacht vertical increases. Monitor Via product roadmap for any referral or peer feature.
 6. **CRITICAL WATCH (Nov 2026):** Via AI is moving toward surfacing peer recommendations inside advisor workflows. If this evolves into a traveler-facing trust network, threat score reaches 90+. Next milestone: does Via move from advisor-only to traveler-facing?
+7. **NEW WATCH (Nov 8, 2026): CMO hire signals consumer pivot.** Alanna Gregory's traveler-facing remit + Director of Consumer Insights posting = Fora is building a two-sided brand. If traveler discovery product ships before LINX has traction, Fora gains consumer mindshare in the LINX target demographic. Watch Q1 2027 for any consumer-facing marketing campaigns or traveler product announcements.

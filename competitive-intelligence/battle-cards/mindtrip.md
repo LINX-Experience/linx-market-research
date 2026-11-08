@@ -1,8 +1,8 @@
 # Battle Card: Mindtrip (acquired Thatch)
 
-> **Last Updated:** 2026-11-08
-> **Threat Score:** 67/100 ↑ from 61
-> **Trend:** RISING — FULL TRAVEL STACK LIVE (flights + hotels)
+> **Last Updated:** 2026-11-08 (second run)
+> **Threat Score:** 67/100 (unchanged)
+> **Trend:** RISING — FULL TRAVEL STACK LIVE + Europe expansion underway
 
 ---
 
@@ -59,6 +59,7 @@
 
 | Date | Move | Source |
 |------|------|--------|
+| Q3 2026 | **Europe expansion.** Signed first contracts with Madeira Promotion Bureau and Norwegian Travel Cluster. Geographic expansion signals ambition beyond US market. No date confirmed; may overlap with Stays launch period. | [Mindtrip Press](https://mindtrip.ai/press/mindtrip-expands-to-europe) — CONFIRMED |
 | Jul 2026 | **Mindtrip Stays LAUNCHED. Full AI hotel search + booking now live.** Conversational interface: users describe accommodations in natural language (location, amenities, budget, room config, loyalty prefs). Real-time inventory aggregated from Expedia, Booking.com, Priceline, Nuitee, Agoda. Price-drop alerts. Best-fit/best-value optimization. Room-level research. Roadmap: loyalty-aware recommendations factoring status + credit card benefits. This closes Mindtrip's "hotels pending" gap — full travel stack (flights + hotels) now operational. | [Hotel Management](https://www.hotelmanagement.net/tech/mindtrip-launches-ai-powered-hotel-search-booking-platform) / [PR Newswire](https://www.prnewswire.com/news-releases/mindtrip-launches-mindtrip-stays-bringing-agentic-ai-to-hotel-search-and-booking-302826228.html) — CONFIRMED |
 | May 2026 | **Mindtrip Flights LAUNCHED.** End-to-end agentic booking: Sabre Mosaic APIs (real-time flight content) + PayPal (in-chat checkout + BNPL). First product with full transaction ownership. Hotels to follow. PayPal launch offer: 5,000 PayPal points on $250+ BNPL booking. | [AltexSoft](https://www.altexsoft.com/travel-industry-news/sabre-paypal-power-ai-bookings-flights-q2-2026/) / [Skift](https://skift.com/?p=801575) — CONFIRMED |
 | Feb 2026 | Sabre + PayPal + Mindtrip partnership announced; Q2 2026 launch scheduled. | [Hotel Management](https://www.hotelmanagement.net/tech/sabre-paypal-and-mindtrip-partner-launch-agentic-ai-travel-booking-platform) — CONFIRMED |

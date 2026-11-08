@@ -1,8 +1,8 @@
 # Battle Card: Virtuoso
 
-> **Last Updated:** 2026-11-08
-> **Threat Score:** 60/100 (confirmed)
-> **Trend:** RISING — fall sales surge validates incumbent dominance
+> **Last Updated:** 2026-11-08 (second run)
+> **Threat Score:** 61/100 (↑ from 60)
+> **Trend:** RISING — 2027 Luxe Report signals Japan/expedition focus; multigenerational travel now #1 trend
 
 ---
 
@@ -64,19 +64,21 @@
 | Nov 2026 | **Fall is now Virtuoso's new peak season.** September sales +77% YoY. October +54% YoY. November +71% YoY. Full-year 2026 sales on pace for +20.8% over 2025. Wellness hotels +28% bookings, +44% revenue. Ultra-luxury experience requests +45%. City-maxxing (multicity itineraries, 50%+ cross-border) named as top trend. | [Caribbean Journal](https://www.caribjournal.com/2026/08/14/luxury-travel-fall/) / [Travel Weekly](https://www.travelweekly.com/World-of-Luxury/Virtuoso-unveils-luxury-travel-trends-Surging-sales-and-evolving-preferences) / [Hospitality Tribune](https://thehospitalitytribune.com/virtuoso-luxury-hotel-sales-surge-2026/) — CONFIRMED |
 | Aug 2026 | Travel Week 2026: 4,800 delegates, 105 countries. Sales pacing 21% ahead of full year 2025. Fall pacing 69% ahead of H1 2025. Festive 2026 pacing 56% higher. Wellness bookings up 32%. | [Journal des Palaces](https://www.journaldespalaces.com/en/article-79185-five-themes-maxxing-the-travel-industry-at-virtuoso-travel-week-2026-NL.html) — CONFIRMED (Virtuoso self-reported) |
 | 2026 | Unveiled Global Travel Outlook Through 2028 at annual Symposium (Seoul). Oxford Economics data: international forecasts revised lower while Virtuoso performance runs at 2x the broader leisure market pace. | [Travel Pulse](https://www.travelpulse.com/news/host/virtuoso-unveils-global-travel-outlook-through-2028) — CONFIRMED |
+| Oct 2026 | **2027 Luxe Report published.** Japan takes #1 destination for the first time in report history (overtakes Italy). China debuts as #1 destination on the rise. Top trends: (1) Multigenerational family travel (overtook expedition cruising as #1 trend), (2) "Fancy-flation" (luxury price sensitivity rising even among UHNW), (3) "Gen XYZ-peditions" (cross-generational adventure travel). Value for money + safety rising in importance. Virtuoso forecasts 2027 spending stronger than 2026. Oxford Economics data underpins global forecasts through 2028. | [TradeArabia](https://www.tradearabia.com/News/488991/Japan-tops-luxury-travel-demand-as-Virtuoso-forecasts-stronger-spending-in-2027) / [Journal des Palaces](https://www.journaldespalaces.com/en/pressrelease-79917-the-2027-virtuoso-luxe-report-united-kingdom-ireland-japan-claims-the-no-1-spot-as-fancy-flation-and-gen-xyz-peditions-define-the-year-ahead.html) — CONFIRMED |
+| Sep 2026 | HBX Group announced global expansion of its partnership with Virtuoso. HBX is a major B2B travel distribution platform (formerly Hotelbeds). Expands Virtuoso operator content reach globally. | [Travel Daily News](https://www.traveldailynews.com) — CONFIRMED |
 | Nov 2025 | Published 2026 Luxe Report: "Spacious, Soulful and Spectacular." Top trends: crowd control, wellness, slow travel. 67% of advisors predict demand increase. | [PR Newswire](https://www.prnewswire.com/news-releases/the-2026-virtuoso-luxe-report-unveils-the-future-of-luxury-travel-spacious-soulful-and-spectacular-302618753.html) — CONFIRMED |
 
 ---
 
-## Threat Score: 60/100
+## Threat Score: 61/100 (↑ from 60)
 
 | Category | Score | Rationale |
 |----------|-------|-----------|
 | Funding (25 pts) | 10 | Self-funded, profitable. No VC war chest but no burn rate. Net positive: infinite runway. |
-| Feature Parity (25 pts) | 10 | AI Collective Intelligence = first real tech move. Still no trust graph, attribution, or peer-to-peer layer. +2 from last score. |
-| Market Overlap (20 pts) | 16 | Deep operator relationships unchanged. Advisors could still block LINX operator adoption. Highest overlap on this dimension. |
+| Feature Parity (25 pts) | 10 | AI Collective Intelligence = first real tech move. Still no trust graph, attribution, or peer-to-peer layer. No change. |
+| Market Overlap (20 pts) | 17 | **UPGRADED +1.** Japan #1 + "Gen XYZ-peditions" = Virtuoso advisor base is now explicitly focused on expedition and adventure — LINX's core verticals. HBX global expansion widens operator content distribution. |
 | Momentum (15 pts) | 13 | 20%+ growth year. 4,800 Travel Week delegates. $35B+ base + accelerating. Not single-digit anymore. |
-| Velocity (15 pts) | 11 | First AI capability is a real move. Tech Summit spotlight on advisor innovation. Not legacy-only anymore. |
+| Velocity (15 pts) | 11 | 2027 Luxe Report, HBX partnership, AI rollout. Same velocity as prior. |
 
 ---
 

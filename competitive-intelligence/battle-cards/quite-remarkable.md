@@ -1,0 +1,85 @@
+# Battle Card: Quite Remarkable (One Planet Group)
+
+> **Last Updated:** 2026-11-08
+> **Threat Score:** 52/100 (NEW ENTRY)
+> **Trend:** EMERGING — $50M AI-native luxury platform, Fall 2026 launch
+
+---
+
+## Overview
+
+| Field | Detail |
+|-------|--------|
+| Founded | 2026 (platform announced Apr 2026) |
+| Parent | One Planet Group (PE/technology/media firm) |
+| HQ | USA (exact city unconfirmed) |
+| Investment | $50M initial commitment from One Planet Group (corporate investment, not VC round) |
+| CEO | Payam Zamani (Founder + CEO, One Planet Group) |
+| Launch | Fall 2026 (planned; status as of Nov 8, 2026 — unconfirmed live) |
+| Model | AI-native luxury travel and lifestyle membership platform combining stays, experiences, and wellness. Beyond traditional "membership-only" framing. Community impact component: portion of revenues to affordable housing/local programs. |
+
+---
+
+## What They Do vs LINX
+
+| Quite Remarkable | LINX |
+|------------------|------|
+| AI-native platform for luxury stays + experiences + wellness | Trust-based peer referral network for luxury travel |
+| Corporate-backed membership platform | Invite-only peer-to-peer referral system |
+| AI curates and recommends based on preferences | Trust graph curates based on verified peer experience |
+| $50M capitalized from parent PE firm | $500K pre-seed raise |
+| Platform plays across all luxury travel categories | Verticals: yachts, expeditions, safaris, lodges, wellness |
+| Community impact built into revenue model | No stated impact model |
+
+---
+
+## Strengths
+
+1. **$50M war chest from day one.** Not a startup trying to find product-market fit — a capitalized platform with resources to execute.
+2. **AI-native architecture.** Not retrofitting AI — built from ground up. Faster iteration than legacy players.
+3. **Category breadth.** Stays + experiences + wellness = same TAM as LINX but broader product surface.
+4. **PE parent.** One Planet Group has technology and media assets that could accelerate distribution, content, and brand. Not just cash.
+5. **Community/impact angle.** Revenue sharing with local communities = differentiated positioning in UHNW market where impact is rising priority.
+6. **Fall 2026 launch timing.** If launched, they're live in market simultaneously with LINX's pre-seed stage.
+
+---
+
+## Weaknesses LINX Exploits
+
+1. **No trust verification.** An AI-native platform that recommends by preference still cannot verify who to trust. LINX's trust graph is architecturally distinct.
+2. **No peer-to-peer model.** Platform model (AI → traveler) vs. LINX's network model (peer → traveler). Different trust architecture.
+3. **Corporate, not community.** Payam Zamani's PE background = polished execution, not community-first DNA. Trust networks require authenticity, not scale.
+4. **Unknown operator relationships.** No reported partnerships with operators. LINX's operator-first GTM is ahead.
+5. **No referral attribution.** No commission-split mechanism for referrers. LINX is the only platform tracking and rewarding peer recommendation.
+6. **Impact-washing risk.** Community revenue-sharing claims need verification. If hollow, it undermines credibility with UHNW market that sees through positioning.
+
+---
+
+## Recent Moves (Date-Stamped)
+
+| Date | Move | Source |
+|------|------|--------|
+| Apr 23, 2026 | **$50M investment announced.** One Planet Group commits $50M initial investment to launch Quite Remarkable. AI-native luxury platform combining stays, experiences, wellness. Planned launch: Fall 2026. CEO Payam Zamani positions as "beyond traditional membership model." | [PR Newswire](https://www.prnewswire.com/news-releases/one-planet-group-announces-50m-in-initial-investment-to-launch-quite-remarkable-a-new-standard-for-luxury-travel-and-experiences-302741986.html) / [AltexSoft](https://www.altexsoft.com/travel-industry-news/one-planet-bets-50-million-on-ai-luxury-travel/) — CONFIRMED |
+
+---
+
+## Threat Score: 52/100
+
+| Category | Score | Rationale |
+|----------|-------|-----------|
+| Funding (25 pts) | 20 | $50M corporate investment = effectively Series C-equivalent capitalization. Not a VC round but war chest is real. PE backing = patient capital. |
+| Feature Parity (25 pts) | 11 | AI-native platform implies attribution + recommendation. No confirmed referral layer, no trust graph. Ceiling is 11 without those features. |
+| Market Overlap (20 pts) | 12 | Luxury stays + experiences + wellness = direct LINX TAM overlap. But model is platform (AI-centric) not peer network. |
+| Momentum (15 pts) | 5 | Pre-launch. No users, no bookings, no advisors confirmed. Zero tracked momentum. Watch for Fall 2026 launch announcements. |
+| Velocity (15 pts) | 4 | One announcement. No follow-up products, no partnerships announced. Velocity unknown until post-launch. |
+
+---
+
+## LINX Counter-Strategy
+
+1. **Timing advantage:** LINX must have operator relationships live before Quite Remarkable launches. If QR launches with luxury operator catalog and AI recommendations, they enter LINX's target market with $50M and AI credibility.
+2. **Trust moat:** "Quite Remarkable uses AI to recommend. LINX uses the trust of people who've actually been there." Different recommendation architectures. AI can't verify experience.
+3. **Peer layer absent:** No referral model = no network effects. LINX's trust graph compounds. QR's AI is a feature, not a flywheel.
+4. **Watch community angle:** If QR adds social/peer reviews to its impact model ("travelers verify each other's recommendations"), threat score rises significantly.
+5. **Monitor launch:** Fall 2026 = now. Confirm whether platform is actually live, what the product looks like, and whether any referral/peer layer exists.
+6. **Investor framing:** Use QR's $50M as market validation. "Even a PE firm is spending $50M to enter this space. LINX is building the trust layer that $50M can't buy."
