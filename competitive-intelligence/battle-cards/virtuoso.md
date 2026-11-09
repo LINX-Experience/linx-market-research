@@ -1,8 +1,8 @@
 # Battle Card: Virtuoso
 
-> **Last Updated:** 2026-11-08 (second run)
-> **Threat Score:** 61/100 (↑ from 60)
-> **Trend:** RISING — 2027 Luxe Report signals Japan/expedition focus; multigenerational travel now #1 trend
+> **Last Updated:** 2026-11-09 (seventh run, ~12:23 UTC)
+> **Threat Score:** 62/100 (↑ from 61)
+> **Trend:** RISING — New CDO with cruise mandate + AI Collective rollout signals structural growth push
 
 ---
 
@@ -60,6 +60,7 @@
 
 | Date | Move | Source |
 |------|------|--------|
+| Oct 7, 2026 | **NEW CDO ROLE CREATED: Thatcher Brown named Chief Development Officer** — newly created position, effective immediately. Reports to President Brad Bourland alongside CCO Tristan Dowell. Mandate: develop new markets, categories, partnerships and capabilities for long-term growth. Brown trajectory: SVP Global Products (Nov 2024) → Special Advisor to COO for Cruise (Feb 2026) → CDO (Oct 2026). Background: founding CEO of Crescent Seas (ultra-luxury residential cruise). **Signal: Virtuoso is structurally committing to market expansion beyond existing advisor model. Cruise background of CDO = direct overlap with LINX expedition cruise vertical.** | [TravelPulse](https://www.travelpulse.com/news/host/virtuoso-appoints-thatcher-brown-as-chief-development-officer) / [Travel Market Report](https://www.travelmarketreport.com/retail-strategies/articles/virtuoso-names-thatcher-brown-chief-development-officer) — CONFIRMED |
 | Aug 2026 | **Launched AI Collective Intelligence capability** at Travel Week Las Vegas. Not a named product — described as "an intelligence foundation" for future products. Advisors query network-wide knowledge, promotions analysis, training recommendations. Rolling out in waves via My Virtuoso. No cost to members currently. Built over 7 months. ISO 27001 certified. | [Travel Weekly](https://www.travelweekly.com/Travel-News/Travel-Agent-Issues/Virtuoso-unveils-new-AI-powered-intelligence-capability) / [PAX News](https://www.paxnews.com/news/technology/virtuoso-unveils-ai-powered-collective-intelligence-capability) — CONFIRMED |
 | Nov 2026 | **Fall is now Virtuoso's new peak season.** September sales +77% YoY. October +54% YoY. November +71% YoY. Full-year 2026 sales on pace for +20.8% over 2025. Wellness hotels +28% bookings, +44% revenue. Ultra-luxury experience requests +45%. City-maxxing (multicity itineraries, 50%+ cross-border) named as top trend. | [Caribbean Journal](https://www.caribjournal.com/2026/08/14/luxury-travel-fall/) / [Travel Weekly](https://www.travelweekly.com/World-of-Luxury/Virtuoso-unveils-luxury-travel-trends-Surging-sales-and-evolving-preferences) / [Hospitality Tribune](https://thehospitalitytribune.com/virtuoso-luxury-hotel-sales-surge-2026/) — CONFIRMED |
 | Aug 2026 | Travel Week 2026: 4,800 delegates, 105 countries. Sales pacing 21% ahead of full year 2025. Fall pacing 69% ahead of H1 2025. Festive 2026 pacing 56% higher. Wellness bookings up 32%. | [Journal des Palaces](https://www.journaldespalaces.com/en/article-79185-five-themes-maxxing-the-travel-industry-at-virtuoso-travel-week-2026-NL.html) — CONFIRMED (Virtuoso self-reported) |
@@ -70,15 +71,15 @@
 
 ---
 
-## Threat Score: 61/100 (↑ from 60)
+## Threat Score: 62/100 (↑ from 61)
 
 | Category | Score | Rationale |
 |----------|-------|-----------|
 | Funding (25 pts) | 10 | Self-funded, profitable. No VC war chest but no burn rate. Net positive: infinite runway. |
 | Feature Parity (25 pts) | 10 | AI Collective Intelligence = first real tech move. Still no trust graph, attribution, or peer-to-peer layer. No change. |
-| Market Overlap (20 pts) | 17 | **UPGRADED +1.** Japan #1 + "Gen XYZ-peditions" = Virtuoso advisor base is now explicitly focused on expedition and adventure — LINX's core verticals. HBX global expansion widens operator content distribution. |
-| Momentum (15 pts) | 13 | 20%+ growth year. 4,800 Travel Week delegates. $35B+ base + accelerating. Not single-digit anymore. |
-| Velocity (15 pts) | 11 | 2027 Luxe Report, HBX partnership, AI rollout. Same velocity as prior. |
+| Market Overlap (20 pts) | 17 | Japan #1 + "Gen XYZ-peditions" = Virtuoso advisor base now explicitly focused on expedition and adventure — LINX's core verticals. HBX global expansion widens operator content distribution. |
+| Momentum (15 pts) | 13 | 20%+ growth year. 4,800 Travel Week delegates. $35B+ base + accelerating. |
+| Velocity (15 pts) | 12 | **UPGRADED +1.** New CDO role (Oct 2026) with cruise expertise and new-market mandate signals structural growth push. AI rollout + 2027 Luxe Report + HBX partnership + CDO hire = four major org/product moves in 3 months. |
 
 ---
 
