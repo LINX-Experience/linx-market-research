@@ -1,6 +1,6 @@
 # LINX Research Engine — Status
 
-> **Last Updated:** 2026-11-09 (Competitive Intelligence, 7th run ~12:23 UTC)
+> **Last Updated:** 2026-11-09 (Market Pulse + GTM Intelligence, ~13:30 UTC)
 > **Engine Version:** 1.0
 > **Agents Active:** 7
 
@@ -12,9 +12,9 @@
 |--------|---------|-------------------|--------------------|-----------------|----|
 | Competitive Intelligence | 9 | -- | 8 (1 defunct) + 4 new watch | -- | 29 |
 | Operator Scout | 6 | 57 | -- | -- | 22 |
-| Market Pulse | 5 | -- | -- | -- | 26 |
+| Market Pulse | 6 | -- | -- | -- | 33 |
 | HOA Enrichment | 0 | -- | -- | 0 | 0 |
-| GTM Intelligence | 0 | -- | -- | -- | 0 |
+| GTM Intelligence | 1 | -- | -- | -- | 7 |
 | Weekly Synthesis | 0 | -- | -- | -- | 0 |
 | Executive Digest | 5 | -- | -- | -- | -- |
 
@@ -34,6 +34,7 @@
 
 | Date | Time (UTC) | Agent | Status | Files Written | Key Finding |
 |------|-----------|-------|--------|---------------|-------------|
+| 2026-11-09 | ~13:30 | MARKET PULSE + GTM | COMPLETE | market-pulse/daily/2026-11-09.md + gtm-execution/trade-shows/iltm-cannes-2026.md + gtm-execution/pricing-intel/2026-11-09-commission-benchmarks.md + event-calendar.md updated + 7 new signals + status | **CRITICAL: ILTM Cannes 21 days away — exhibitor deadline passed but delegate/media access possible. FLIBS concluded: 211 superyachts, +24% YoY. MYS 2026 concluded: €4.5B fleet. WTM "access not excess" validates LINX thesis. UHNW 83% travel intent confirmed. AI is NOT the trust layer. Commission arbitrage benchmarked: 5–15 points across all verticals. Japan gap: zero operators profiled.** |
 | 2026-11-09 | ~12:23 | COMPETITIVE | COMPLETE | Virtuoso battle card updated + threat matrix + 2 new signals + Eterniti emerging threats entry + status | **Virtuoso CDO hire: Thatcher Brown named Chief Development Officer (Oct 7, 2026). Mandate: new markets, categories, partnerships. Background: founding CEO Crescent Seas (ultra-luxury residential cruise). Virtuoso score: 61 → 62.** Eterniti €30M raise (March 2026) added as new Emerging Threat — luxury villa management play, NOT peer-trust. Fora Via AI confirmed still advisor-facing. No new Mindtrip, QR, Ahoy news. Fora 84, Mindtrip 73, Virtuoso 62, QR 52, Ahoy Club 40. LINX peer-trust moat intact. |
 | 2026-11-09 | ~06:21 | COMPETITIVE | COMPLETE | Threat matrix updated (Globe7 + Voyagier emerging threats enriched) + 3 new signals + status | **Globe7 confirmed: London debut Nov 18, 2025, invite-only advisory model (advisory ≠ peer-trust), hotel partnerships Accor/Mandarin Oriental/Rosewood/Dorchester/Peninsula confirmed. No referral layer. No funding disclosed.** Voyagier TEDCO $250K Maryland state VC confirmed (~$1.5M total pre-seed, seed round still pending). PhocusWire Hot 25 2026: zero LINX-adjacent peer-trust luxury startups in cohort (most authoritative benchmark). No score changes: Fora 84, Mindtrip 73, Virtuoso 61, QR 52, Ahoy Club 40. Via AI still advisor-facing. LINX peer-trust moat intact. |
 | 2026-11-09 | ~05:00 | COMPETITIVE | COMPLETE | 2 battle cards updated + threat matrix + product-tracking/2026-11-09 + 2 new signals + status | **CRITICAL: Mindtrip DMO network severely undercounted. Actual count: 20+ confirmed partners incl. Brand USA (US federal tourism, multilingual, international inbound UHNW).** Score: 70→73. Funnel position explicit: Mindtrip (discovery) → LINX (peer trust) → operator (booking). Quite Remarkable launch delay confirmed: Fall 2026 target passed, no live platform found. LINX AI-native window extends. Fora: Via AI still advisor-facing, no new product launches. No new $5M+ luxury startup funding. LINX peer-trust moat intact. |

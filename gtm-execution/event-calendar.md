@@ -103,35 +103,42 @@
 
 ## CALENDAR SUMMARY (Chronological)
 
-| Month | Event | Location | LINX Tier |
-|-------|-------|----------|-----------|
-| Jun 5-7 | **Monaco Grand Prix** | Monaco | **TIER 1** |
-| Jun 15-19 | Cannes Lions | Cannes | TIER 3 |
-| Aug TBC | Virtuoso Travel Week | Las Vegas | TIER 3 |
-| Sep 14-17 | ATWS | Quebec City | TIER 2 |
-| Sep 23-26 | **Monaco Yacht Show** | Monaco | **TIER 1** |
-| Sep 28 - Oct 1 | **ILTM North America** | Bahamas | **TIER 1** |
-| Oct 28 - Nov 1 | FLIBS | Fort Lauderdale | TIER 2 |
-| Nov 3-5 | WTM London | London | TIER 2 |
-| Nov 30 - Dec 3 | **ILTM Cannes** | Cannes | **TIER 1** |
+### 2026 Events
+
+| Month | Event | Location | LINX Tier | Status |
+|-------|-------|----------|-----------|--------|
+| Jun 5-7 | **Monaco Grand Prix** | Monaco | **TIER 1** | PASSED |
+| Jun 15-19 | Cannes Lions | Cannes | TIER 3 | PASSED |
+| Aug TBC | Virtuoso Travel Week | Las Vegas | TIER 3 | PASSED |
+| Sep 14-17 | ATWS | Quebec City | TIER 2 | PASSED |
+| Sep 23-26 | **Monaco Yacht Show** | Monaco | **TIER 1** | PASSED — 118 yachts, €4.5B fleet, 30,678 visitors |
+| Sep 28 - Oct 1 | **ILTM North America** | Bahamas | **TIER 1** | PASSED |
+| Oct 28 - Nov 1 | FLIBS | Fort Lauderdale | TIER 2 | PASSED — 211 superyachts, $1.7B listings |
+| Nov 3-5 | WTM London | London | TIER 2 | PASSED — "access not excess," 60% premium demand |
+| Nov 10-11 | International Cruise Summit | Madrid, Spain | TIER 2 | TOMORROW — Luxury cruise vs. yacht convergence theme |
+| **Nov 30 - Dec 3** | **ILTM Cannes** | **Cannes** | **TIER 1** | **21 DAYS — REGISTER NOW** |
+
+### 2027 Events (Plan Now)
+
+| Month | Event | Location | LINX Tier | Notes |
+|-------|-------|----------|-----------|-------|
+| Sep 22-25 | **Monaco Yacht Show 2027** | Monaco | **TIER 1** | Confirmed dates. Plan exhibitor/delegate presence. |
+| Nov TBC | ILTM Cannes 2027 | Cannes | **TIER 1** | Budget for exhibitor booth (register by Jul 2027) |
+| Nov TBC | WTM London 2027 | London | TIER 2 | Trade visitor (free) |
+| Nov TBC | FLIBS 2027 | Fort Lauderdale | TIER 2 | Yacht vertical intelligence |
 
 ---
 
-## BUDGET ESTIMATE (Tier 1 + Tier 2 attendance)
+## BUDGET ESTIMATE (Remaining 2026 + Key 2027)
 
-| Event | Registration | Travel + Hotel | Total Est. |
-|-------|-------------|----------------|------------|
-| Monaco GP | $5K-15K (VIP access) | $3K-5K | $8K-20K |
-| Monaco Yacht Show | $100-500 | $3K-5K | $3K-5.5K |
-| ILTM NA | $10K-20K | $3K-5K | $13K-25K |
-| FLIBS | $55-500 | $1K-2K | $1K-2.5K |
-| ATWS | $1.5K-2.5K | $2K-3K | $3.5K-5.5K |
-| WTM | Free | $2K-3K | $2K-3K |
-| ILTM Cannes | $8K-15K | $3K-5K | $11K-20K |
-| **TOTAL** | | | **$42K-82K** |
+| Event | Registration | Travel + Hotel | Total Est. | Priority |
+|-------|-------------|----------------|------------|---------|
+| ILTM Cannes 2026 | $0–21K (late/delegate/media) | $3K-5K | $3K-26K | **CRITICAL** |
+| MYS 2027 | EUR 100–500 (delegate) | $3K-5K | $3K-5.5K | Plan now |
+| ILTM Cannes 2027 | EUR 8K–21K+ (exhibitor) | $3K-5K | $11K-26K | Budget Q2 2027 |
 
-> Note: Monaco GP and ILTM Cannes are non-negotiable. Others conditional on fundraise timing.
+> Note: ILTM Cannes 2026 is the only remaining must-attend event in 2026. Exhibitor deadline passed; pursue delegate/media access immediately.
 
 ---
 
-*Updated: 2026-04-07. Next review: Monthly or after fundraise close.*
+*Updated: 2026-11-09 (Market Pulse + GTM Agent). Added 2026 event outcomes + 2027 planning.*
