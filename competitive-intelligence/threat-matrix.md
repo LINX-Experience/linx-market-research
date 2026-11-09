@@ -1,8 +1,8 @@
 # Competitive Threat Matrix
 
-> Updated: 2026-11-08 (fourth run, ~23:00 UTC)
+> Updated: 2026-11-09 (fifth run, ~05:00 UTC)
 > Scored 0-100 using standardized framework.
-> Previous run: 2026-11-08 (third run, 17:00 UTC)
+> Previous run: 2026-11-08 (fourth run, ~23:00 UTC)
 
 ## Scoring Framework
 
@@ -20,9 +20,9 @@ Competitive Threat Score (0-100):
 | Rank | Competitor | Score | Delta | Trend | Key Threat | Last Updated |
 |------|-----------|-------|-------|-------|------------|-------------|
 | 1 | **Fora Travel** | **84** | +12 | CRITICAL — UNICORN + CONSUMER CAMPAIGN + CRUISE + UK | $138.5M total / $1B valuation. **Cruise integration LIVE (Nov 4-6): 55-66 lines, $600M+ cruise sales. Expedition cruise (Swan Hellenic, Lindblad-type) now fully on-platform. UK launched Oct 2026 (ABTA/ATOL). Consumer campaign live. 9+ moves in 12 months.** | 2026-11-08 (4th) |
-| 2 | **Mindtrip (+ Thatch)** | **70** | +9 | RISING — PERSISTENT AI MEMORY + DMO NETWORK FORMING | **Personal Travel Assistant (Sep 30, 2026): 18K+ beta users, persistent memory, background agents.** DMO network: Madeira, Norwegian Travel Cluster (29 destination regions, 150+ municipalities, Oct 14), Santa Barbara, Portland ME. 4 confirmed DMOs. Fastest-rising competitor. Score unchanged this run. | 2026-11-08 (4th — no change) |
+| 2 | **Mindtrip (+ Thatch)** | **73** | +12 | CRITICAL RISING — DMO NATIONAL INFRASTRUCTURE BUILT; 20+ PARTNERS INCL. BRAND USA | **CRITICAL RECOUNT (Nov 9): DMO network is 20+ confirmed partners, not 4.** Brand USA (US federal tourism body, multilingual, targeting international UHNW inbound), Meet Boston WhatsApp integration, SF Travel, San Diego, Meet Minneapolis, New Orleans, Maine, Norway (29 regions), Santa Barbara, Portland ME, Grand County, Heber Valley, Puerto Rico, South Dakota, Plano, Santa Fe, Northshore, SF Peninsula, Redding, Madeira. PTA: 18K+ beta users, persistent memory. Full booking: flights + hotels. Fastest-rising threat: 52 (Apr) → 73 (Nov 9). | 2026-11-09 (5th) |
 | 3 | **Virtuoso** | **61** | +1 | RISING | AI Collective Intelligence in rollout. 2027 Luxe Report: Japan #1, multigenerational travel #1 trend, "Gen XYZ-peditions" = expedition focus. HBX global expansion. Fall sales: Sep +77%, Oct +54%, Nov +71% YoY. | 2026-11-08 (2nd) |
-| 4 | **Quite Remarkable** | **52** | NEW | EMERGING — OVERDUE ⚠️ | One Planet Group $50M. Fall 2026 launch target. **As of Nov 8, no confirmed launch found.** Fall 2026 target has passed without confirmation — platform may be delayed. CEO Payam Zamani. No referral layer confirmed. If still unlaunched, LINX window extended. Check quiteremarkable.com directly. | 2026-11-08 (4th — overdue flag) |
+| 4 | **Quite Remarkable** | **52** | UNCHANGED | DELAYED ⚠️ — LAUNCH WINDOW PASSED | One Planet Group $50M. Fall 2026 target **PASSED WITHOUT CONFIRMED LAUNCH (Nov 9).** No live platform, no operator partnerships, no product announcements found in multiple searches. CEO Payam Zamani. No referral layer confirmed. LINX window extended. Momentum score remains 5/15 (pre-launch). | 2026-11-09 (5th — launch delay confirmed) |
 | 5 | **Inspirato / Exclusive Collective** | **45** | 0 | RESTRUCTURING | 24K HNW members. James Henderson Interim CEO (search ongoing). Integration focus maintains speed window. | 2026-11-07 |
 | 6 | **Booking Holdings (luxury)** | **40** | 0 | STABLE | $165B market cap, 40% luxury growth. But OTA DNA, no referral, minimal overlap. | 2026-04-06 |
 | 7 | **Ahoy Club** | **40** | +2 | EXPANDING | **Yacht Sales Division launched** (full lifecycle: charter→management→sales). Benjamin Croucher hired as US Partner Director. Qantas loyalty integration. Ahoy Days global (May 2026). | 2026-11-08 (2nd) |
@@ -45,24 +45,24 @@ Competitive Threat Score (0-100):
 | Voyagier (new) | AI luxury travel startup, $1.25M at $7M valuation, seed round pending Nov 2026. Social platform connecting discovery + booking + luxury advisors. Baltimore. | Small now but architecture is LINX-adjacent: social layer + booking + advisors. If seed closes and product launches with community features, re-score immediately. |
 | Globe7 (new) | Debuted in London 2026. Ultra-luxury + AI + crypto + instant payments. | Early-stage. If they add referral/peer layer, could compete directly in UHNW segment. Watch for funding. |
 
-## Strategic Summary — Nov 8, 2026 (Fourth Run, ~23:00 UTC)
+## Strategic Summary — Nov 9, 2026 (Fifth Run, ~05:00 UTC)
 
 **No competitor has built trust-verified peer referral attribution for luxury travel. This moat remains intact.**
 
-### What Changed (Nov 8 3rd run → 4th run)
-- **Fora**: UPGRADED to 84 (+1). Cruise integration LAUNCHED (Nov 4-6): 55-66 cruise lines, 25-30+ directly bookable, $600M+ cruise division sales. Second-largest booking category after hotels. **Expedition cruise overlap with LINX is now a present reality, not a future risk.** UK launched Oct 6: ABTA/ATOL certified, £222/year, third international market (US → Canada → UK).
-- **Mindtrip**: UNCHANGED at 70. Norway by Locals partnership confirmed (Oct 14) — 29 destination regions, 150+ municipalities. Mindtrip's DMO network is now 4 confirmed destinations (Madeira, Norwegian Travel Cluster, Santa Barbara, Portland ME). Incremental expansion of a channel already captured.
-- **Quite Remarkable**: OVERDUE FLAG added. Fall 2026 launch target has passed. No confirmed live platform found as of Nov 8. LINX window extended if delayed.
-- **Others**: Virtuoso World Cup data: luxury hotel ADR +53.5%, sales +119.6% — Virtuoso's operators dominating high-demand events. No score change.
+### What Changed (Nov 8 4th run → Nov 9 5th run)
+- **Mindtrip**: UPGRADED to 73 (+3). **CRITICAL RECOUNT**: DMO network is 20+ confirmed partners — severely undercounted at "4" in prior runs. Brand USA (US federal tourism body, multilingual, international UHNW inbound) is the keystone partnership. Full confirmed list: Brand USA, Discover Puerto Rico, New Orleans, Grand County, Maine, Heber Valley, San Francisco Travel, San Francisco Peninsula, Visit Redding, San Diego, Meet Minneapolis, Meet Boston (WhatsApp), South Dakota, Norway (29 regions), Santa Barbara, Portland ME, Madeira, Santa Fe, Plano, Northshore. This is not "building the discovery moment" — this is built. Mindtrip controls the first digital touchpoint for international UHNW travelers considering US + European destinations. Market overlap score: 16 → 18. Momentum: 11 → 12. Total: 70 → 73.
+- **Quite Remarkable**: UNCHANGED at 52 but LAUNCH DELAY CONFIRMED. Fall 2026 target has passed without a confirmed live platform, operator relationships, or public announcement of go-live. LINX's window in AI-native luxury is extended.
+- **Fora**: UNCHANGED at 84. Via AI remains advisor-facing only as of Nov 9. No new product launches found. LinkedIn Top Startups 2026 (Oct 14). Score unchanged.
+- **Others**: Exclusive Collective/Inspirato interim CEO (Henderson) still in place, permanent hire not yet announced. Ahoy Club no new November news. No new $5M+ luxury travel startup funding found in November 2026.
 
 ### What Hasn't Changed (LINX's enduring advantages)
-- Fora's cruise integration gives advisors access to expedition cruise lines. It does not give them peer-verified trust. "15,000 Fora advisors can book Swan Hellenic. LINX tells you which of your friends has actually done it and lived to recommend it."
-- Mindtrip's DMO network builds the discovery moment. LINX owns the peer recommendation moment. These are sequential, not competing — LINX must win the trust verification step downstream of Mindtrip's discovery.
-- Via AI is still advisor-facing only. No traveler-facing features confirmed as of Nov 8.
-- No new $5M+ luxury travel startup funding found in November 2026. Dry funding environment continues.
+- Fora's advisor network + booking platform does not include peer-verified trust. "15,000 Fora advisors can book Swan Hellenic. LINX tells you which of your friends has actually done it and lived to recommend it."
+- Mindtrip's DMO network — now confirmed at national scale — controls DISCOVERY. LINX owns PEER RECOMMENDATION. These are sequential steps, not competing functions. Mindtrip's traveler learns about Norway; LINX's traveler asks their most-trusted friend which expedition outfitter to use in Norway. LINX must own step two. Brand USA is upstream, not competing.
+- Via AI is still advisor-facing only. No traveler-facing consumer features confirmed as of Nov 9. Consumer campaign (Black Friday deals) is live but deal-driven, not trust-driven.
+- No new $5M+ luxury travel startup funding found in November 2026. Dry funding environment continues. Voyagier (social + booking + advisors model) pre-seed but sub-$2M — below threat threshold, still on watch.
 
-### Headline Assessment (Nov 8, 4th Run)
-**Fora's cruise integration is the signal of this run.** Expedition cruise (Swan Hellenic, Lindblad-equivalent operators) is now accessible to 15,000 Fora advisors. This is direct vertical overlap with LINX's expedition strategy — not projected future overlap. Combined with UK launch, consumer campaign, and Via AI beta, Fora is now executing on 4 fronts simultaneously. At 84/100, Fora's ceiling before peer-referral features is approximately 86-87. The gap between Fora's current capabilities and LINX's core moat is narrowing on distribution and brand, but structurally intact on trust infrastructure. LINX must activate an expedition cruise operator before Fora builds first-mover relationships in that vertical.
+### Headline Assessment (Nov 9, 5th Run)
+**Mindtrip's DMO network is the signal of this run.** The "4 confirmed DMOs" tracked in prior runs was a severe undercount. Confirmed at 20+, including Brand USA — the official US tourism marketing body — which embeds Mindtrip's AI in a multilingual, international-facing platform targeting Japanese, Korean, and French-speaking UHNW travelers. This is not Mindtrip building a distribution moat; it is a moat that is built. Combined with the Personal Travel Assistant (18K+ users, persistent memory) and full booking stack (flights + hotels), Mindtrip now controls the discovery → planning → booking arc. LINX must dominate the peer recommendation → trust verification arc. The funnel is now: Mindtrip (discovery + planning) → LINX (peer trust + attribution) → operator booking. These are complementary — but LINX must ship before Mindtrip adds a social/peer layer that collapses the distinction. Score trajectory: 52 → 73 in 7 months. If peer layer added in Q1 2027: 80+.
 
 ---
 
