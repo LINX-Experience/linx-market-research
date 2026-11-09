@@ -96,7 +96,7 @@ LINX Operator ICP Fit Score (0-100):
 | 14 | SuperYachtFan (charter) | LOW | QUEUED |
 | 15 | Ocean Independence | MEDIUM | PROFILED (70) |
 | 16 | Denison Yachting | MEDIUM | PROFILED (72) |
-| 17 | Worth Avenue Yachts | MEDIUM | QUEUED |
+| 17 | Worth Avenue Yachts | MEDIUM | PROFILED (73) |
 | 18 | TWW Yachts | LOW | QUEUED |
 | 19 | Bluewater Yachting | LOW | QUEUED |
 | 20 | 4Yacht | LOW | QUEUED |
@@ -142,7 +142,7 @@ LINX Operator ICP Fit Score (0-100):
 | 12 | Swan Hellenic | MEDIUM | PROFILED (80) |
 | 13 | Aqua Expeditions | MEDIUM | PROFILED (72) |
 | 14 | Polar Latitudes | MEDIUM | PROFILED (71) |
-| 15 | One Ocean Expeditions | MEDIUM | QUEUED |
+| 15 | One Ocean Expeditions | MEDIUM | PROFILED (15 — DEFUNCT) |
 | 16 | Heritage Expeditions | LOW | QUEUED |
 | 17 | Poseidon Expeditions | LOW | QUEUED |
 | 18 | Oceanwide Expeditions | LOW | QUEUED |
@@ -160,8 +160,8 @@ LINX Operator ICP Fit Score (0-100):
 | 6 | Soneva | MEDIUM | PROFILED (65) |
 | 7 | The Brando | MEDIUM | PROFILED (74) |
 | 8 | Clayoquot Wilderness Lodge | MEDIUM | PROFILED (70) |
-| 9 | Deplar Farm (Eleven) | MEDIUM | QUEUED |
-| 10 | Sheldon Chalet | MEDIUM | QUEUED |
+| 9 | Deplar Farm (Eleven) | MEDIUM | PROFILED (80) |
+| 10 | Sheldon Chalet | MEDIUM | PROFILED (72) |
 | 11 | Longitude 131 | MEDIUM | QUEUED |
 | 12 | Sal Salis | MEDIUM | QUEUED |
 | 13 | Three Camel Lodge | LOW | QUEUED |
@@ -185,11 +185,11 @@ LINX Operator ICP Fit Score (0-100):
 | 7 | Exodus Travels (premium) | MEDIUM | QUEUED |
 | 8 | Intrepid Travel (premium) | MEDIUM | QUEUED |
 | 9 | Kamalaya | MEDIUM | PROFILED (73) |
-| 10 | SHA Wellness Clinic | MEDIUM | QUEUED |
+| 10 | SHA Wellness Clinic | MEDIUM | PROFILED (76) |
 | 11 | Rancho La Puerta | MEDIUM | QUEUED |
 | 12 | Canyon Ranch | MEDIUM | QUEUED |
-| 13 | COMO Shambhala | MEDIUM | QUEUED |
-| 14 | Chiva-Som | MEDIUM | QUEUED |
+| 13 | COMO Shambhala | MEDIUM | PROFILED (74) |
+| 14 | Chiva-Som | MEDIUM | PROFILED (77) |
 | 15 | Wilderness Scotland | LOW | QUEUED |
 | 16 | Much Better Adventures | LOW | QUEUED |
 | 17 | 50 Degrees North | LOW | QUEUED |
@@ -201,12 +201,12 @@ LINX Operator ICP Fit Score (0-100):
 
 | Vertical | Total Queued | HIGH Priority | Profiled | Remaining |
 |----------|-------------|---------------|----------|-----------|
-| Yacht Charter | 20 | 5 | 15 | 5 |
+| Yacht Charter | 20 | 5 | 16 | 4 |
 | Safari/Lodge | 20 | 4 | 14 | 6 |
-| Expedition | 20 | 5 | 14 | 6 |
-| Luxury Resort | 20 | 3 | 8 | 12 |
-| Adventure/Wellness | 20 | 3 | 6 | 14 |
-| **TOTAL** | **100** | **20** | **57** | **43** |
+| Expedition | 20 | 5 | 15 | 5 |
+| Luxury Resort | 20 | 3 | 10 | 10 |
+| Adventure/Wellness | 20 | 3 | 9 | 11 |
+| **TOTAL** | **100** | **20** | **64** | **36** |
 
 ---
 
