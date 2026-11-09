@@ -1,6 +1,6 @@
 # LINX Research Engine — Status
 
-> **Last Updated:** 2026-11-09 (Competitive Intelligence, 5th run ~05:00 UTC)
+> **Last Updated:** 2026-11-09 (Competitive Intelligence, 6th run ~06:21 UTC)
 > **Engine Version:** 1.0
 > **Agents Active:** 7
 
@@ -10,7 +10,7 @@
 
 | Pillar | Reports | Operators Profiled | Competitors Tracked | HOA Communities | Signals Flagged |
 |--------|---------|-------------------|--------------------|-----------------|----|
-| Competitive Intelligence | 7 | -- | 8 (1 defunct) + 3 new watch | -- | 24 |
+| Competitive Intelligence | 8 | -- | 8 (1 defunct) + 3 new watch | -- | 27 |
 | Operator Scout | 6 | 57 | -- | -- | 22 |
 | Market Pulse | 5 | -- | -- | -- | 26 |
 | HOA Enrichment | 0 | -- | -- | 0 | 0 |
@@ -34,6 +34,7 @@
 
 | Date | Time (UTC) | Agent | Status | Files Written | Key Finding |
 |------|-----------|-------|--------|---------------|-------------|
+| 2026-11-09 | ~06:21 | COMPETITIVE | COMPLETE | Threat matrix updated (Globe7 + Voyagier emerging threats enriched) + 3 new signals + status | **Globe7 confirmed: London debut Nov 18, 2025, invite-only advisory model (advisory ≠ peer-trust), hotel partnerships Accor/Mandarin Oriental/Rosewood/Dorchester/Peninsula confirmed. No referral layer. No funding disclosed.** Voyagier TEDCO $250K Maryland state VC confirmed (~$1.5M total pre-seed, seed round still pending). PhocusWire Hot 25 2026: zero LINX-adjacent peer-trust luxury startups in cohort (most authoritative benchmark). No score changes: Fora 84, Mindtrip 73, Virtuoso 61, QR 52, Ahoy Club 40. Via AI still advisor-facing. LINX peer-trust moat intact. |
 | 2026-11-09 | ~05:00 | COMPETITIVE | COMPLETE | 2 battle cards updated + threat matrix + product-tracking/2026-11-09 + 2 new signals + status | **CRITICAL: Mindtrip DMO network severely undercounted. Actual count: 20+ confirmed partners incl. Brand USA (US federal tourism, multilingual, international inbound UHNW).** Score: 70→73. Funnel position explicit: Mindtrip (discovery) → LINX (peer trust) → operator (booking). Quite Remarkable launch delay confirmed: Fall 2026 target passed, no live platform found. LINX AI-native window extends. Fora: Via AI still advisor-facing, no new product launches. No new $5M+ luxury startup funding. LINX peer-trust moat intact. |
 | 2026-11-08 | ~23:00 | COMPETITIVE | COMPLETE | 2 battle cards updated + threat matrix + 4 new signals + status | Fora cruise integration LIVE (83→84): expedition cruise operators (Swan Hellenic, Explora-type) now on-platform for 15K advisors — present reality, not future risk. Fora UK launched Oct 6 (ABTA/ATOL). Mindtrip DMO network at 4 (Norway 29 regions added). Quite Remarkable: Fall 2026 target passed with no confirmed launch — flag as overdue. No new $5M+ luxury startup funding found. LINX peer-trust moat intact. |
 | 2026-11-08 | ~21:00 | OPERATOR SCOUT | COMPLETE | 6 profiles (swan-hellenic, aqua-expeditions, polar-latitudes-expeditions, explora-journeys, clayoquot-wilderness-lodge, kamalaya) + queue updated + signals + status | Explora Journeys (83): highest mechanical ICP yet — MSC-owned, pays 18% to agents, 2028 target not 2026. Swan Hellenic (80): expedition cruise, Virtuoso since Jul 2024, paying 12–18%, best near-term expedition prospect. Kamalaya (73): founders exited Nov 2024, new ownership = opportunity window Q1–Q2 2027. 57/100 operators profiled. |

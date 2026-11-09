@@ -1,8 +1,8 @@
 # Competitive Threat Matrix
 
-> Updated: 2026-11-09 (fifth run, ~05:00 UTC)
+> Updated: 2026-11-09 (sixth run, ~06:21 UTC)
 > Scored 0-100 using standardized framework.
-> Previous run: 2026-11-08 (fourth run, ~23:00 UTC)
+> Previous run: 2026-11-09 (fifth run, ~05:00 UTC)
 
 ## Scoring Framework
 
@@ -42,10 +42,25 @@ Competitive Threat Score (0-100):
 | WeRoad (Airbnb-backed) | May 2026: $58M Series C led by Airbnb. 300K+ travelers, 4K group leaders. US expansion (Austin first). 2026 US launch underway. | Airbnb investing in social/group travel signals platform-level interest in peer-informed travel. WeRoad is mass-market and group-focused (not luxury peer-referral), but Airbnb's backing is a thesis signal worth tracking. |
 | Exclusive Collective (post-integration) | Three luxury brands merging. 24K HNW members, CEO search ongoing. | If they add peer referral to 24K HNW member base, immediate threat. Integration window still open. |
 | Fora + Legends AI | Acquired Aug 2025. Via AI still advisor-facing as of Nov 2026. First CMO hired Aug 2026 (traveler-facing scope). | Via + consumer CMO = dual-track threat. If Via moves traveler-facing OR consumer brand catches luxury traveler attention: threat hits 90+. Watch Q1 2027. |
-| Voyagier (new) | AI luxury travel startup, $1.25M at $7M valuation, seed round pending Nov 2026. Social platform connecting discovery + booking + luxury advisors. Baltimore. | Small now but architecture is LINX-adjacent: social layer + booking + advisors. If seed closes and product launches with community features, re-score immediately. |
-| Globe7 (new) | Debuted in London 2026. Ultra-luxury + AI + crypto + instant payments. | Early-stage. If they add referral/peer layer, could compete directly in UHNW segment. Watch for funding. |
+| Voyagier | AI luxury travel startup. Total pre-seed: $1.25M (company-reported at $7M valuation) + $250K TEDCO Maryland state VC (confirmed via GAP Fund). ~$1.5M total. Seed round targeting late 2026 — **no close confirmed as of Nov 9.** Social platform connecting AI discovery + booking + luxury advisors. Founded 2025, Baltimore. CONFIDENCE: CONFIRMED (CityBizList, Technical.ly). | Architecture is most LINX-adjacent of any startup tracked: social layer + booking + luxury advisors. TEDCO validation adds credibility. Still sub-$2M: insufficient capital to build LINX's trust verification layer. Re-score threshold: $3M+ seed close with peer-trust features in roadmap. Updated: 2026-11-09 (6th). |
+| Globe7 | **London debut Nov 18, 2025 (confirmed).** Invite-only ultra-luxury AI advisory. Founder Daria Guristrimba. AI preference engine + crypto payments (Coinspaid). Hotel partnerships confirmed within 6 months: Accor, Mandarin Oriental, Rosewood, Dorchester Collection, The Peninsula Hotels. Founder self-reports "tens of millions" revenue in year 1 (self-reported, unaudited). No disclosed funding rounds found. | Advisory model (like Fora), NOT peer-trust. No referral layer confirmed. If funded and adds social/peer layer, re-score to 40+. Currently low active threat to LINX. Updated: 2026-11-09 (6th). |
 
-## Strategic Summary — Nov 9, 2026 (Fifth Run, ~05:00 UTC)
+## Strategic Summary — Nov 9, 2026 (Sixth Run, ~06:21 UTC)
+
+**No competitor has built trust-verified peer referral attribution for luxury travel. Moat intact.**
+
+### What Changed (Nov 9 5th run → Nov 9 6th run)
+- **Globe7**: DETAILS CONFIRMED. London debut Nov 18, 2025 (not 2026 as previously listed). Invite-only advisory, NOT peer-trust. Hotel partnerships confirmed: Accor, Mandarin Oriental, Rosewood, Dorchester Collection, Peninsula Hotels — all secured within 6 months of launch. Founder self-reports "tens of millions" revenue in year 1 (unaudited). No disclosed funding rounds found. Advisory model only. No score assigned; Emerging Threats entry updated with verified details.
+- **Voyagier**: TEDCO $250K Maryland state VC investment confirmed (CityBizList source). Total pre-seed now ~$1.5M. Seed round targeting late 2026 — still not closed as of Nov 9. Architecture remains most LINX-adjacent of any startup tracked. Seed close ($3M+ range) is the re-score trigger.
+- **PhocusWire Hot 25 Travel Startups 2026** (published Nov 2025, most authoritative annual benchmark): 60%+ AI-native cohort. BizTrip AI (corporate), Kaiban (airline), Buzz (Asian payments), Arcube (airline ancillary), Hospy (short-term rentals). **Zero LINX-adjacent luxury peer-referral plays.** The peer-trust distribution gap is uncontested in the broader startup ecosystem.
+- **All main competitor scores unchanged**: Fora 84, Mindtrip 73, Virtuoso 61, Quite Remarkable 52, Ahoy Club 40. Via AI still advisor-facing only. Quite Remarkable launch still unconfirmed. No new $5M+ luxury travel startup funding found.
+
+### Headline Assessment (Nov 9, 6th Run)
+**Quiet run — no score changes. LINX moat intact.** Globe7 is an advisory-with-AI model (like Fora) operating in LINX's UHNW segment, but without any peer-trust architecture — advisory models compete on curation, LINX competes on trust. Voyagier's TEDCO validation nudges it closer to seed close, which is the LINX-watch trigger, but it remains sub-$2M and pre-seed. The PhocusWire Hot 25 2026 — the most authoritative annual travel startup benchmark — contains zero direct LINX competitors. The peer-trust distribution gap in luxury travel remains uncontested. The 6-hour cadence of this competitive monitor confirms: no sudden competitive move has emerged in the gap since the 5th run.
+
+---
+
+## Prior Strategic Summary — Nov 9, 2026 (Fifth Run, ~05:00 UTC)
 
 **No competitor has built trust-verified peer referral attribution for luxury travel. This moat remains intact.**
 
