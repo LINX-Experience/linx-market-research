@@ -1,8 +1,8 @@
 # Competitive Threat Matrix
 
-> Updated: 2026-11-09 (seventh run, ~12:23 UTC)
+> Updated: 2026-11-09 (eighth run, ~16:00 UTC)
 > Scored 0-100 using standardized framework.
-> Previous run: 2026-11-09 (sixth run, ~06:21 UTC)
+> Previous run: 2026-11-09 (seventh run, ~12:23 UTC)
 
 ## Scoring Framework
 
@@ -46,7 +46,26 @@ Competitive Threat Score (0-100):
 | Globe7 | **London debut Nov 18, 2025 (confirmed).** Invite-only ultra-luxury AI advisory. Founder Daria Guristrimba. AI preference engine + crypto payments (Coinspaid). Hotel partnerships confirmed within 6 months: Accor, Mandarin Oriental, Rosewood, Dorchester Collection, The Peninsula Hotels. Founder self-reports "tens of millions" revenue in year 1 (self-reported, unaudited). No disclosed funding rounds found. | Advisory model (like Fora), NOT peer-trust. No referral layer confirmed. If funded and adds social/peer layer, re-score to 40+. Currently low active threat to LINX. Updated: 2026-11-09 (6th). |
 | Eterniti | **€30M raise (March 2026) from Limestone Capital. Total raised €50M. Luxury villa and ski chalet operator: Bo House + Verbier Exclusive + Emerald Stay. 800+ villas, 25 destinations.** Revenue claimed to have doubled for 4 years (self-reported). Expanding globally including long-haul. CONFIDENCE: CONFIRMED (PhocusWire, TravelMole). | Pure inventory/property management play — NOT peer-trust, NOT referral. Direct LINX competition: low. The "anti-Airbnb" framing is media-generated. No booking commission or referral architecture. Watch only: if Eterniti adds a trusted peer recommendation layer for villa selection, territory overlap increases. Low priority. Updated: 2026-11-09 (7th). |
 
-## Strategic Summary — Nov 9, 2026 (Seventh Run, ~12:23 UTC)
+## Strategic Summary — Nov 9, 2026 (Eighth Run, ~16:00 UTC)
+
+**No competitor has built trust-verified peer referral attribution for luxury travel. Moat intact.**
+
+### What Changed (Nov 9 7th run → Nov 9 8th run)
+- **ALL SCORES UNCHANGED.** Fora: 84. Mindtrip: 73. Virtuoso: 62. Quite Remarkable: 52. Ahoy Club: 40. Inspirato/EC: 45. Booking Holdings: 40.
+- **Fora Via AI**: CONFIRMED still advisor-facing only as of this run. No traveler-facing consumer launch found. Plans for flights, cruise, and enterprise modules stated but not live. LINX's window in the trust layer remains open through at least Q1 2027.
+- **Virtuoso 2027 Luxe Report detail additions**: 7 of top 10 global destinations will be in Europe. 59% of advisors (3,100+, 50+ countries) predict modest spending increase. All-inclusive tops ultra-luxury wish list. "Fancy-flation" (price sensitivity) rising among UHNW. Value for money + safety growing in importance. Oxford Economics confirms Virtuoso runs at 2x broader leisure market pace through 2028.
+- **Capital One Travel + Mindtrip**: NOT integrated. Capital One curates 1,400+ luxury hotels independently. The 100M+ cardholder distribution threat to LINX remains potential, not current.
+- **Quite Remarkable**: Still unlaunched as of this run. Fall 2026 target has now passed definitively. Score holds at 52.
+- **Ahoy Club**: No November 2026 news found.
+- **No new $5M+ luxury peer-trust startup funding**: Dry environment continues. Peer-trust moat uncontested.
+- **New watch entry added**: Unravel (London, $7M Series A Apr 2025) — creator/video commerce + travel. NOT peer-trust. Not a direct LINX competitor. Added to context watch.
+
+### Headline Assessment (Nov 9, 8th Run)
+**Stability run.** No score changes. The key intelligence this run: (1) Fora Via AI is confirmed advisor-only — the traveler-facing launch has NOT happened, confirming LINX's window stays open; (2) Virtuoso's 2027 Luxe Report detail reveals "fancy-flation" (rising price sensitivity even among UHNW) validates LINX's 10% commission pitch to European operators who will face record Virtuoso advisor volume in 2027; (3) Capital One and Mindtrip remain independent — the 100M-cardholder distribution threat is still speculative. The peer-trust moat is intact. The window that matters is the period before Fora's Via moves traveler-facing or Mindtrip adds a social/peer annotation layer — both of which could happen Q1–Q2 2027.
+
+---
+
+## Prior Strategic Summary — Nov 9, 2026 (Seventh Run, ~12:23 UTC)
 
 **No competitor has built trust-verified peer referral attribution for luxury travel. Moat intact.**
 

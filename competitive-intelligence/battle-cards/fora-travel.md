@@ -1,7 +1,7 @@
 # Battle Card: Fora Travel
 
-> **Last Updated:** 2026-11-08 (fourth run, ~23:00 UTC)
-> **Threat Score:** 84/100 (↑ from 83)
+> **Last Updated:** 2026-11-09 (eighth run, ~16:00 UTC)
+> **Threat Score:** 84/100 (UNCHANGED)
 > **Trend:** CRITICAL — UNICORN + CONSUMER CAMPAIGN LIVE + CRUISE INTEGRATION + UK LAUNCH
 
 ---
@@ -60,6 +60,7 @@
 
 | Date | Move | Source |
 |------|------|--------|
+| Nov 9, 2026 | **Via AI confirmed: still advisor-facing only.** Multiple searches confirm Via remains a backend advisor tool — itinerary drafting, research, admin, supplier knowledge — with no traveler-facing consumer launch found. Plans for flights, cruise, and enterprise Via modules stated for "coming year" (Sacra analysis). Fora's consumer strategy is marketing-led (CMO campaigns) not product-led (consumer AI). LINX IMPLICATION: The traveler-facing trust window remains open through at least Q1 2027. Score UNCHANGED at 84. | Multiple analyst sources — CONFIRMED (absence of consumer launch) |
 | Nov 4-6, 2026 | **Cruise integration LAUNCHED: 55-66 cruise lines searchable, 25-30+ directly bookable within Portal.** Automatic commission + booking logging. $600M+ in cruise division sales since 2024. Cruise is now Fora's second-largest booking category after hotels. Already CLIA Premier Agency Member (April 2026). LINX IMPLICATION: Fora now has fully operational expedition and luxury cruise vertical. Swan Hellenic, Explora Journeys, Lindblad — every expedition cruise operator LINX is targeting is now on Fora's platform with 15,000 advisors. Direct overlap with LINX expedition vertical. Threat score +1. | [TravelPulse](https://www.travelpulse.com/news/technology/fora-debuts-integrated-cruise-bookings-within-travel-advisor-platform) / [Travel Market Report](https://www.travelmarketreport.com/retail-strategies/articles/fora-integrates-cruise-search-into-advisor-platform) — CONFIRMED |
 | Oct 6, 2026 | **UK launch confirmed. ABTA + ATOL certified. £222/year membership.** Full operation (not just advisor outreach): booking platform live, UK-specific legal pages, compliance registered. First London chapter opened 2024. Hiring Senior Strategy & Ops Manager (£100-125K, posted Aug 2026). Third confirmed international market (US → Canada → UK). LINX IMPLICATION: Fora is building an international advisor network that now spans two of the world's highest-spending luxury travel markets. If LINX does not establish UK presence before Fora reaches critical mass there, the European referrer network opportunity narrows. | [Travel Daily News](https://www.traveldailynews.com/tour-operators/fora-travel-officially-launches-uk-operation/) / [Latte Luxury News](https://latteluxurynews.com/2026/10/06/fora-enters-the-united-kingdom/) — CONFIRMED |
 | Nov 5, 2026 | **First confirmed consumer-facing campaign: Black Friday + Travel Tuesday deals live.** Local chamber of commerce (Arcadia, CA) promotes Fora's upcoming Black Friday and Travel Tuesday travel deals, confirming Fora is marketing directly to travelers for deals — not just recruiting advisors. CMO hire (Aug 2026) has resulted in in-market consumer campaigns within 90 days. This confirms the consumer pivot is LIVE, not aspirational. LINX IMPLICATION: Fora is now in the traveler discovery and consideration space. Threat score +1. | [Arcadia Chamber of Commerce](https://arcadiacachamber.org/some-of-the-years-most-exciting-travel-deals-are-just-around-the-corner-with-fora-travel/) — CONFIRMED |
