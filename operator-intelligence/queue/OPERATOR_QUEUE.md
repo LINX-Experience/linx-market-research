@@ -74,6 +74,12 @@ LINX Operator ICP Fit Score (0-100):
 | 49 | Explora Journeys | Luxury Cruise | **83** | PROFILED | `profiles/explora-journeys.md` |
 | 50 | Clayoquot Wilderness Lodge | Luxury Lodge | 70 | PROFILED | `profiles/clayoquot-wilderness-lodge.md` |
 | 51 | Kamalaya | Wellness Retreat | 73 | PROFILED | `profiles/kamalaya.md` |
+| 52 | Longitude 131° (Beckons) | Luxury Lodge | 77 | PROFILED | `profiles/longitude-131.md` |
+| 53 | Cottar's 1920s Safari Camp | Safari/Lodge | **85** | PROFILED | `profiles/cottars-1920s-safari-camp.md` |
+| 54 | Jack's Camp / Uncharted Africa | Safari/Lodge | **78** | PROFILED | `profiles/jacks-camp-uncharted-africa.md` |
+| 55 | Fogo Island Inn | Luxury Lodge | **85** | PROFILED | `profiles/fogo-island-inn.md` |
+| 56 | Mashpi Lodge | Luxury Lodge | 73 | PROFILED | `profiles/mashpi-lodge.md` |
+| 57 | Sal Salis Ningaloo Reef | Luxury Lodge | 73 | PROFILED ⚠️ CLOSED until Mar 2027 | `profiles/sal-salis-ningaloo.md` |
 
 ## Queue — Phase 1 (100 operators, 20 per vertical)
 
@@ -119,9 +125,9 @@ LINX Operator ICP Fit Score (0-100):
 | 13 | Volcanoes Safaris | MEDIUM | PROFILED (77) |
 | 14 | Robin Pope Safaris | MEDIUM | PROFILED (77) |
 | 15 | Gibbs Farm | LOW | QUEUED |
-| 16 | Cottar's 1920s | LOW | QUEUED |
+| 16 | Cottar's 1920s | LOW | PROFILED (85) |
 | 17 | Ol Donyo Lodge | LOW | QUEUED |
-| 18 | Jack's Camp / Uncharted Africa | LOW | QUEUED |
+| 18 | Jack's Camp / Uncharted Africa | LOW | PROFILED (78) |
 | 19 | Lamai Serengeti | LOW | QUEUED |
 | 20 | Bushmans Kloof | LOW | QUEUED |
 
@@ -162,13 +168,13 @@ LINX Operator ICP Fit Score (0-100):
 | 8 | Clayoquot Wilderness Lodge | MEDIUM | PROFILED (70) |
 | 9 | Deplar Farm (Eleven) | MEDIUM | PROFILED (80) |
 | 10 | Sheldon Chalet | MEDIUM | PROFILED (72) |
-| 11 | Longitude 131 | MEDIUM | QUEUED |
-| 12 | Sal Salis | MEDIUM | QUEUED |
+| 11 | Longitude 131 | MEDIUM | PROFILED (77) |
+| 12 | Sal Salis | MEDIUM | PROFILED (73) ⚠️ CLOSED until Mar 2027 |
 | 13 | Three Camel Lodge | LOW | QUEUED |
-| 14 | Fogo Island Inn | LOW | QUEUED |
+| 14 | Fogo Island Inn | LOW | PROFILED (85) |
 | 15 | Canopy & Stars (luxury tier) | LOW | QUEUED |
 | 16 | Pikaia Lodge | LOW | QUEUED |
-| 17 | Mashpi Lodge | LOW | QUEUED |
+| 17 | Mashpi Lodge | LOW | PROFILED (73) |
 | 18 | Inkaterra | LOW | QUEUED |
 | 19 | Tierra Hotels | LOW | QUEUED |
 | 20 | Alto Atacama | LOW | QUEUED |
@@ -202,11 +208,11 @@ LINX Operator ICP Fit Score (0-100):
 | Vertical | Total Queued | HIGH Priority | Profiled | Remaining |
 |----------|-------------|---------------|----------|-----------|
 | Yacht Charter | 20 | 5 | 16 | 4 |
-| Safari/Lodge | 20 | 4 | 14 | 6 |
+| Safari/Lodge | 20 | 4 | 16 | 4 |
 | Expedition | 20 | 5 | 15 | 5 |
-| Luxury Resort | 20 | 3 | 10 | 10 |
+| Luxury Resort | 20 | 3 | 14 | 6 |
 | Adventure/Wellness | 20 | 3 | 9 | 11 |
-| **TOTAL** | **100** | **20** | **64** | **36** |
+| **TOTAL** | **100** | **20** | **70** | **30** |
 
 ---
 
