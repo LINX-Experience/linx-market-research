@@ -1,8 +1,8 @@
 # Competitive Threat Matrix
 
-> Updated: 2026-11-10 (eleventh run, ~12:21 UTC)
+> Updated: 2026-11-10 (twelfth run, ~15:50 UTC)
 > Scored 0-100 using standardized framework.
-> Previous run: 2026-11-10 (tenth run, ~06:20 UTC)
+> Previous run: 2026-11-10 (eleventh run, ~12:21 UTC)
 
 ## Scoring Framework
 
@@ -46,6 +46,24 @@ Competitive Threat Score (0-100):
 | Globe7 | **London debut Nov 18, 2025 (confirmed).** Invite-only ultra-luxury AI advisory. Founder Daria Guristrimba. AI preference engine + crypto payments (Coinspaid). Hotel partnerships confirmed within 6 months: Accor, Mandarin Oriental, Rosewood, Dorchester Collection, The Peninsula Hotels. Founder self-reports "tens of millions" revenue in year 1 (self-reported, unaudited). No disclosed funding rounds found. | Advisory model (like Fora), NOT peer-trust. No referral layer confirmed. If funded and adds social/peer layer, re-score to 40+. Currently low active threat to LINX. Updated: 2026-11-09 (6th). |
 | Eterniti | **€30M raise (March 2026) from Limestone Capital. Total raised €50M. Luxury villa and ski chalet operator: Bo House + Verbier Exclusive + Emerald Stay. 800+ villas, 25 destinations.** Revenue claimed to have doubled for 4 years (self-reported). Expanding globally including long-haul. CONFIDENCE: CONFIRMED (PhocusWire, TravelMole). | Pure inventory/property management play — NOT peer-trust, NOT referral. Direct LINX competition: low. The "anti-Airbnb" framing is media-generated. No booking commission or referral architecture. Watch only: if Eterniti adds a trusted peer recommendation layer for villa selection, territory overlap increases. Low priority. Updated: 2026-11-09 (7th). |
 | **G Adventures + National Geographic Signature** | **NEW (Nov 10, 2026):** G Adventures and National Geographic Expeditions launched "National Geographic Signature with G Adventures" — a high-end expedition product priced at ~$1,000/day (double G Adventures' standard NatGeo Journeys). 29 tours available from Jan 2027, expanding to 50+ by end of 2026. Destinations: South Africa, Vietnam, Japan, Central Asia, Peru, Jordan. Max group size 22. Expert Expedition Leaders. Concierge support. Distribution explicitly through travel agents. Launch: Jan 2026 announcement, actual departures from Jan 2027. CEO Bruce Poon Tip reports being "blown away" by agent and consumer response (self-reported). CONFIDENCE: CONFIRMED (TravelGossip, Luxury Travel Advisor, Travel Weekly Australia, Aspire Travel Club). | NOT peer-trust. NOT direct LINX competitor. Threat level: LOW but WATCH. This is a traditional agent-distributed luxury expedition product competing in LINX's highest-value vertical (expedition travel). Its agent-first distribution confirms the channel LINX is working alongside. If NatGeo Signature ever adds a referral/trust layer, it becomes a 40+ threat immediately given NatGeo brand equity. The more immediate implication: NatGeo Signature and LINX both want expedition luxury operators — NatGeo Signature locks agents early; LINX needs to lock peer referrers first. Added: 2026-11-10 (eleventh run). |
+
+## Strategic Summary — Nov 10, 2026 (Twelfth Run, ~15:50 UTC)
+
+**No competitor has built trust-verified peer referral attribution for luxury travel. Moat intact.**
+
+### What Changed (Nov 10 11th run → Nov 10 12th run)
+- **ALL SCORES UNCHANGED.** Fora: 84. Mindtrip: 73. Virtuoso: 62. Quite Remarkable: 49. Ahoy Club: 40. Inspirato/EC: 45. Booking Holdings: 40.
+- **Fora Via AI**: CONFIRMED ADVISOR-FACING ONLY — FIFTH CONSECUTIVE EXTENDED CONFIRMATION (Nov 10, 15:50 UTC). Google Play listing confirms Fora Traveler App last updated Sept 24, 2026 — still a client itinerary viewer only, no AI chat, no peer discovery, no account required. PhocusWire Hot 25 2026 check-in (Nov 2, 2026) covers the cohort's milestones with no Fora consumer app mention. 12 monitoring runs, zero consumer-facing AI features confirmed. LINX peer-trust window confirmed open through Q1 2027.
+- **Virtuoso + HBX Global Expansion (new detail, Sept 24, 2026)**: HBX Group extended its 25-year North American Bedsonline partnership with Virtuoso to GLOBAL scale — announced in Madrid, Sept 24. All 20,000+ Virtuoso advisors worldwide now access Bedsonline's global accommodation/mobility/experiences + new "Luxury Collection" of curated luxury hotels. Personnel: Former Virtuoso VP Global Partnerships Una O'Leary joined HBX's The Luxurist as VP Sales — Virtuoso talent moving to HBX's premium competitor. LINX IMPLICATION: Virtuoso's supply moat is now globally comprehensive, strengthening the advisory channel LINX complements. No peer-trust layer added. Score UNCHANGED at 62.
+- **Mindtrip Answer Intelligence confirmed as PAID B2B product**: 70% of DMOs report AI-driven organic search declines; they PAY Mindtrip to restore AI visibility. Answer Intelligence converts free DMO distribution deals into SaaS revenue. New DMO: Visit Buena Park — count now 21+. No peer/social layer added. Score UNCHANGED at 73.
+- **Quite Remarkable**: August 28 article shows still recruiting for "fall launch" — 10+ weeks past target, still no live platform. Score UNCHANGED at 49.
+- **PhocusWire Hot 25 2026 check-in (Nov 2, 2026)**: HeyMax ($11M Series A), BizTrip AI ($1.5M pre-seed) are notable funded 2026 cohort startups. Zero LINX-adjacent peer-trust startups. Ninth consecutive nil on peer-trust luxury funding.
+- **Ahoy Club, Inspirato/EC**: No November 2026 news. Inspirato permanent CEO search ongoing. Scores unchanged.
+
+### Headline Assessment (Nov 10, 12th Run)
+**Stability run. No score changes.** Three defining signals: (1) Fora Via AI confirmed advisor-only for the FIFTH consecutive extended search — the specific confirmation for the Google Play Sept 24 app update date means Fora has had nearly 2 months since Series D deployment to build any consumer AI feature and hasn't; (2) Virtuoso + HBX Global expansion (Sept 2026) brings full detail — 20,000 advisors now have global Bedsonline access + Luxury Collection. The former Virtuoso VP Global Partnerships is now heading HBX's premium platform, signaling institutional talent movement in luxury distribution that LINX must note; (3) Mindtrip's Answer Intelligence is not a free marketing partnership — it's a paid SaaS product converting 21+ DMOs into revenue-paying customers, deepening the moat beyond partner counts. The peer-trust moat remains intact. The window that matters is before Fora's Via moves traveler-facing or Mindtrip adds a social annotation layer — both Q1-Q2 2027 risks. ILTM Cannes opens in 20 days with zero competitor announcements so far.
+
+---
 
 ## Strategic Summary — Nov 10, 2026 (Eleventh Run, ~12:21 UTC)
 
