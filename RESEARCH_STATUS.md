@@ -1,6 +1,6 @@
 # LINX Research Engine — Status
 
-> **Last Updated:** 2026-11-10 (Competitive Intelligence, ~17:00 UTC)
+> **Last Updated:** 2026-11-10 (Competitive Intelligence, ~06:20 UTC)
 > **Engine Version:** 1.0
 > **Agents Active:** 7
 
@@ -10,7 +10,7 @@
 
 | Pillar | Reports | Operators Profiled | Competitors Tracked | HOA Communities | Signals Flagged |
 |--------|---------|-------------------|--------------------|-----------------|----|
-| Competitive Intelligence | 11 | -- | 8 (1 defunct) + 4 new watch | -- | 37 |
+| Competitive Intelligence | 12 | -- | 8 (1 defunct) + 4 new watch | -- | 40 |
 | Operator Scout | 7 | 64 | -- | -- | 24 |
 | Market Pulse | 6 | -- | -- | -- | 33 |
 | HOA Enrichment | 0 | -- | -- | 0 | 0 |
@@ -34,6 +34,7 @@
 
 | Date | Time (UTC) | Agent | Status | Files Written | Key Finding |
 |------|-----------|-------|--------|---------------|-------------|
+| 2026-11-10 | ~06:20 | COMPETITIVE | COMPLETE | Fora battle card updated + threat matrix + 3 new signals + status | **NO score changes. Stability run.** Fora Via AI confirmed advisor-only for THIRD consecutive extended search. Skift Nov 2026 = 0 venture financings (sixth consecutive zero). ILTM Cannes 20 days away — no competitor pre-announcements found. Scores: Fora 84, Mindtrip 73, Virtuoso 62, QR 49, Ahoy 40, Inspirato/EC 45. Peer-trust moat fully intact. |
 | 2026-11-10 | ~17:00 | COMPETITIVE | COMPLETE | 3 battle cards updated (Fora, Virtuoso, QR) + threat matrix + 4 new signals + status | **ONE score change: QR downgraded 52→49.** Fall 2026 launch target now 7+ weeks elapsed — no live platform, no operators, no press. Momentum 5→2, velocity 4→3. Fora Via AI confirmed still advisor-only (extended search, 2nd consecutive confirmation). Virtuoso Nov 1 TradeArabia confirms Japan #1/stronger 2027 — consistent with existing data. Partnerize VantagePoint (AI attribution for affiliates) confirms the attribution gap LINX solves is an industry-wide problem. No new peer-trust luxury funding (5th consecutive nil). Scores: Fora 84, Mindtrip 73, Virtuoso 62, QR 49, Ahoy 40, Inspirato/EC 45. |
 | 2026-11-09 | ~16:00 | COMPETITIVE | COMPLETE | 3 battle cards updated (Fora, Virtuoso, Mindtrip) + threat matrix + 4 new signals + status | **Stability run. No score changes: Fora 84, Mindtrip 73, Virtuoso 62, QR 52, Ahoy 40.** Key confirms: (1) Fora Via AI still advisor-only — LINX window open through Q1 2027. (2) Virtuoso "fancy-flation" confirmed — UHNW price sensitivity rising, validates LINX 10% commission. (3) 7/10 Virtuoso 2027 top destinations in Europe — prime ILTM Cannes pitch territory. (4) Capital One Travel NOT integrated with Mindtrip — 100M cardholder threat still speculative. (5) Zero new peer-trust luxury funding in Nov 2026. LINX peer-trust moat intact. |
 | 2026-11-09 | ~15:49 | OPERATOR SCOUT | COMPLETE | 7 profiles (worth-avenue-yachts, one-ocean-expeditions-DEFUNCT, eleven-experience, sheldon-chalet, sha-wellness-clinic, como-shambhala, chiva-som) + queue updated + signals + status | **Eleven Experience (80): heli-ski ultra-luxury lodges, $19.3M est., Iceland flagship — HIGH priority. Chiva-Som (77): 30-year #1 wellness brand, Qatar expansion (Zulal) = best near-term opportunity. SHA Wellness (76): Virtuoso partner confirmed, Emirates 2026 opening, medical authority positioning. COMO Shambhala (74): La Liste 90.5, CNT top spa, Michelin Key. Sheldon Chalet (72): micro-revenue but outsized brand value as "only on LINX" flagship. Worth Avenue Yachts (73): 15-year Palm Beach yacht broker, 50-70% referral. One Ocean DEFUNCT: polar expedition fleet absorbed by Aurora, HX, Polar Latitudes. 64/100 profiled.** |

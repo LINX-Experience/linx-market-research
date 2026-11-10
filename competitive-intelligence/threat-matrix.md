@@ -1,8 +1,8 @@
 # Competitive Threat Matrix
 
-> Updated: 2026-11-10 (ninth run, ~17:00 UTC)
+> Updated: 2026-11-10 (tenth run, ~06:20 UTC)
 > Scored 0-100 using standardized framework.
-> Previous run: 2026-11-09 (eighth run, ~16:00 UTC)
+> Previous run: 2026-11-10 (ninth run, ~17:00 UTC)
 
 ## Scoring Framework
 
@@ -46,7 +46,28 @@ Competitive Threat Score (0-100):
 | Globe7 | **London debut Nov 18, 2025 (confirmed).** Invite-only ultra-luxury AI advisory. Founder Daria Guristrimba. AI preference engine + crypto payments (Coinspaid). Hotel partnerships confirmed within 6 months: Accor, Mandarin Oriental, Rosewood, Dorchester Collection, The Peninsula Hotels. Founder self-reports "tens of millions" revenue in year 1 (self-reported, unaudited). No disclosed funding rounds found. | Advisory model (like Fora), NOT peer-trust. No referral layer confirmed. If funded and adds social/peer layer, re-score to 40+. Currently low active threat to LINX. Updated: 2026-11-09 (6th). |
 | Eterniti | **€30M raise (March 2026) from Limestone Capital. Total raised €50M. Luxury villa and ski chalet operator: Bo House + Verbier Exclusive + Emerald Stay. 800+ villas, 25 destinations.** Revenue claimed to have doubled for 4 years (self-reported). Expanding globally including long-haul. CONFIDENCE: CONFIRMED (PhocusWire, TravelMole). | Pure inventory/property management play — NOT peer-trust, NOT referral. Direct LINX competition: low. The "anti-Airbnb" framing is media-generated. No booking commission or referral architecture. Watch only: if Eterniti adds a trusted peer recommendation layer for villa selection, territory overlap increases. Low priority. Updated: 2026-11-09 (7th). |
 
-## Strategic Summary — Nov 10, 2026 (Ninth Run, ~17:00 UTC)
+## Strategic Summary — Nov 10, 2026 (Tenth Run, ~06:20 UTC)
+
+**No competitor has built trust-verified peer referral attribution for luxury travel. Moat intact.**
+
+### What Changed (Nov 10 9th run → Nov 10 10th run)
+- **ALL SCORES UNCHANGED.** Fora: 84. Mindtrip: 73. Virtuoso: 62. Quite Remarkable: 49. Ahoy Club: 40. Inspirato/EC: 45. Booking Holdings: 40.
+- **Fora Via AI**: CONFIRMED ADVISOR-FACING ONLY — THIRD CONSECUTIVE EXTENDED CONFIRMATION (Nov 10, 06:20 UTC). TechCrunch + TheNextWeb both confirm Via is "currently in beta with top advisors" — backend tool only. Zero consumer-facing features launched across three separate searches. Consumer marketing (Black Friday deals) is live but Via is NOT the consumer channel. LINX window in peer-trust layer confirmed open through Q1 2027.
+- **Skift Travel's Next Dollar — November 2026**: **0 venture financings in travel** (the monthly tracker shows only 2 strategic/M&A entries, both in aviation and holiday parks — zero VC rounds). This is the sixth consecutive monitoring run with zero new LINX-adjacent peer-trust startup funding found. Travel VC contracted sharply in Q3 2026: 57 rounds (down from 110 in Q1). AI rounds specifically fell from 25 to 12. Consolidation phase underway: Expedia acquired Layla (AI travel planner), Navan acquired BoomPop, Engine acquired Options Travel.
+- **ILTM Cannes Nov 30-Dec 3 (20 days away)**: No competitor has announced a specific ILTM partnership, launch, or product announcement. This is the most important upcoming competitive intelligence window — 3,000+ luxury operators from 100+ countries. Virtuoso CEO has historically keynoted. Any Fora, Mindtrip, or Virtuoso announcement at ILTM is a re-scoring trigger.
+- **Mindtrip**: No new November 10 news found. PTA at 18K+ users, DMO network at 20+ confirmed. Score unchanged at 73.
+- **Virtuoso**: No new November 10 announcements. CDO Thatcher Brown enters first full quarter Q1 2027. Score unchanged at 62.
+- **Quite Remarkable**: Still unlaunched — now 8+ weeks past Fall 2026 target. Score unchanged at 49 (downgraded last run).
+- **Inspirato/EC**: James Henderson still interim CEO. No permanent hire announcement found. Score unchanged at 45.
+- **Voyagier**: Seed round not closed. Still pre-seed ~$1.5M. No change.
+- **CharterClick**: No news found — insufficient market presence to track.
+
+### Headline Assessment (Nov 10, 10th Run)
+**Stability run.** No score changes. Three signals define this run: (1) Fora Via AI is confirmed advisor-only for the third consecutive extended search — the LINX peer-trust window remains open through Q1 2027; (2) Skift's November 2026 tracker shows **zero venture financings** in travel — the driest month yet, extending the uncontested peer-trust moat to six consecutive monitoring runs; (3) ILTM Cannes opens in 20 days — the most critical upcoming competitive intelligence window, where any competitor announcing a trust/peer layer or new operator partnership is an immediate re-scoring event. The peer-trust moat is intact. The window that matters is the period between now and when Fora's Via moves traveler-facing or Mindtrip adds a social annotation layer — both Q1-Q2 2027 risks.
+
+---
+
+## Prior Strategic Summary — Nov 10, 2026 (Ninth Run, ~17:00 UTC)
 
 **No competitor has built trust-verified peer referral attribution for luxury travel. Moat intact.**
 
