@@ -1,8 +1,8 @@
 # Competitive Threat Matrix
 
-> Updated: 2026-11-09 (eighth run, ~16:00 UTC)
+> Updated: 2026-11-10 (ninth run, ~17:00 UTC)
 > Scored 0-100 using standardized framework.
-> Previous run: 2026-11-09 (seventh run, ~12:23 UTC)
+> Previous run: 2026-11-09 (eighth run, ~16:00 UTC)
 
 ## Scoring Framework
 
@@ -22,7 +22,7 @@ Competitive Threat Score (0-100):
 | 1 | **Fora Travel** | **84** | +12 | CRITICAL — UNICORN + CONSUMER CAMPAIGN + CRUISE + UK | $138.5M total / $1B valuation. **Cruise integration LIVE (Nov 4-6): 55-66 lines, $600M+ cruise sales. Expedition cruise (Swan Hellenic, Lindblad-type) now fully on-platform. UK launched Oct 2026 (ABTA/ATOL). Consumer campaign live. 9+ moves in 12 months.** | 2026-11-08 (4th) |
 | 2 | **Mindtrip (+ Thatch)** | **73** | +12 | CRITICAL RISING — DMO NATIONAL INFRASTRUCTURE BUILT; 20+ PARTNERS INCL. BRAND USA | **CRITICAL RECOUNT (Nov 9): DMO network is 20+ confirmed partners, not 4.** Brand USA (US federal tourism body, multilingual, targeting international UHNW inbound), Meet Boston WhatsApp integration, SF Travel, San Diego, Meet Minneapolis, New Orleans, Maine, Norway (29 regions), Santa Barbara, Portland ME, Grand County, Heber Valley, Puerto Rico, South Dakota, Plano, Santa Fe, Northshore, SF Peninsula, Redding, Madeira. PTA: 18K+ beta users, persistent memory. Full booking: flights + hotels. Fastest-rising threat: 52 (Apr) → 73 (Nov 9). | 2026-11-09 (5th) |
 | 3 | **Virtuoso** | **62** | +2 | RISING | **New CDO: Thatcher Brown (Oct 7, confirmed). Mandate: new markets, categories, partnerships. Background: founding CEO Crescent Seas (ultra-luxury residential cruise) = direct expedition cruise overlap with LINX.** AI Collective Intelligence in rollout. 2027 Luxe Report: Japan #1, multigenerational travel #1 trend, "Gen XYZ-peditions" = expedition focus. HBX global expansion. Fall sales: Sep +77%, Oct +54%, Nov +71% YoY. | 2026-11-09 (7th) |
-| 4 | **Quite Remarkable** | **52** | UNCHANGED | DELAYED ⚠️ — LAUNCH WINDOW PASSED | One Planet Group $50M. Fall 2026 target **PASSED WITHOUT CONFIRMED LAUNCH (Nov 9).** No live platform, no operator partnerships, no product announcements found in multiple searches. CEO Payam Zamani. No referral layer confirmed. LINX window extended. Momentum score remains 5/15 (pre-launch). | 2026-11-09 (5th — launch delay confirmed) |
+| 4 | **Quite Remarkable** | **49** | ↓-3 | DORMANT ⚠️ — LAUNCH 7+ WEEKS OVERDUE | One Planet Group $50M. Fall 2026 target **PASSED WITHOUT CONFIRMED LAUNCH (Nov 10, 9th run).** SCORE DOWNGRADED 52→49 — momentum 5→2 (missed deadline = negative signal), velocity 4→3 (single press release, 7 months silence). No live platform, no operator partnerships, no product announcements found in multiple extended searches. CEO Payam Zamani simultaneously running multiple One Planet Group portfolio companies. LINX window extended. | 2026-11-10 (9th — score downgrade) |
 | 5 | **Inspirato / Exclusive Collective** | **45** | 0 | RESTRUCTURING | 24K HNW members. James Henderson Interim CEO (search ongoing). Integration focus maintains speed window. | 2026-11-07 |
 | 6 | **Booking Holdings (luxury)** | **40** | 0 | STABLE | $165B market cap, 40% luxury growth. But OTA DNA, no referral, minimal overlap. | 2026-04-06 |
 | 7 | **Ahoy Club** | **40** | +2 | EXPANDING | **Yacht Sales Division launched** (full lifecycle: charter→management→sales). Benjamin Croucher hired as US Partner Director. Qantas loyalty integration. Ahoy Days global (May 2026). | 2026-11-08 (2nd) |
@@ -46,7 +46,27 @@ Competitive Threat Score (0-100):
 | Globe7 | **London debut Nov 18, 2025 (confirmed).** Invite-only ultra-luxury AI advisory. Founder Daria Guristrimba. AI preference engine + crypto payments (Coinspaid). Hotel partnerships confirmed within 6 months: Accor, Mandarin Oriental, Rosewood, Dorchester Collection, The Peninsula Hotels. Founder self-reports "tens of millions" revenue in year 1 (self-reported, unaudited). No disclosed funding rounds found. | Advisory model (like Fora), NOT peer-trust. No referral layer confirmed. If funded and adds social/peer layer, re-score to 40+. Currently low active threat to LINX. Updated: 2026-11-09 (6th). |
 | Eterniti | **€30M raise (March 2026) from Limestone Capital. Total raised €50M. Luxury villa and ski chalet operator: Bo House + Verbier Exclusive + Emerald Stay. 800+ villas, 25 destinations.** Revenue claimed to have doubled for 4 years (self-reported). Expanding globally including long-haul. CONFIDENCE: CONFIRMED (PhocusWire, TravelMole). | Pure inventory/property management play — NOT peer-trust, NOT referral. Direct LINX competition: low. The "anti-Airbnb" framing is media-generated. No booking commission or referral architecture. Watch only: if Eterniti adds a trusted peer recommendation layer for villa selection, territory overlap increases. Low priority. Updated: 2026-11-09 (7th). |
 
-## Strategic Summary — Nov 9, 2026 (Eighth Run, ~16:00 UTC)
+## Strategic Summary — Nov 10, 2026 (Ninth Run, ~17:00 UTC)
+
+**No competitor has built trust-verified peer referral attribution for luxury travel. Moat intact.**
+
+### What Changed (Nov 9 8th run → Nov 10 9th run)
+- **Quite Remarkable**: DOWNGRADED 52 → 49 (-3). Fall 2026 launch target has now elapsed by 7+ weeks with zero evidence of a live platform, operator partnerships, press coverage of go-live, or any product page. Momentum score 5→2 (missed deadline is a negative signal); velocity 4→3 (single April press release, complete silence since). $50M is dormant capital. LINX's window in AI-native luxury platform space is extending.
+- **Fora Via AI**: CONFIRMED STILL ADVISOR-FACING (extended search, second consecutive confirmation). TheNextWeb source (Jul 2026) confirms Via is "currently in beta with top advisors." Zero consumer-facing features confirmed. No consumer-facing launch found in any source. Score unchanged at 84.
+- **Virtuoso**: TradeArabia Nov 1 item — "Japan tops luxury demand, Virtuoso forecasts stronger 2027 spending" — confirms existing 2027 Luxe Report data. CDO Thatcher Brown enters first full quarter Q1 2027 — that is the next monitoring trigger. Score unchanged at 62.
+- **Mindtrip**: No new November 2026 news found. PTA at 18K+ users, DMO network at 20+ confirmed partners. Score unchanged at 73.
+- **Ahoy Club**: No new November 2026 news. Score unchanged at 40.
+- **Inspirato/EC**: No new November 2026 news. James Henderson still interim CEO, permanent hire not confirmed. Score unchanged at 45.
+- **New adjacency signal**: Partnerize VantagePoint for Publishers (Jan 2026) — AI reconstructing customer journeys to close a 40% attribution gap; publishers generating 2x more revenue than last-click tracking captures. This is the affiliate marketing ecosystem recognizing the same attribution problem LINX is solving. Not a competitor. Confirms LINX's commission/attribution architecture is addressing a real, unsolved industry problem.
+- **No new $5M+ luxury peer-trust startup funding**: Fifth consecutive confirmation. Peer-trust moat uncontested.
+- **Voyagier**: Seed round still unconfirmed. Still sub-$2M pre-seed. No close announced.
+
+### Headline Assessment (Nov 10, 9th Run)
+**One score change: Quite Remarkable 52 → 49.** The $50M AI-native luxury platform is now 7+ weeks past its stated launch window with complete silence. The score drop is structural — a missed launch commitment reduces both momentum and velocity scoring. The more important signal is capital dormancy: a well-funded competitor that hasn't launched is a competitor that hasn't started signing operators. LINX's window for operator relationship-building in the AI-native luxury segment is extending, not closing. The Fora Via AI confirmation (still advisor-only) and Virtuoso's CDO entering first full quarter in Q1 2027 are the two key monitoring signals for the next run. The peer-trust moat remains fully intact.
+
+---
+
+## Prior Strategic Summary — Nov 9, 2026 (Eighth Run, ~16:00 UTC)
 
 **No competitor has built trust-verified peer referral attribution for luxury travel. Moat intact.**
 

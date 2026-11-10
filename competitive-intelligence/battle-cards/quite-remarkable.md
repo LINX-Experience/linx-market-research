@@ -1,8 +1,8 @@
 # Battle Card: Quite Remarkable (One Planet Group)
 
-> **Last Updated:** 2026-11-09 (fifth run, ~05:00 UTC)
-> **Threat Score:** 52/100 (UNCHANGED — launch target passed, no confirmed live platform)
-> **Trend:** DELAYED ⚠️ — Fall 2026 launch target PASSED. No live platform, no operator relationships, no product confirmed as of Nov 9. LINX window extending.
+> **Last Updated:** 2026-11-10 (ninth run, ~17:00 UTC)
+> **Threat Score:** 49/100 (DOWNGRADED from 52 — momentum 5→2, velocity 4→3; launch deadline now 7+ weeks overdue)
+> **Trend:** DELAYED ⚠️ — Fall 2026 launch target FULLY ELAPSED. No live platform, no operator relationships, no product confirmed as of Nov 10. Score reduced on extended inactivity.
 
 ---
 
@@ -59,20 +59,21 @@
 
 | Date | Move | Source |
 |------|------|--------|
+| Nov 10, 2026 | **SCORE DOWNGRADED 52→49. Extended search confirms continued launch silence.** Zero evidence of live platform, operator partnerships, press coverage of go-live, or any quiteremarkable.com product page. Fall 2026 fully elapsed — 7+ weeks past the stated launch window (Sep–Nov 2026). Momentum subscore reduced 5→2 (missed deadline is a negative momentum signal). Velocity 4→3 (single press release, no follow-up activity in 7 months). LINX IMPLICATION: $50M is fully dormant capital. Each additional week extends LINX's operator relationship window in AI-native luxury. | Multiple extended searches — CONFIRMED ABSENCE |
 | Nov 9, 2026 (this run) | **LAUNCH DELAY CONFIRMED: Fall 2026 target has PASSED. No live platform, no operator relationships, no product announced as of Nov 9, 2026.** Multiple searches confirm zero evidence of a live quiteremarkable.com product, any operator partnership, any user acquisition announcement, or any press coverage of a live launch. Fall 2026 (Sep–Nov) has elapsed. If still unlaunched, LINX's window in the AI-native luxury platform space is extended significantly. Payam Zamani is simultaneously running One Planet Group and other portfolio companies — split attention may be contributing to delay. LINX IMPLICATION: Every week QR doesn't launch is a week LINX can build operator relationships the platform will need on day one. Counter-offensive: approach every luxury operator in the AI-native platform space with LINX before QR arrives. | No source — absence of evidence is the finding. — CONFIRMED ABSENCE |
 | Apr 23, 2026 | **$50M investment announced.** One Planet Group commits $50M initial investment to launch Quite Remarkable. AI-native luxury platform combining stays, experiences, wellness. Planned launch: Fall 2026. CEO Payam Zamani positions as "beyond traditional membership model." | [PR Newswire](https://www.prnewswire.com/news-releases/one-planet-group-announces-50m-in-initial-investment-to-launch-quite-remarkable-a-new-standard-for-luxury-travel-and-experiences-302741986.html) / [AltexSoft](https://www.altexsoft.com/travel-industry-news/one-planet-bets-50-million-on-ai-luxury-travel/) — CONFIRMED |
 
 ---
 
-## Threat Score: 52/100
+## Threat Score: 49/100 (DOWNGRADED from 52, Nov 10, 2026)
 
 | Category | Score | Rationale |
 |----------|-------|-----------|
 | Funding (25 pts) | 20 | $50M corporate investment = effectively Series C-equivalent capitalization. Not a VC round but war chest is real. PE backing = patient capital. |
 | Feature Parity (25 pts) | 11 | AI-native platform implies attribution + recommendation. No confirmed referral layer, no trust graph. Ceiling is 11 without those features. |
 | Market Overlap (20 pts) | 12 | Luxury stays + experiences + wellness = direct LINX TAM overlap. But model is platform (AI-centric) not peer network. |
-| Momentum (15 pts) | 5 | Pre-launch. No users, no bookings, no advisors confirmed. Zero tracked momentum. Watch for Fall 2026 launch announcements. |
-| Velocity (15 pts) | 4 | One announcement. No follow-up products, no partnerships announced. Velocity unknown until post-launch. |
+| Momentum (15 pts) | 2 | **DOWNGRADED 5→2 (Nov 10).** Pre-launch with missed deadline. Fall 2026 target elapsed with no launch. Missed commitments = negative momentum. No users, no bookings, no operators confirmed. |
+| Velocity (15 pts) | 3 | **DOWNGRADED 4→3 (Nov 10).** One press release, 7 months silence. No product updates, no partnerships, no advisor outreach. Effectively zero active velocity. |
 
 ---
 
