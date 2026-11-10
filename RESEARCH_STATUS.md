@@ -12,9 +12,9 @@
 |--------|---------|-------------------|--------------------|-----------------|----|
 | Competitive Intelligence | 13 | -- | 8 (1 defunct) + 5 new watch | -- | 44 |
 | Operator Scout | 7 | 64 | -- | -- | 24 |
-| Market Pulse | 6 | -- | -- | -- | 33 |
+| Market Pulse | 7 | -- | -- | -- | 39 |
 | HOA Enrichment | 0 | -- | -- | 0 | 0 |
-| GTM Intelligence | 1 | -- | -- | -- | 7 |
+| GTM Intelligence | 2 | -- | -- | -- | 13 |
 | Weekly Synthesis | 0 | -- | -- | -- | 0 |
 | Executive Digest | 5 | -- | -- | -- | -- |
 
@@ -34,6 +34,7 @@
 
 | Date | Time (UTC) | Agent | Status | Files Written | Key Finding |
 |------|-----------|-------|--------|---------------|-------------|
+| 2026-11-10 | ~13:30 | MARKET PULSE + GTM | COMPLETE | market-pulse/daily/2026-11-10.md + event-calendar.md updated + 6 new signals + status | **CRITICAL: Virtuoso signed PONANT EXPLORATIONS global agreement — expedition cruise distribution consolidating. Swan Hellenic outreach window narrows to weeks. ILTM Cannes buyer fee confirmed: €300, deadline Nov 25 (15 days). Full 2027 ILTM portfolio confirmed: Africa Apr 4-6 (Cape Town) + We Are Africa May 3-7 = highest-ROI 2027 event combo. Africa luxury hotel pipeline at record 123,846 rooms — 27 luxury openings in 2026 including Ubuyu (Banyan Tree, Ruaha, Tanzania). International Cruise Summit Madrid ongoing today. Las Vegas GP in 9 days. Eighth consecutive nil on peer-trust funding.** |
 | 2026-11-10 | ~12:21 | COMPETITIVE | COMPLETE | 3 battle cards updated (Fora, Virtuoso, Ahoy) + threat matrix (new emerging threat: G Adventures/NatGeo Signature) + 4 new signals + status | **NO score changes. Stability run.** Fora Via AI confirmed advisor-only for FOURTH consecutive extended search. Virtuoso World Cup data confirmed: ADR +53.5%, sales +119.6% in host cities — investor validation. Ahoy Club Comanche Sydney-Hobart sponsorship (Dec 26 race). G Adventures + NatGeo Signature added to Emerging Threats — luxury expedition agent product (~$1K/day, 29 tours). Zero new peer-trust funding (7th consecutive nil). ILTM Cannes 20 days away — still no competitor pre-announcements. Scores: Fora 84, Mindtrip 73, Virtuoso 62, QR 49, Ahoy 40, Inspirato/EC 45. Peer-trust moat fully intact. |
 | 2026-11-10 | ~06:20 | COMPETITIVE | COMPLETE | Fora battle card updated + threat matrix + 3 new signals + status | **NO score changes. Stability run.** Fora Via AI confirmed advisor-only for THIRD consecutive extended search. Skift Nov 2026 = 0 venture financings (sixth consecutive zero). ILTM Cannes 20 days away — no competitor pre-announcements found. Scores: Fora 84, Mindtrip 73, Virtuoso 62, QR 49, Ahoy 40, Inspirato/EC 45. Peer-trust moat fully intact. |
 | 2026-11-10 | ~17:00 | COMPETITIVE | COMPLETE | 3 battle cards updated (Fora, Virtuoso, QR) + threat matrix + 4 new signals + status | **ONE score change: QR downgraded 52→49.** Fall 2026 launch target now 7+ weeks elapsed — no live platform, no operators, no press. Momentum 5→2, velocity 4→3. Fora Via AI confirmed still advisor-only (extended search, 2nd consecutive confirmation). Virtuoso Nov 1 TradeArabia confirms Japan #1/stronger 2027 — consistent with existing data. Partnerize VantagePoint (AI attribution for affiliates) confirms the attribution gap LINX solves is an industry-wide problem. No new peer-trust luxury funding (5th consecutive nil). Scores: Fora 84, Mindtrip 73, Virtuoso 62, QR 49, Ahoy 40, Inspirato/EC 45. |

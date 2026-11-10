@@ -115,15 +115,23 @@
 | Sep 28 - Oct 1 | **ILTM North America** | Bahamas | **TIER 1** | PASSED |
 | Oct 28 - Nov 1 | FLIBS | Fort Lauderdale | TIER 2 | PASSED — 211 superyachts, $1.7B listings |
 | Nov 3-5 | WTM London | London | TIER 2 | PASSED — "access not excess," 60% premium demand |
-| Nov 10-11 | International Cruise Summit | Madrid, Spain | TIER 2 | TOMORROW — Luxury cruise vs. yacht convergence theme |
-| **Nov 30 - Dec 3** | **ILTM Cannes** | **Cannes** | **TIER 1** | **21 DAYS — REGISTER NOW** |
+| Nov 10-11 | International Cruise Summit | Madrid, Spain | TIER 2 | TODAY — Monitor CruisesNews.es for recap Nov 11-12. PONANT/Virtuoso agreement signed. |
+| Nov 12-13 | Ecoluxury Fair Rome | Rome, Italy | TIER 3 | Sustainable luxury tourism intel only |
+| Nov 19-21 | Las Vegas Grand Prix | Las Vegas, NV | TIER 3 | UHNW event. Hospitality $5K-$20K+. No LINX presence. |
+| **Nov 25** | **ILTM Buyer Deadline** | **—** | **TIER 1** | **Last day for replacement buyers. Apply NOW. Buyer fee: €300.** |
+| **Nov 30 - Dec 3** | **ILTM Cannes** | **Cannes** | **TIER 1** | **20 DAYS. Apply buyer programme today (€300). 752 exhibitors.** |
 
-### 2027 Events (Plan Now)
+### 2027 Events (Plan Now) — FULLY CONFIRMED
 
 | Month | Event | Location | LINX Tier | Notes |
 |-------|-------|----------|-----------|-------|
-| Sep 22-25 | **Monaco Yacht Show 2027** | Monaco | **TIER 1** | Confirmed dates. Plan exhibitor/delegate presence. |
-| Nov TBC | ILTM Cannes 2027 | Cannes | **TIER 1** | Budget for exhibitor booth (register by Jul 2027) |
+| **Apr 4-6** | **ILTM Africa** | **Cape Town (Norval Foundation)** | **TIER 1** | **Safari + expedition operators. LINX highest-priority 2027 event.** |
+| **May 3-7** | **We Are Africa** | **Cape Town** | **TIER 1** | **Same trip as ILTM Africa. Combo = 10 days in Africa operator country.** |
+| May 3-6 | ILTM Latin America | São Paulo (Fundação Bienal) | TIER 2 | Conflicts with We Are Africa — choose one. |
+| **Jun 28 - Jul 1** | **ILTM Asia Pacific** | **Singapore (Marina Bay Sands)** | **TIER 2** | **Japan vertical: use to close Japan operator pipeline.** |
+| **Sep 22-25** | **Monaco Yacht Show 2027** | **Monaco** | **TIER 1** | **Confirmed dates. Plan exhibitor/delegate presence.** |
+| **Sep 27-30** | **ILTM North America** | **Nassau, Baha Mar** | **TIER 1** | **Previously Bahamas Sep 28-Oct 1. Date now confirmed.** |
+| Nov TBC | ILTM Cannes 2027 | Cannes | **TIER 1** | First LINX exhibitor appearance. Register by Jul 2027. |
 | Nov TBC | WTM London 2027 | London | TIER 2 | Trade visitor (free) |
 | Nov TBC | FLIBS 2027 | Fort Lauderdale | TIER 2 | Yacht vertical intelligence |
 
@@ -133,12 +141,16 @@
 
 | Event | Registration | Travel + Hotel | Total Est. | Priority |
 |-------|-------------|----------------|------------|---------|
-| ILTM Cannes 2026 | $0–21K (late/delegate/media) | $3K-5K | $3K-26K | **CRITICAL** |
+| ILTM Cannes 2026 | €300 (buyer) | $2K-4K | $2.3K-4.3K | **CRITICAL — apply before Nov 25** |
+| ILTM Africa 2027 + We Are Africa | €300-500 (buyer/delegate) + exhibitor TBC | $3K-5K | $3.3K-5.5K+ | **Plan now — highest 2027 ROI** |
+| ILTM Asia Pacific 2027 | €300-500 (buyer) | $4K-6K | $4.3K-6.5K | Budget Q1 2027 |
 | MYS 2027 | EUR 100–500 (delegate) | $3K-5K | $3K-5.5K | Plan now |
+| ILTM North America 2027 | EUR 300-500 (buyer) | $2K-3K | $2.3K-3.5K | Budget Q2 2027 |
 | ILTM Cannes 2027 | EUR 8K–21K+ (exhibitor) | $3K-5K | $11K-26K | Budget Q2 2027 |
 
-> Note: ILTM Cannes 2026 is the only remaining must-attend event in 2026. Exhibitor deadline passed; pursue delegate/media access immediately.
+> ILTM Cannes 2026: Buyer programme open. €300 non-refundable. Buyer replacement deadline: **November 25, 2026**. Apply immediately.
+> 2027 priority trip: **ILTM Africa (Apr 4-6) + We Are Africa (May 3-7), Cape Town** — combine into single Africa trip for maximum safari/expedition operator ROI.
 
 ---
 
-*Updated: 2026-11-09 (Market Pulse + GTM Agent). Added 2026 event outcomes + 2027 planning.*
+*Updated: 2026-11-10 (Market Pulse + GTM Agent). Full 2027 ILTM portfolio added. ILTM Cannes buyer fee confirmed (€300). Virtuoso/PONANT agreement logged.*
