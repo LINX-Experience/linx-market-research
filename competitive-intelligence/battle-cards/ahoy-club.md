@@ -1,8 +1,8 @@
 # Battle Card: Ahoy Club
 
-> **Last Updated:** 2026-11-08 (second run)
-> **Threat Score:** 40/100 (↑ from 39)
-> **Trend:** EXPANDING — Yacht Sales Division + US expansion + loyalty partnerships
+> **Last Updated:** 2026-11-10 (eleventh run, ~12:21 UTC)
+> **Threat Score:** 40/100 (UNCHANGED)
+> **Trend:** EXPANDING — Yacht Sales Division + US expansion + loyalty partnerships + Sydney-Hobart sponsorship
 
 ---
 
@@ -66,6 +66,7 @@
 | 2026 | **US expansion: Benjamin Croucher hired as Partner Director, US.** Leading American market expansion. Ahoy Club now actively building US broker and partner network. | [Ahoy Club News](https://ahoyclub.com/news/benjamin-croucher-joins-ahoy-club-as-partner-director-us-leading-american-expansion) — CONFIRMED |
 | 2026 | **Qantas Points partnership.** Charter bookings now earn Qantas Frequent Flyer points. First loyalty program integration. LINX implication: loyalty integration differentiates at point of booking; LINX has no loyalty hook. | [Ahoy Club](https://ahoyclub.com) — CONFIRMED |
 | May 2026 | **Ahoy Days launched globally.** Instant day charter booking expanded to world's most sought-after destinations. Founded as separate venture by Malouf family. Extends Ahoy Club's core charter brand into day-trip market, capturing lower entry-point yacht users who may convert to full charters. | [eGlobalTravelMedia](https://eglobaltravelmedia.com.au/2026/05/31/ahoy-days-expands-global-instant-charter-bookings/) / [TravMedia](https://au.travmedia.com/showPRPreview/ahoy-days-launches-globally-bringing-instant-day-charter-booking-to-worlds-most-sought-after-destinations) — CONFIRMED |
+| Nov 2026 | **Comanche Sydney to Hobart 2026 sponsorship confirmed.** Ahoy Club is the named sponsor for Comanche (supermaxii, previous SYH line honours winner Dec 2025) in the 2026 Sydney to Hobart Yacht Race (Boxing Day, Dec 26, 2026). Spectator charters available from A$3,500/hr (Rascal, 60 guests) and A$3,700/hr (Legacy, 105 guests). This continues Ahoy Club's pattern of anchoring brand visibility to prestige sailing events (also sponsored Comanche in the Dec 2025 Australian Maxi Championship). LINX IMPLICATION: Ahoy Club is building brand presence at the intersection of prestige sailing and UHNW social events — not threatening LINX's trust layer but increasing operator brand awareness in the yacht segment. No score change. Score UNCHANGED at 40. CONFIDENCE: CONFIRMED (Ahoy Club Newsroom, North Sails). | [Ahoy Club](https://ahoyclub.com/news/ahoy-club-sponsors-legendary-comanche-for-sydney-to-hobart-race) — CONFIRMED |
 | 2026 | Active at global boat shows. Calendar events positioning yachts at F1, regattas, festivals. | [Ahoy Club Events](https://ahoyclub.com/whats-on) |
 
 ---

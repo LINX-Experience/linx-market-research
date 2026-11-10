@@ -1,8 +1,8 @@
 # Competitive Threat Matrix
 
-> Updated: 2026-11-10 (tenth run, ~06:20 UTC)
+> Updated: 2026-11-10 (eleventh run, ~12:21 UTC)
 > Scored 0-100 using standardized framework.
-> Previous run: 2026-11-10 (ninth run, ~17:00 UTC)
+> Previous run: 2026-11-10 (tenth run, ~06:20 UTC)
 
 ## Scoring Framework
 
@@ -45,8 +45,28 @@ Competitive Threat Score (0-100):
 | Voyagier | AI luxury travel startup. Total pre-seed: $1.25M (company-reported at $7M valuation) + $250K TEDCO Maryland state VC (confirmed via GAP Fund). ~$1.5M total. Seed round targeting late 2026 — **no close confirmed as of Nov 9.** Social platform connecting AI discovery + booking + luxury advisors. Founded 2025, Baltimore. CONFIDENCE: CONFIRMED (CityBizList, Technical.ly). | Architecture is most LINX-adjacent of any startup tracked: social layer + booking + luxury advisors. TEDCO validation adds credibility. Still sub-$2M: insufficient capital to build LINX's trust verification layer. Re-score threshold: $3M+ seed close with peer-trust features in roadmap. Updated: 2026-11-09 (6th). |
 | Globe7 | **London debut Nov 18, 2025 (confirmed).** Invite-only ultra-luxury AI advisory. Founder Daria Guristrimba. AI preference engine + crypto payments (Coinspaid). Hotel partnerships confirmed within 6 months: Accor, Mandarin Oriental, Rosewood, Dorchester Collection, The Peninsula Hotels. Founder self-reports "tens of millions" revenue in year 1 (self-reported, unaudited). No disclosed funding rounds found. | Advisory model (like Fora), NOT peer-trust. No referral layer confirmed. If funded and adds social/peer layer, re-score to 40+. Currently low active threat to LINX. Updated: 2026-11-09 (6th). |
 | Eterniti | **€30M raise (March 2026) from Limestone Capital. Total raised €50M. Luxury villa and ski chalet operator: Bo House + Verbier Exclusive + Emerald Stay. 800+ villas, 25 destinations.** Revenue claimed to have doubled for 4 years (self-reported). Expanding globally including long-haul. CONFIDENCE: CONFIRMED (PhocusWire, TravelMole). | Pure inventory/property management play — NOT peer-trust, NOT referral. Direct LINX competition: low. The "anti-Airbnb" framing is media-generated. No booking commission or referral architecture. Watch only: if Eterniti adds a trusted peer recommendation layer for villa selection, territory overlap increases. Low priority. Updated: 2026-11-09 (7th). |
+| **G Adventures + National Geographic Signature** | **NEW (Nov 10, 2026):** G Adventures and National Geographic Expeditions launched "National Geographic Signature with G Adventures" — a high-end expedition product priced at ~$1,000/day (double G Adventures' standard NatGeo Journeys). 29 tours available from Jan 2027, expanding to 50+ by end of 2026. Destinations: South Africa, Vietnam, Japan, Central Asia, Peru, Jordan. Max group size 22. Expert Expedition Leaders. Concierge support. Distribution explicitly through travel agents. Launch: Jan 2026 announcement, actual departures from Jan 2027. CEO Bruce Poon Tip reports being "blown away" by agent and consumer response (self-reported). CONFIDENCE: CONFIRMED (TravelGossip, Luxury Travel Advisor, Travel Weekly Australia, Aspire Travel Club). | NOT peer-trust. NOT direct LINX competitor. Threat level: LOW but WATCH. This is a traditional agent-distributed luxury expedition product competing in LINX's highest-value vertical (expedition travel). Its agent-first distribution confirms the channel LINX is working alongside. If NatGeo Signature ever adds a referral/trust layer, it becomes a 40+ threat immediately given NatGeo brand equity. The more immediate implication: NatGeo Signature and LINX both want expedition luxury operators — NatGeo Signature locks agents early; LINX needs to lock peer referrers first. Added: 2026-11-10 (eleventh run). |
 
-## Strategic Summary — Nov 10, 2026 (Tenth Run, ~06:20 UTC)
+## Strategic Summary — Nov 10, 2026 (Eleventh Run, ~12:21 UTC)
+
+**No competitor has built trust-verified peer referral attribution for luxury travel. Moat intact.**
+
+### What Changed (Nov 10 10th run → Nov 10 11th run)
+- **ALL SCORES UNCHANGED.** Fora: 84. Mindtrip: 73. Virtuoso: 62. Quite Remarkable: 49. Ahoy Club: 40. Inspirato/EC: 45. Booking Holdings: 40.
+- **Fora Via AI**: CONFIRMED ADVISOR-FACING ONLY — FOURTH CONSECUTIVE EXTENDED CONFIRMATION (Nov 10, 12:21 UTC). Extended search finds no consumer-facing AI features. Fora Traveler App exists but only surfaces advisor-drafted itineraries — not an AI tool for travelers. No November 2026 product announcements found. Consumer marketing (Black Friday, Travel Tuesday) confirmed in-market via advisor-facilitated deal promotions, not Via AI features. LINX peer-trust window confirmed open through Q1 2027.
+- **Virtuoso World Cup data (new, Nov 10)**: Virtuoso luxury properties in 10 US World Cup host cities recorded ADR +53.5% and sales +119.6% in June 2026 — while most host-city hotels reported shortfalls. Luxury bookings at $1,500+/night up 37% network-wide. Forward reservations +50%. Full-year 2026 projected at +20.8% YoY. Average US luxury hotel rate in Virtuoso network rose from $790 (2019) to $1,445 (2026). Market validation for LINX's $200K+ booking addressable market. No score change.
+- **Ahoy Club**: Comanche Sydney to Hobart 2026 sponsorship confirmed (Boxing Day, Dec 26). Spectator charters from A$3,500/hr. Brand positioning at prestige sailing events, not a threat to LINX's trust layer. Score unchanged at 40.
+- **G Adventures + National Geographic Signature**: NEW emerging threat entry added. Luxury expedition product (~$1,000/day, 29 tours for 2027, 50+ total by end-2026). Agent-distributed. Competes in LINX's expedition vertical through advisor channel. NOT peer-trust. LOW threat but watch for referral layer addition.
+- **ILTM Cannes Nov 30-Dec 3 (20 days away)**: Still no competitor pre-announcements. This remains the highest-priority competitive intelligence window of 2026.
+- **Zero new peer-trust startup funding** (seventh consecutive confirmation). Voyagier seed round still unconfirmed. Peer-trust moat fully intact.
+- **Mindtrip, Quite Remarkable, Inspirato/EC**: No new November 10 news found. Scores unchanged.
+
+### Headline Assessment (Nov 10, 11th Run)
+**Stability run. No score changes.** The defining signals of this run: (1) Fora Via AI is confirmed advisor-only for the FOURTH consecutive extended search — the LINX peer-trust window remains open through Q1 2027; (2) Virtuoso's World Cup host-city data (ADR +53.5%, sales +119.6%) is powerful market validation for LINX's investment thesis — UHNW travelers pay a 83% premium over pre-pandemic baselines AND choose Virtuoso-network luxury while mass-market hotels underperform; (3) G Adventures + Nat Geo Signature enters the expedition luxury space with agent distribution — not a trust/peer competitor but a signal that institutional expedition operators are moving upmarket via the advisor channel; (4) ILTM Cannes opens in 20 days — still no competitor pre-announcements. The peer-trust moat is intact. The window that matters is the period before Fora's Via moves traveler-facing or Mindtrip adds a social annotation layer.
+
+---
+
+## Prior Strategic Summary — Nov 10, 2026 (Tenth Run, ~06:20 UTC)
 
 **No competitor has built trust-verified peer referral attribution for luxury travel. Moat intact.**
 
