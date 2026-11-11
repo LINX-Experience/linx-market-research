@@ -1,6 +1,6 @@
 # LINX Research Engine — Status
 
-> **Last Updated:** 2026-11-11 (Competitive Intelligence — fourteenth run)
+> **Last Updated:** 2026-11-11 (Competitive Intelligence — fifteenth run)
 > **Engine Version:** 1.0
 > **Agents Active:** 7
 
@@ -10,7 +10,7 @@
 
 | Pillar | Reports | Operators Profiled | Competitors Tracked | HOA Communities | Signals Flagged |
 |--------|---------|-------------------|--------------------|-----------------|----|
-| Competitive Intelligence | 16 | -- | 8 (1 defunct) + 7 new watch | -- | 57 |
+| Competitive Intelligence | 17 | -- | 8 (1 defunct) + 8 new watch | -- | 61 |
 | Operator Scout | 8 | 70 | -- | -- | 27 |
 | Market Pulse | 7 | -- | -- | -- | 39 |
 | HOA Enrichment | 0 | -- | -- | 0 | 0 |
@@ -34,6 +34,7 @@
 
 | Date | Time (UTC) | Agent | Status | Files Written | Key Finding |
 |------|-----------|-------|--------|---------------|-------------|
+| 2026-11-11 | 12:21 UTC | COMPETITIVE | COMPLETE | 2 battle cards updated (Fora, Booking Holdings) + threat matrix (XPERISUS new entry) + 4 new signals + status | **NO SCORE CHANGES. Stability run. Scores: Fora 84, Mindtrip 73, Virtuoso 62, QR 49, Inspirato/EC 45, Booking Holdings 44, Ahoy Club 40. (1) XPERISUS Japan luxury startup ($10M+ funding, ANA + JR East backing, $64K+ Japan experiences) added to Emerging Threats — directly relevant to Virtuoso's Japan #1 2027 priority and LINX's zero Japan operator coverage. (2) Lola detail confirmed: experiences-first ("anything worth doing"), membership model, GetYourGuide launch partner, Sept 29 launch — most premium-directional of Booking Holdings AI bets. (3) Fora Via AI: EIGHTH consecutive confirmation — Via general release to ALL advisors in August 2026 (advisor expansion, not consumer launch). (4) Skift Nov 2026: 0 venture financings — 12th consecutive nil on peer-trust luxury startup funding.** |
 | 2026-11-11 | 06:22 UTC | COMPETITIVE | COMPLETE | 2 battle cards updated (Fora, Booking Holdings) + threat matrix + 5 new signals + status | **ONE SCORE CHANGE: Booking Holdings 40→44 (+4). TWO CRITICAL NEW THREATS ADDED TO EMERGING THREATS. (1) MACRO: OpenAI acquired Odessia (AI travel agent, $60M first-summer bookings, Nov 10, 2026). OTA stocks fell. This is LINX thesis acceleration: when OpenAI commoditizes booking, trust becomes the last premium. (2) Booking Holdings Vayo ($100M AI startup, Oct 14) + Lola = dual greenfield AI startups in 2 weeks — highest product velocity in years. (3) Fora Via AI: SEVENTH consecutive confirmation — advisor-only structural constraint conclusively confirmed. (4) Ahoy Club Floatspace acquisition confirmed (new detail). (5) Eleventh consecutive nil on peer-trust luxury startup funding.** |
 | 2026-11-11 | -- | COMPETITIVE | COMPLETE | 3 battle cards updated (Fora, Virtuoso, Mindtrip) + threat matrix + 4 new signals + status | **Stability run. No score changes: Fora 84, Mindtrip 73, Virtuoso 62, QR 49, Ahoy 40, Inspirato/EC 45. (1) Fora Via AI: SIXTH consecutive confirmation — advisor-only. At 90+ days post-Series-D with zero consumer AI product, structural constraint (advisory DNA) confirmed. (2) Mindtrip "social layer" = creator economy (intermediaries with audiences), NOT peer trust (verified friends who have been there) — critical LINX positioning distinction. (3) Virtuoso confirmed ILTM Cannes exhibitor — CDO Thatcher Brown's first post-hire industry event. (4) Tenth consecutive nil on peer-trust luxury funding. No well-funded competitor exists.** |
 | 2026-11-10 | ~15:50 | COMPETITIVE | COMPLETE | 3 battle cards updated (Fora, Virtuoso, Mindtrip) + threat matrix + 4 new signals + status | **Stability run. No score changes: Fora 84, Mindtrip 73, Virtuoso 62, QR 49, Ahoy 40, Inspirato/EC 45.** (1) Fora Via AI: FIFTH consecutive extended confirmation — Google Play confirms Traveler App last updated Sept 24 (client itinerary viewer only, no consumer AI). (2) Virtuoso + HBX global supply expansion confirmed in full: 20,000+ advisors now have global Bedsonline + Luxury Collection access; former Virtuoso VP Global Partnerships Una O'Leary now heading The Luxurist (HBX premium platform). (3) Mindtrip Answer Intelligence = paid B2B SaaS product, not free distribution — 70% of DMOs report AI search traffic declines, they PAY to restore AI visibility; Visit Buena Park added, DMO count now 21+. (4) Quite Remarkable: Aug 28 article showed still recruiting — 10+ weeks past fall 2026 target. (5) Ninth consecutive nil on peer-trust luxury funding; PhocusWire Hot 25 2026 check-in confirms zero LINX competitors in most authoritative annual benchmark cohort. |
