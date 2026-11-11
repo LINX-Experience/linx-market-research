@@ -115,11 +115,11 @@
 | Sep 28 - Oct 1 | **ILTM North America** | Bahamas | **TIER 1** | PASSED |
 | Oct 28 - Nov 1 | FLIBS | Fort Lauderdale | TIER 2 | PASSED — 211 superyachts, $1.7B listings |
 | Nov 3-5 | WTM London | London | TIER 2 | PASSED — "access not excess," 60% premium demand |
-| Nov 10-11 | International Cruise Summit | Madrid, Spain | TIER 2 | TODAY — Monitor CruisesNews.es for recap Nov 11-12. PONANT/Virtuoso agreement signed. |
-| Nov 12-13 | Ecoluxury Fair Rome | Rome, Italy | TIER 3 | Sustainable luxury tourism intel only |
+| Nov 10-11 | International Cruise Summit | Madrid, Spain | TIER 2 | CONCLUDED — Monitor CruisesNews.es for recap Nov 11-12. AI + commission structure focus. |
+| Nov 12-13 | **Ecoluxury Fair Rome** | Rome, Italy | TIER 3 | **TOMORROW — Italian sustainable luxury operators. Post-event outreach Nov 14–21.** |
 | Nov 19-21 | Las Vegas Grand Prix | Las Vegas, NV | TIER 3 | UHNW event. Hospitality $5K-$20K+. No LINX presence. |
 | **Nov 25** | **ILTM Buyer Deadline** | **—** | **TIER 1** | **Last day for replacement buyers. Apply NOW. Buyer fee: €300.** |
-| **Nov 30 - Dec 3** | **ILTM Cannes** | **Cannes** | **TIER 1** | **20 DAYS. Apply buyer programme today (€300). 752 exhibitors.** |
+| **Nov 30 - Dec 3** | **ILTM Cannes** | **Cannes** | **TIER 1** | **19 DAYS. Apply buyer programme today (€300). 752 exhibitors. 32% first-timers = highest-receptivity targets.** |
 
 ### 2027 Events (Plan Now) — FULLY CONFIRMED
 
@@ -129,7 +129,7 @@
 | **May 3-7** | **We Are Africa** | **Cape Town** | **TIER 1** | **Same trip as ILTM Africa. Combo = 10 days in Africa operator country.** |
 | May 3-6 | ILTM Latin America | São Paulo (Fundação Bienal) | TIER 2 | Conflicts with We Are Africa — choose one. |
 | **Jun 28 - Jul 1** | **ILTM Asia Pacific** | **Singapore (Marina Bay Sands)** | **TIER 2** | **Japan vertical: use to close Japan operator pipeline.** |
-| **Sep 22-25** | **Monaco Yacht Show 2027** | **Monaco** | **TIER 1** | **Confirmed dates. Plan exhibitor/delegate presence.** |
+| **Sep 22-25** | **Monaco Yacht Show 2027** | **Monaco** | **TIER 1** | **Confirmed dates. Press accreditation opens June 2027. Exhibitor registration not yet announced — monitor Q1 2027.** |
 | **Sep 27-30** | **ILTM North America** | **Nassau, Baha Mar** | **TIER 1** | **Previously Bahamas Sep 28-Oct 1. Date now confirmed.** |
 | Nov TBC | ILTM Cannes 2027 | Cannes | **TIER 1** | First LINX exhibitor appearance. Register by Jul 2027. |
 | Nov TBC | WTM London 2027 | London | TIER 2 | Trade visitor (free) |
