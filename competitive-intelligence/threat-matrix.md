@@ -1,8 +1,8 @@
 # Competitive Threat Matrix
 
-> Updated: 2026-11-10 (twelfth run, ~15:50 UTC)
+> Updated: 2026-11-11 (thirteenth run)
 > Scored 0-100 using standardized framework.
-> Previous run: 2026-11-10 (eleventh run, ~12:21 UTC)
+> Previous run: 2026-11-10 (twelfth run, ~15:50 UTC)
 
 ## Scoring Framework
 
@@ -46,6 +46,26 @@ Competitive Threat Score (0-100):
 | Globe7 | **London debut Nov 18, 2025 (confirmed).** Invite-only ultra-luxury AI advisory. Founder Daria Guristrimba. AI preference engine + crypto payments (Coinspaid). Hotel partnerships confirmed within 6 months: Accor, Mandarin Oriental, Rosewood, Dorchester Collection, The Peninsula Hotels. Founder self-reports "tens of millions" revenue in year 1 (self-reported, unaudited). No disclosed funding rounds found. | Advisory model (like Fora), NOT peer-trust. No referral layer confirmed. If funded and adds social/peer layer, re-score to 40+. Currently low active threat to LINX. Updated: 2026-11-09 (6th). |
 | Eterniti | **€30M raise (March 2026) from Limestone Capital. Total raised €50M. Luxury villa and ski chalet operator: Bo House + Verbier Exclusive + Emerald Stay. 800+ villas, 25 destinations.** Revenue claimed to have doubled for 4 years (self-reported). Expanding globally including long-haul. CONFIDENCE: CONFIRMED (PhocusWire, TravelMole). | Pure inventory/property management play — NOT peer-trust, NOT referral. Direct LINX competition: low. The "anti-Airbnb" framing is media-generated. No booking commission or referral architecture. Watch only: if Eterniti adds a trusted peer recommendation layer for villa selection, territory overlap increases. Low priority. Updated: 2026-11-09 (7th). |
 | **G Adventures + National Geographic Signature** | **NEW (Nov 10, 2026):** G Adventures and National Geographic Expeditions launched "National Geographic Signature with G Adventures" — a high-end expedition product priced at ~$1,000/day (double G Adventures' standard NatGeo Journeys). 29 tours available from Jan 2027, expanding to 50+ by end of 2026. Destinations: South Africa, Vietnam, Japan, Central Asia, Peru, Jordan. Max group size 22. Expert Expedition Leaders. Concierge support. Distribution explicitly through travel agents. Launch: Jan 2026 announcement, actual departures from Jan 2027. CEO Bruce Poon Tip reports being "blown away" by agent and consumer response (self-reported). CONFIDENCE: CONFIRMED (TravelGossip, Luxury Travel Advisor, Travel Weekly Australia, Aspire Travel Club). | NOT peer-trust. NOT direct LINX competitor. Threat level: LOW but WATCH. This is a traditional agent-distributed luxury expedition product competing in LINX's highest-value vertical (expedition travel). Its agent-first distribution confirms the channel LINX is working alongside. If NatGeo Signature ever adds a referral/trust layer, it becomes a 40+ threat immediately given NatGeo brand equity. The more immediate implication: NatGeo Signature and LINX both want expedition luxury operators — NatGeo Signature locks agents early; LINX needs to lock peer referrers first. Added: 2026-11-10 (eleventh run). |
+
+## Strategic Summary — Nov 11, 2026 (Thirteenth Run)
+
+**No competitor has built trust-verified peer referral attribution for luxury travel. Moat intact.**
+
+### What Changed (Nov 10 12th run → Nov 11 13th run)
+- **ALL SCORES UNCHANGED.** Fora: 84. Mindtrip: 73. Virtuoso: 62. Quite Remarkable: 49. Ahoy Club: 40. Inspirato/EC: 45. Booking Holdings: 40.
+- **Fora Via AI**: CONFIRMED ADVISOR-FACING ONLY — SIXTH CONSECUTIVE EXTENDED CONFIRMATION (Nov 11). Forbes (Jul 17, 2026) is the most recent product-specific source; confirms Via is "in beta with top advisors" only: itinerary drafting, supplier research, proposal generation. No November 2026 consumer-facing features confirmed. No ILTM pre-show consumer AI announcement found. Fora has had ~90 days since Series D deployment and ~105 days since CMO hire (Cash App pedigree) with no consumer AI product. LINX peer-trust window confirmed open through Q1 2027.
+- **Mindtrip creator economy layer clarified (CRITICAL POSITIONING INTEL)**: Mindtrip's "social layer" is creator-economy monetization — creators earn per registered user + planned booking commissions via "magic links." Social content import (TikTok, Instagram, YouTube → itinerary) is live. Creator community builds collections and monetizes audience. CRITICAL DISTINCTION: This is a creator economy model (content producers with audiences), NOT a peer trust model (trusted friends who have been there). Mindtrip creators are intermediaries; LINX referrers are verified peers. No new social layer or peer trust architecture added in November 2026. Score UNCHANGED at 73.
+- **Virtuoso confirmed ILTM Cannes exhibitor**: Official ILTM exhibitor directory lists "Virtuoso - Global" at Palais des Festivals (Nov 30-Dec 3). No pre-show product announcements or expedition cruise partnership news found. CDO Thatcher Brown enters first full quarter Q1 2027 — still the key monitoring trigger. Score UNCHANGED at 62.
+- **Quite Remarkable**: 11+ weeks past Fall 2026 target. Original April 2026 press release remains last public news. No live platform, no operator partnerships, no product announcements. Capital completely dormant. Score UNCHANGED at 49.
+- **Luxury startup funding**: TENTH consecutive nil on peer-trust luxury startup funding. Skift's November 2026 capital tracker shows no startup VC rounds (only Marriott buyback and large-company activity). Travel VC structural contraction continues.
+- **Ahoy Club**: Ray White Marine stake confirmed as 2023 deal (already tracked). No November 2026 news. Comanche Sydney-Hobart sponsorship already in prior runs. Score UNCHANGED at 40.
+- **Inspirato/EC**: James Henderson still interim CEO. Robin Warne named CFO (from acquisition coverage). No permanent CEO announced. Score UNCHANGED at 45.
+- **ILTM Cannes**: 19 days away. Virtuoso confirmed exhibitor. Zero competitor pre-announcements found. The critical competitive intelligence window remains ahead.
+
+### Headline Assessment (Nov 11, 13th Run)
+**Stability run. No score changes. Tenth consecutive nil on peer-trust funding.** Three signals dominate: (1) Fora Via AI is confirmed advisor-only for the SIXTH consecutive extended search — the pattern is now highly statistically robust. At 90+ days post-Series-D and 105+ days post-CMO hire with zero consumer AI product, the constraint is structural (advisory DNA), not delay. LINX's peer-trust window is open through Q1 2027. (2) Mindtrip's "social layer" is creator economy (intermediaries with audiences), not peer trust (verified friends). This is a critical positioning distinction for LINX — creator economy platforms like Mindtrip/Thatch and peer-trust networks like LINX are architecturally different products serving different trust signals. Use in every investor and operator conversation: "Mindtrip tells you what a creator with 100K followers recommends. LINX tells you what your most trusted friend who actually did it recommends." (3) Virtuoso confirms ILTM presence — CDO Thatcher Brown's first post-hire industry event is a monitoring trigger. Any expedition cruise partnership announced by Virtuoso at ILTM Cannes = immediate score adjustment.
+
+---
 
 ## Strategic Summary — Nov 10, 2026 (Twelfth Run, ~15:50 UTC)
 
