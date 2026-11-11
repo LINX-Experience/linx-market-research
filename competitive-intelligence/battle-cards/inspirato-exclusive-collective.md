@@ -1,6 +1,6 @@
 # Battle Card: Inspirato / The Exclusive Collective
 
-> **Last Updated:** 2026-11-07
+> **Last Updated:** 2026-11-11 (sixteenth run)
 > **Threat Score:** 45/100
 > **Trend:** RESTRUCTURING — integration ongoing, permanent CEO still being recruited
 
@@ -62,6 +62,7 @@
 
 | Date | Move | Source |
 |------|------|--------|
+| Nov 11, 2026 (~21:50 UTC) | **Exclusive Collective 2026 scale confirmed: $500M+ projected revenue, ~$70M EBITDA.** Combined group (Exclusive Resorts + onefinestay + Inspirato under James Henderson) on track for $500M+ revenue and ~$70M EBITDA in 2026. James Henderson has led Exclusive Resorts for 6 years. Permanent Inspirato CEO search still unresolved as of this run. LINX IMPLICATION: The combined entity has real institutional scale ($500M revenue, $70M EBITDA) and remains in restructuring/integration mode — no new products, no peer-trust features, no referral layer. The integration focus keeps velocity low. Score UNCHANGED at 45. CONFIDENCE: CONFIRMED (Fintool, SherpaReport, Panabee — all Feb 2026 acquisition coverage; revenue projection from acquisition announcement). | [Fintool](https://fintool.com/news/inspirato-acquisition-closes) / [SherpaReport](https://www.sherpareport.com/destination-clubs/the-exclusive-collective-launch.html) — CONFIRMED |
 | Feb 2026 | Acquisition by Exclusive Investments completed. Inspirato taken private. Class A shares delisted from Nasdaq. | [BusinessWire](https://www.businesswire.com/news/home/20260203454331/en/The-Exclusive-Collective-and-Inspirato-Announce-Completion-of-Acquisition) |
 | Dec 2025 | The Exclusive Collective announced with agreement to acquire Inspirato at $4.27/share ($59M equity value). Steve Case as backer. | [BusinessWire](https://www.businesswire.com/news/home/20251216433405/en/The-Exclusive-Collective-Launches-with-Agreement-to-Acquire-Inspirato-Uniting-Three-Market-Leading-Luxury-Travel-Brands) |
 | Apr 2025 | Inspirato unveiled 2026 luxury travel collection. Arctic expedition and Iceland yacht cruise at full capacity. | [GlobeNewswire](https://www.globenewswire.com/news-release/2025/04/03/3055201/0/en/Inspirato-Unveils-2026-Luxury-Travel-Experiences.html) |

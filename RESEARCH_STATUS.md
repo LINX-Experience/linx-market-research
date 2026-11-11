@@ -1,6 +1,6 @@
 # LINX Research Engine — Status
 
-> **Last Updated:** 2026-11-11 (Operator Scout — ninth run)
+> **Last Updated:** 2026-11-11 (Competitive Intelligence — sixteenth run)
 > **Engine Version:** 1.0
 > **Agents Active:** 7
 
@@ -10,7 +10,7 @@
 
 | Pillar | Reports | Operators Profiled | Competitors Tracked | HOA Communities | Signals Flagged |
 |--------|---------|-------------------|--------------------|-----------------|----|
-| Competitive Intelligence | 17 | -- | 8 (1 defunct) + 8 new watch | -- | 61 |
+| Competitive Intelligence | 18 | -- | 8 (1 defunct) + 8 new watch | -- | 65 |
 | Operator Scout | 9 | 77 | -- | -- | 28 |
 | Market Pulse | 8 | -- | -- | -- | 46 |
 | HOA Enrichment | 0 | -- | -- | 0 | 0 |
@@ -34,6 +34,7 @@
 
 | Date | Time (UTC) | Agent | Status | Files Written | Key Finding |
 |------|-----------|-------|--------|---------------|-------------|
+| 2026-11-11 | ~21:50 UTC | COMPETITIVE | COMPLETE | 3 battle cards updated (Fora, Virtuoso, Inspirato/EC) + threat matrix + 4 new signals + status | **NO SCORE CHANGES. Stability run with two new critical intelligence items. Scores: Fora 84, Mindtrip 73, Virtuoso 62, QR 49, Inspirato/EC 45, Booking 44, Ahoy 40. (1) Fora Via AI: NINTH consecutive extended confirmation — still advisor-only. Advisor usage 50x/month (up from 12x), confirming Via deepening advisor adoption while zero consumer features. LINX peer-trust window open through Q1 2027. (2) ILTM Cannes exhibitors: Scenic + Emerald expedition cruise lines confirmed on floor in 19 days. CDO Thatcher Brown's first ILTM coincides — watch for Virtuoso + expedition cruise preferred-supplier announcements Nov 30-Dec 3. (3) Odessia raised $6M from Sequoia before OpenAI acquisition — Sequoia + OpenAI both bet on booking layer, confirming trust layer (LINX) is the remaining unbuilt premium. (4) Exclusive Collective 2026 scale: $500M+ revenue, ~$70M EBITDA confirmed. (5) 13th consecutive nil on peer-trust luxury startup funding; VC drought deepening in Q4 2026.** |
 | 2026-11-11 | ~21:47 UTC | OPERATOR SCOUT | COMPLETE | 7 profiles (exodus-adventure-travels, intrepid-travel-premium, rancho-la-puerta, canyon-ranch, atlas-ocean-voyages, three-camel-lodge, gibbs-farm) + REI Adventures DEFUNCT + queue updated + 1 signal + status | **Atlas Ocean Voyages (83): Highest-scoring expedition cruise operator — 3-ship all-suite fleet, Virtuoso Preferred, +49% 2026 YTD growth, paying 15-18% commissions = strongest financial arbitrage case in cohort. 77/100 operators profiled. REI Adventures DEFUNCT (division closed Jan 2025 → now Intrepid white-label). Intrepid (50): Too large ($809M), too mass-market; not a LINX target. Rancho La Puerta (70): T&L #1 wellness retreat 2026, 85-year family legacy, word-of-mouth architecture suits LINX. Canyon Ranch (65): Austin opening Oct 2026 = best window, Michelin Three Keys Tucson, VICI-backed expansion. Three Camel Lodge (78): Mongolia Gobi, Preferred Hotels, 15-20% commissions, cold approach only. Gibbs Farm (72): Tanzania La Liste 94.5, low confidence (ownership unknown).** |
 | 2026-11-11 | 13:05 UTC | MARKET PULSE + GTM | COMPLETE | market-pulse/daily/2026-11-11.md + event-calendar.md updated + 7 new signals + status | **CRITICAL: Hotels +8% RevPAR while LVMH/Hermès/Kering -37% (Reuters Breakingviews Nov 11) = strongest single investor data point of 2026. Spear's: AI agents making luxury bookings — trust graph becomes input layer for autonomous AI. Simon-Kucher Nov 5: "Will LLMs repeat the OTA scenario?" — luxury brands being warned about AI distribution dependency. ILTM Cannes: 32% first-timers (3,200 operators with no advisor relationships) + 14 days to buyer deadline (Nov 25). Aman Karingani Mozambique opening 2026 = operator scout target. NSW agent disclosure mandate signals global transparency wave. QR: 13+ weeks past deadline, still dormant. ICS Madrid concluded — monitor for recap. MYS 2027 (Sept 22-25) confirmed: press accreditation opens June 2027.** |
 | 2026-11-11 | 12:21 UTC | COMPETITIVE | COMPLETE | 2 battle cards updated (Fora, Booking Holdings) + threat matrix (XPERISUS new entry) + 4 new signals + status | **NO SCORE CHANGES. Stability run. Scores: Fora 84, Mindtrip 73, Virtuoso 62, QR 49, Inspirato/EC 45, Booking Holdings 44, Ahoy Club 40. (1) XPERISUS Japan luxury startup ($10M+ funding, ANA + JR East backing, $64K+ Japan experiences) added to Emerging Threats — directly relevant to Virtuoso's Japan #1 2027 priority and LINX's zero Japan operator coverage. (2) Lola detail confirmed: experiences-first ("anything worth doing"), membership model, GetYourGuide launch partner, Sept 29 launch — most premium-directional of Booking Holdings AI bets. (3) Fora Via AI: EIGHTH consecutive confirmation — Via general release to ALL advisors in August 2026 (advisor expansion, not consumer launch). (4) Skift Nov 2026: 0 venture financings — 12th consecutive nil on peer-trust luxury startup funding.** |

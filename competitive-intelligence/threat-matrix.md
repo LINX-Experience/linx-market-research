@@ -1,8 +1,8 @@
 # Competitive Threat Matrix
 
-> Updated: 2026-11-11 (fifteenth run)
+> Updated: 2026-11-11 (sixteenth run, ~21:50 UTC)
 > Scored 0-100 using standardized framework.
-> Previous run: 2026-11-11 (fourteenth run, 06:22 UTC)
+> Previous run: 2026-11-11 (fifteenth run, 12:21 UTC)
 
 ## Scoring Framework
 
@@ -49,6 +49,28 @@ Competitive Threat Score (0-100):
 | **Booking Holdings Vayo + Lola (AI startups)** | **NEW (Oct-Nov 2026):** Vayo ($100M investment planned, Oct 14, private beta): reads users' travel confirmation emails, monitors for price drops/schedule changes, works across all booking platforms including Booking competitors. Led by Mike Fridgen (ex-Madrona Venture Labs). No luxury focus, no peer trust, no referral attribution. Lola: separate AI travel startup via Kayak (greenfield mandate). Both launched within 2 weeks. CONFIDENCE: CONFIRMED (Skift, GeekWire, TravelDailyNews — Oct 14, 2026). | Scores Booking Holdings 40→44 (Velocity 2→4, Momentum 4→5, Feature Parity 3→4). Vayo is mass-market infrastructure — it commoditizes trip monitoring for all travelers. No peer/luxury/referral features. Threat to LINX: LOW directly. If Vayo adds recommendation or earnings features, escalate. |
 | **XPERISUS (Japan luxury travel)** | **NEW (Nov 11, 2026, fifteenth run):** Tokyo-based luxury travel startup designing and selling $64K+ Japan travel experiences directly to wealthy customers. Funding: Series A ¥1.24B (~$8-9M) Oct 2025. Additional ¥400M funding line from Mizuho Bank + Japan Finance Corporation (Sept 2026). Strategic investors: ANA Holdings (Jul 2025, via ANA Future Frontier Fund), JR Kyushu, JR East partnership confirmed (Jun 2026). Total raised: ~$10M+ USD equivalent. CEO Tomoyoshi Maruyama. IPO trajectory (Bloomberg, Dec 2025). Bloomberg headline: "Travel Agent Specializing in $64,000 Japan Trips Targets IPO." Fukuoka office opened April 2026. Sales expected to double this fiscal year (self-reported). CONFIDENCE: CONFIRMED (The Bridge Sept 2026, AltexSoft, Bloomberg Dec 2025, ANA Holdings investor announcement Jul 2025). | Japan luxury travel vertical + direct B2C wealthy-customer model + institutional aviation/rail backing. NOT peer-trust, NOT referral. Direct LINX competition: LOW. BUT: (1) Virtuoso ranked Japan #1 for 2027 — XPERISUS controls premium Japan experiences inventory; (2) ANA + JR East backing means XPERISUS has access to Japan's most exclusive travel infrastructure; (3) LINX has zero Japan operators profiled — XPERISUS filling that vacuum first. If XPERISUS adds referral/peer layer or expands beyond Japan: re-score immediately at 35+. Watch for IPO (increases public funding and competitive pressure). |
 | **G Adventures + National Geographic Signature** | **NEW (Nov 10, 2026):** G Adventures and National Geographic Expeditions launched "National Geographic Signature with G Adventures" — a high-end expedition product priced at ~$1,000/day (double G Adventures' standard NatGeo Journeys). 29 tours available from Jan 2027, expanding to 50+ by end of 2026. Destinations: South Africa, Vietnam, Japan, Central Asia, Peru, Jordan. Max group size 22. Expert Expedition Leaders. Concierge support. Distribution explicitly through travel agents. Launch: Jan 2026 announcement, actual departures from Jan 2027. CEO Bruce Poon Tip reports being "blown away" by agent and consumer response (self-reported). CONFIDENCE: CONFIRMED (TravelGossip, Luxury Travel Advisor, Travel Weekly Australia, Aspire Travel Club). | NOT peer-trust. NOT direct LINX competitor. Threat level: LOW but WATCH. This is a traditional agent-distributed luxury expedition product competing in LINX's highest-value vertical (expedition travel). Its agent-first distribution confirms the channel LINX is working alongside. If NatGeo Signature ever adds a referral/trust layer, it becomes a 40+ threat immediately given NatGeo brand equity. The more immediate implication: NatGeo Signature and LINX both want expedition luxury operators — NatGeo Signature locks agents early; LINX needs to lock peer referrers first. Added: 2026-11-10 (eleventh run). |
+
+## Strategic Summary — Nov 11, 2026 (Sixteenth Run, ~21:50 UTC)
+
+**No competitor has built trust-verified peer referral attribution for luxury travel. Moat intact.**
+
+### What Changed (Nov 11 15th run → Nov 11 16th run)
+- **ALL SCORES UNCHANGED.** Fora: 84. Mindtrip: 73. Virtuoso: 62. Quite Remarkable: 49. Inspirato/EC: 45. Booking Holdings: 44. Ahoy Club: 40.
+- **Fora Via AI**: CONFIRMED ADVISOR-FACING ONLY — **NINTH CONSECUTIVE EXTENDED CONFIRMATION (Nov 11, ~21:50 UTC).** New detail: company states advisors use Via ~50x/month vs 12x a year ago — confirming Via is deepening advisor adoption, not pivoting to consumers. All search coverage is July–August 2026 Series D; zero November product news. No ILTM pre-show consumer announcement. LINX's peer-trust window is open through Q1 2027. Score UNCHANGED at 84. CONFIDENCE: CONFIRMED (PhocusWire, TheNextWeb, VentureBurn — all advsor-only scope; absence of consumer launch across nine extended searches).
+- **ILTM Cannes exhibitor intelligence (new)**: Extended ILTM search confirms Scenic Luxury Cruises and Emerald Cruises are named exhibitors at ILTM Cannes 2026 — both luxury expedition cruise lines in LINX's target vertical. CDO Thatcher Brown's first ILTM as CDO (Oct 7 appointment) means Virtuoso's expedition cruise executive will be in the same room as Scenic/Emerald operators for the first time in his new role. No pre-show Virtuoso announcement found. Watch Nov 30-Dec 3 aggressively. Score UNCHANGED at 62.
+- **Odessia pre-seed funding detail (new)**: Odessia raised $6M pre-seed from Sequoia before OpenAI acquired it. Strengthens the LINX MACRO thesis — Sequoia validated the AI travel agent layer; OpenAI then bought it. The trust layer above it is LINX's.
+- **Exclusive Collective scale confirmed (new)**: $500M+ projected revenue, ~$70M EBITDA in 2026. James Henderson CEO/interim. No permanent Inspirato CEO. Integration ongoing, velocity low. Score UNCHANGED at 45.
+- **Mindtrip**: No new November 2026 news beyond prior runs. Most recent press: Sept 30, 2026 PTA launch. Score UNCHANGED at 73.
+- **Quite Remarkable**: 14+ weeks past Fall 2026 target. Zero evidence of launch. Score UNCHANGED at 49.
+- **Booking Holdings (Vayo + Lola)**: Vayo still in private beta (20-person team, no business model settled). Lola launched Sept 29. No new November features. Score UNCHANGED at 44.
+- **Ahoy Club**: No November 2026 news found. Score UNCHANGED at 40.
+- **Peer-trust luxury startup funding**: **THIRTEENTH CONSECUTIVE NIL.** Skift October 2026: 10 of 17 VC rounds were ≤$5M — VC drought deepening. No LINX-adjacent raise found in October or November.
+- **Voyagier**: Seed round still unconfirmed. Still sub-$2M pre-seed. No close announced.
+
+### Headline Assessment (Nov 11, 16th Run)
+**Stability run with two new critical intelligence items.** No score changes. Nine consecutive Via AI confirmations establish Fora's advisory DNA as the definitively structural constraint on consumer AI launch — not delay. The more time-sensitive finding: ILTM Cannes exhibitor list now confirms Scenic and Emerald expedition cruise lines will be on the floor in 19 days, in the same venue as Virtuoso CDO Thatcher Brown (expedition cruise mandate). If Virtuoso announces preferred-supplier agreements with either at the show, the expedition cruise vertical narrows rapidly. LINX must have Swan Hellenic outreach complete before Nov 30. The Odessia/Sequoia detail ($6M from Sequoia, then OpenAI acquisition) enriches the MACRO thesis — top VC + top AI company both bet on the booking layer, leaving the trust layer (LINX) completely unaddressed. Peer-trust moat fully intact. 13 consecutive monitoring cycles with zero funded peer-trust luxury entrant.
+
+---
 
 ## Strategic Summary — Nov 11, 2026 (Fifteenth Run, 12:21 UTC)
 
