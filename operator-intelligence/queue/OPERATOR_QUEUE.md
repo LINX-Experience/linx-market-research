@@ -80,6 +80,13 @@ LINX Operator ICP Fit Score (0-100):
 | 55 | Fogo Island Inn | Luxury Lodge | **85** | PROFILED | `profiles/fogo-island-inn.md` |
 | 56 | Mashpi Lodge | Luxury Lodge | 73 | PROFILED | `profiles/mashpi-lodge.md` |
 | 57 | Sal Salis Ningaloo Reef | Luxury Lodge | 73 | PROFILED ⚠️ CLOSED until Mar 2027 | `profiles/sal-salis-ningaloo.md` |
+| 58 | Exodus Adventure Travels | Adventure/Active | 62 | PROFILED | `profiles/exodus-adventure-travels.md` |
+| 59 | Intrepid Travel (Premium) | Adventure/Active | 50 | PROFILED | `profiles/intrepid-travel-premium.md` |
+| 60 | Rancho La Puerta | Wellness Retreat | 70 | PROFILED | `profiles/rancho-la-puerta.md` |
+| 61 | Canyon Ranch | Wellness Resort | 65 | PROFILED | `profiles/canyon-ranch.md` |
+| 62 | Atlas Ocean Voyages | Expedition/Cruise | **83** | PROFILED | `profiles/atlas-ocean-voyages.md` |
+| 63 | Three Camel Lodge | Luxury Lodge | **78** | PROFILED | `profiles/three-camel-lodge.md` |
+| 64 | Gibbs Farm | Safari/Lodge | 72 | PROFILED | `profiles/gibbs-farm.md` |
 
 ## Queue — Phase 1 (100 operators, 20 per vertical)
 
@@ -124,7 +131,7 @@ LINX Operator ICP Fit Score (0-100):
 | 12 | Sanctuary Retreats (A&K Sanctuary) | MEDIUM | PROFILED (68) |
 | 13 | Volcanoes Safaris | MEDIUM | PROFILED (77) |
 | 14 | Robin Pope Safaris | MEDIUM | PROFILED (77) |
-| 15 | Gibbs Farm | LOW | QUEUED |
+| 15 | Gibbs Farm | LOW | PROFILED (72) |
 | 16 | Cottar's 1920s | LOW | PROFILED (85) |
 | 17 | Ol Donyo Lodge | LOW | QUEUED |
 | 18 | Jack's Camp / Uncharted Africa | LOW | PROFILED (78) |
@@ -153,7 +160,7 @@ LINX Operator ICP Fit Score (0-100):
 | 17 | Poseidon Expeditions | LOW | QUEUED |
 | 18 | Oceanwide Expeditions | LOW | QUEUED |
 | 19 | G Adventures (luxury tier) | LOW | QUEUED |
-| 20 | Atlas Ocean Voyages | LOW | QUEUED |
+| 20 | Atlas Ocean Voyages | LOW | PROFILED (83) |
 
 ### Luxury Resort / Lodge (20)
 | # | Operator | Priority | Status |
@@ -170,7 +177,7 @@ LINX Operator ICP Fit Score (0-100):
 | 10 | Sheldon Chalet | MEDIUM | PROFILED (72) |
 | 11 | Longitude 131 | MEDIUM | PROFILED (77) |
 | 12 | Sal Salis | MEDIUM | PROFILED (73) ⚠️ CLOSED until Mar 2027 |
-| 13 | Three Camel Lodge | LOW | QUEUED |
+| 13 | Three Camel Lodge | LOW | PROFILED (78) |
 | 14 | Fogo Island Inn | LOW | PROFILED (85) |
 | 15 | Canopy & Stars (luxury tier) | LOW | QUEUED |
 | 16 | Pikaia Lodge | LOW | QUEUED |
@@ -187,13 +194,13 @@ LINX Operator ICP Fit Score (0-100):
 | 3 | White Desert | HIGH | PROFILED (82) |
 | 4 | Backroads | MEDIUM | PROFILED (62) |
 | 5 | Mountain Travel Sobek | MEDIUM | PROFILED (71) |
-| 6 | REI Adventures (luxury tier) | MEDIUM | QUEUED |
-| 7 | Exodus Travels (premium) | MEDIUM | QUEUED |
-| 8 | Intrepid Travel (premium) | MEDIUM | QUEUED |
+| 6 | REI Adventures (luxury tier) | MEDIUM | SKIP — DEFUNCT (division closed Jan 2025; now Intrepid white-label; no standalone operator) |
+| 7 | Exodus Travels (premium) | MEDIUM | PROFILED (62) |
+| 8 | Intrepid Travel (premium) | MEDIUM | PROFILED (50) |
 | 9 | Kamalaya | MEDIUM | PROFILED (73) |
 | 10 | SHA Wellness Clinic | MEDIUM | PROFILED (76) |
-| 11 | Rancho La Puerta | MEDIUM | QUEUED |
-| 12 | Canyon Ranch | MEDIUM | QUEUED |
+| 11 | Rancho La Puerta | MEDIUM | PROFILED (70) |
+| 12 | Canyon Ranch | MEDIUM | PROFILED (65) |
 | 13 | COMO Shambhala | MEDIUM | PROFILED (74) |
 | 14 | Chiva-Som | MEDIUM | PROFILED (77) |
 | 15 | Wilderness Scotland | LOW | QUEUED |
@@ -212,7 +219,7 @@ LINX Operator ICP Fit Score (0-100):
 | Expedition | 20 | 5 | 15 | 5 |
 | Luxury Resort | 20 | 3 | 14 | 6 |
 | Adventure/Wellness | 20 | 3 | 9 | 11 |
-| **TOTAL** | **100** | **20** | **70** | **30** |
+| **TOTAL** | **100** | **20** | **77** | **23** |
 
 ---
 
