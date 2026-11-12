@@ -87,6 +87,13 @@ LINX Operator ICP Fit Score (0-100):
 | 62 | Atlas Ocean Voyages | Expedition/Cruise | **83** | PROFILED | `profiles/atlas-ocean-voyages.md` |
 | 63 | Three Camel Lodge | Luxury Lodge | **78** | PROFILED | `profiles/three-camel-lodge.md` |
 | 64 | Gibbs Farm | Safari/Lodge | 72 | PROFILED | `profiles/gibbs-farm.md` |
+| 65 | Ol Donyo Lodge | Safari/Lodge | 75 | PROFILED — Great Plains sub-property | `profiles/ol-donyo-lodge.md` |
+| 66 | Lamai Serengeti | Safari/Lodge | 76 | PROFILED — Nomad Tanzania sub-camp | `profiles/lamai-serengeti.md` |
+| 67 | Bushmans Kloof | Safari/Wellness | **80** | PROFILED | `profiles/bushmans-kloof.md` |
+| 68 | Heritage Expeditions | Expedition/Cruise | 76 | PROFILED | `profiles/heritage-expeditions.md` |
+| 69 | Poseidon Expeditions | Expedition/Polar | 70 | PROFILED | `profiles/poseidon-expeditions.md` |
+| 70 | Pikaia Lodge | Luxury Resort | **83** | PROFILED | `profiles/pikaia-lodge.md` |
+| 71 | Inkaterra | Luxury Resort | 75 | PROFILED | `profiles/inkaterra.md` |
 
 ## Queue — Phase 1 (100 operators, 20 per vertical)
 
@@ -133,10 +140,10 @@ LINX Operator ICP Fit Score (0-100):
 | 14 | Robin Pope Safaris | MEDIUM | PROFILED (77) |
 | 15 | Gibbs Farm | LOW | PROFILED (72) |
 | 16 | Cottar's 1920s | LOW | PROFILED (85) |
-| 17 | Ol Donyo Lodge | LOW | QUEUED |
+| 17 | Ol Donyo Lodge | LOW | PROFILED (75) — Great Plains Conservation sub-property |
 | 18 | Jack's Camp / Uncharted Africa | LOW | PROFILED (78) |
-| 19 | Lamai Serengeti | LOW | QUEUED |
-| 20 | Bushmans Kloof | LOW | QUEUED |
+| 19 | Lamai Serengeti | LOW | PROFILED (76) — Nomad Tanzania sub-camp |
+| 20 | Bushmans Kloof | LOW | PROFILED (80) |
 
 ### Expedition (20)
 | # | Operator | Priority | Status |
@@ -156,8 +163,8 @@ LINX Operator ICP Fit Score (0-100):
 | 13 | Aqua Expeditions | MEDIUM | PROFILED (72) |
 | 14 | Polar Latitudes | MEDIUM | PROFILED (71) |
 | 15 | One Ocean Expeditions | MEDIUM | PROFILED (15 — DEFUNCT) |
-| 16 | Heritage Expeditions | LOW | QUEUED |
-| 17 | Poseidon Expeditions | LOW | QUEUED |
+| 16 | Heritage Expeditions | LOW | PROFILED (76) |
+| 17 | Poseidon Expeditions | LOW | PROFILED (70) |
 | 18 | Oceanwide Expeditions | LOW | QUEUED |
 | 19 | G Adventures (luxury tier) | LOW | QUEUED |
 | 20 | Atlas Ocean Voyages | LOW | PROFILED (83) |
@@ -180,9 +187,9 @@ LINX Operator ICP Fit Score (0-100):
 | 13 | Three Camel Lodge | LOW | PROFILED (78) |
 | 14 | Fogo Island Inn | LOW | PROFILED (85) |
 | 15 | Canopy & Stars (luxury tier) | LOW | QUEUED |
-| 16 | Pikaia Lodge | LOW | QUEUED |
+| 16 | Pikaia Lodge | LOW | PROFILED (83) |
 | 17 | Mashpi Lodge | LOW | PROFILED (73) |
-| 18 | Inkaterra | LOW | QUEUED |
+| 18 | Inkaterra | LOW | PROFILED (75) |
 | 19 | Tierra Hotels | LOW | QUEUED |
 | 20 | Alto Atacama | LOW | QUEUED |
 
@@ -215,11 +222,11 @@ LINX Operator ICP Fit Score (0-100):
 | Vertical | Total Queued | HIGH Priority | Profiled | Remaining |
 |----------|-------------|---------------|----------|-----------|
 | Yacht Charter | 20 | 5 | 16 | 4 |
-| Safari/Lodge | 20 | 4 | 16 | 4 |
-| Expedition | 20 | 5 | 15 | 5 |
-| Luxury Resort | 20 | 3 | 14 | 6 |
+| Safari/Lodge | 20 | 4 | 18 | 2 |
+| Expedition | 20 | 5 | 17 | 3 |
+| Luxury Resort | 20 | 3 | 17 | 3 |
 | Adventure/Wellness | 20 | 3 | 9 | 11 |
-| **TOTAL** | **100** | **20** | **77** | **23** |
+| **TOTAL** | **100** | **20** | **84** | **16** |
 
 ---
 
