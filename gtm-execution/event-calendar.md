@@ -116,10 +116,11 @@
 | Oct 28 - Nov 1 | FLIBS | Fort Lauderdale | TIER 2 | PASSED — 211 superyachts, $1.7B listings |
 | Nov 3-5 | WTM London | London | TIER 2 | PASSED — "access not excess," 60% premium demand |
 | Nov 10-11 | International Cruise Summit | Madrid, Spain | TIER 2 | CONCLUDED — Monitor CruisesNews.es for recap Nov 11-12. AI + commission structure focus. |
-| Nov 12-13 | **Ecoluxury Fair Rome** | Rome, Italy | TIER 3 | **TOMORROW — Italian sustainable luxury operators. Post-event outreach Nov 14–21.** |
+| **Nov 12-13** | **Ecoluxury Fair Rome** | **Rome, Italy** | TIER 3 | **LIVE TODAY — Italian + European sustainable luxury operators. Post-event outreach Nov 14–21. ENIT + ITA Airways attending.** |
 | Nov 19-21 | Las Vegas Grand Prix | Las Vegas, NV | TIER 3 | UHNW event. Hospitality $5K-$20K+. No LINX presence. |
+| **Nov 24-25** | **Gulf Superyacht Summit** | **Dubai, UAE (Jumeirah Mina Al Salam)** | **TIER 2** | **12 DAYS. 8th edition. Invitation-only. Lürssen + Dubai Economy & Tourism partners. Ferretti CEO speaker. UAE Yachting Alliance on agenda. AXIOM: GCC superyacht economy intelligence. Contact SuperYacht Times for invitation.** |
 | **Nov 25** | **ILTM Buyer Deadline** | **—** | **TIER 1** | **Last day for replacement buyers. Apply NOW. Buyer fee: €300.** |
-| **Nov 30 - Dec 3** | **ILTM Cannes** | **Cannes** | **TIER 1** | **19 DAYS. Apply buyer programme today (€300). 752 exhibitors. 32% first-timers = highest-receptivity targets.** |
+| **Nov 30 - Dec 3** | **ILTM Cannes** | **Cannes** | **TIER 1** | **18 DAYS. Apply buyer programme today (€300). 752 exhibitors. 32% first-timers = highest-receptivity targets. NEW: Silversea (Cormorant at 55 South opened Nov 12) added to priority target list.** |
 
 ### 2027 Events (Plan Now) — FULLY CONFIRMED
 
