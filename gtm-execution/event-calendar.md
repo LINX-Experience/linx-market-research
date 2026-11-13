@@ -118,9 +118,10 @@
 | Nov 10-11 | International Cruise Summit | Madrid, Spain | TIER 2 | CONCLUDED — Monitor CruisesNews.es for recap Nov 11-12. AI + commission structure focus. |
 | **Nov 12-13** | **Ecoluxury Fair Rome** | **Rome, Italy** | TIER 3 | **LIVE TODAY — Italian + European sustainable luxury operators. Post-event outreach Nov 14–21. ENIT + ITA Airways attending.** |
 | Nov 19-21 | Las Vegas Grand Prix | Las Vegas, NV | TIER 3 | UHNW event. Hospitality $5K-$20K+. No LINX presence. |
-| **Nov 24-25** | **Gulf Superyacht Summit** | **Dubai, UAE (Jumeirah Mina Al Salam)** | **TIER 2** | **12 DAYS. 8th edition. Invitation-only. Lürssen + Dubai Economy & Tourism partners. Ferretti CEO speaker. UAE Yachting Alliance on agenda. AXIOM: GCC superyacht economy intelligence. Contact SuperYacht Times for invitation.** |
-| **Nov 25** | **ILTM Buyer Deadline** | **—** | **TIER 1** | **Last day for replacement buyers. Apply NOW. Buyer fee: €300.** |
-| **Nov 30 - Dec 3** | **ILTM Cannes** | **Cannes** | **TIER 1** | **18 DAYS. Apply buyer programme today (€300). 752 exhibitors. 32% first-timers = highest-receptivity targets. NEW: Silversea (Cormorant at 55 South opened Nov 12) added to priority target list.** |
+| **Nov 24-25** | **Gulf Superyacht Summit** | **Dubai, UAE** | **TIER 2** | **11 DAYS. 8th edition. Invitation-only, senior-decision-maker-only moderated discussions. Partners: Lürssen (shipbuilder) + Dubai Economy & Tourism. Ferretti CEO speaker. UAE Yachting Alliance on Day 1 agenda. AXIOM: GCC superyacht economy intelligence. Contact SuperYacht Times for GSS invitation today.** |
+| **Nov 25** | **ILTM Buyer Deadline** | **—** | **TIER 1** | **12 DAYS. Last day for replacement buyers. Apply NOW. Buyer fee: €300.** |
+| **Nov 25-29** | **Dubai International Boat Show (DIBS)** | **Dubai Harbour, UAE** | **TIER 2** | **RESCHEDULED to Nov 25-29 (83rd edition). Runs CONCURRENT with GSS (overlap Nov 25). 200+ boats. Combined with GSS = 5-day Dubai superyacht intelligence window Nov 24-29. AXIOM CRITICAL. Register at DIBS (public access).** |
+| **Nov 30 - Dec 3** | **ILTM Cannes** | **Cannes** | **TIER 1** | **17 DAYS. Apply buyer programme today (€300). 2,350+ exhibitors. 32% first-timers = highest-receptivity targets. Priority targets: Swan Hellenic (if exhibiting), Atlas Ocean Voyages (if exhibiting), Hyatt luxury portfolio, Banyan Tree, Marriott premium brands, Rosewood Miyakojima. Silversea (Cormorant at 55 South opened Nov 12) also priority.** |
 
 ### 2027 Events (Plan Now) — FULLY CONFIRMED
 
