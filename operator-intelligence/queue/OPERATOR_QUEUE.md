@@ -165,7 +165,7 @@ LINX Operator ICP Fit Score (0-100):
 | 15 | One Ocean Expeditions | MEDIUM | PROFILED (15 — DEFUNCT) |
 | 16 | Heritage Expeditions | LOW | PROFILED (76) |
 | 17 | Poseidon Expeditions | LOW | PROFILED (70) |
-| 18 | Oceanwide Expeditions | LOW | QUEUED |
+| 18 | Oceanwide Expeditions | LOW | PROFILED (65) |
 | 19 | G Adventures (luxury tier) | LOW | QUEUED |
 | 20 | Atlas Ocean Voyages | LOW | PROFILED (83) |
 
@@ -186,12 +186,12 @@ LINX Operator ICP Fit Score (0-100):
 | 12 | Sal Salis | MEDIUM | PROFILED (73) ⚠️ CLOSED until Mar 2027 |
 | 13 | Three Camel Lodge | LOW | PROFILED (78) |
 | 14 | Fogo Island Inn | LOW | PROFILED (85) |
-| 15 | Canopy & Stars (luxury tier) | LOW | QUEUED |
+| 15 | Canopy & Stars (luxury tier) | LOW | PROFILED (28) ⚠️ NOT A LINX OPERATOR — marketplace model, inverted ICP |
 | 16 | Pikaia Lodge | LOW | PROFILED (83) |
 | 17 | Mashpi Lodge | LOW | PROFILED (73) |
 | 18 | Inkaterra | LOW | PROFILED (75) |
-| 19 | Tierra Hotels | LOW | QUEUED |
-| 20 | Alto Atacama | LOW | QUEUED |
+| 19 | Tierra Hotels (now Beckons) | LOW | PROFILED (77) |
+| 20 | Alto Atacama (now Nayara Alto Atacama) | LOW | PROFILED (80) |
 
 ### Adventure / Wellness (20)
 | # | Operator | Priority | Status |
@@ -210,9 +210,9 @@ LINX Operator ICP Fit Score (0-100):
 | 12 | Canyon Ranch | MEDIUM | PROFILED (65) |
 | 13 | COMO Shambhala | MEDIUM | PROFILED (74) |
 | 14 | Chiva-Som | MEDIUM | PROFILED (77) |
-| 15 | Wilderness Scotland | LOW | QUEUED |
+| 15 | Wilderness Scotland | LOW | PROFILED (50) |
 | 16 | Much Better Adventures | LOW | QUEUED |
-| 17 | 50 Degrees North | LOW | QUEUED |
+| 17 | 50 Degrees North | LOW | PROFILED (60) |
 | 18 | Terres d'Aventure | LOW | QUEUED |
 | 19 | World Expeditions | LOW | QUEUED |
 | 20 | Peregrine Adventures | LOW | QUEUED |
@@ -222,11 +222,11 @@ LINX Operator ICP Fit Score (0-100):
 | Vertical | Total Queued | HIGH Priority | Profiled | Remaining |
 |----------|-------------|---------------|----------|-----------|
 | Yacht Charter | 20 | 5 | 16 | 4 |
-| Safari/Lodge | 20 | 4 | 18 | 2 |
-| Expedition | 20 | 5 | 17 | 3 |
-| Luxury Resort | 20 | 3 | 17 | 3 |
-| Adventure/Wellness | 20 | 3 | 9 | 11 |
-| **TOTAL** | **100** | **20** | **84** | **16** |
+| Safari/Lodge | 20 | 4 | 20 | 0 |
+| Expedition | 20 | 5 | 19 (1 defunct) | 1 |
+| Luxury Resort | 20 | 3 | 20 | 0 |
+| Adventure/Wellness | 20 | 3 | 15 (1 SKIP) | 4 |
+| **TOTAL** | **100** | **20** | **90** | **10** |
 
 ---
 
