@@ -94,6 +94,13 @@ LINX Operator ICP Fit Score (0-100):
 | 69 | Poseidon Expeditions | Expedition/Polar | 70 | PROFILED | `profiles/poseidon-expeditions.md` |
 | 70 | Pikaia Lodge | Luxury Resort | **83** | PROFILED | `profiles/pikaia-lodge.md` |
 | 71 | Inkaterra | Luxury Resort | 75 | PROFILED | `profiles/inkaterra.md` |
+| 72 | G Adventures (NatGeo Signature) | Adventure/Expedition | 52 | PROFILED | `profiles/g-adventures-national-geographic-signature.md` |
+| 73 | TWW Yachts | Yacht Charter | 70 | PROFILED | `profiles/tww-yachts.md` |
+| 74 | Bluewater Yachting | Yacht Charter | 72 | PROFILED | `profiles/bluewater-yachting.md` |
+| 75 | World Expeditions | Adventure/Active | 55 | PROFILED | `profiles/world-expeditions.md` |
+| 76 | Much Better Adventures | Adventure/Wildlife | 45 | PROFILED | `profiles/much-better-adventures.md` |
+| 77 | Terres d'Aventure | Adventure/Active | 48 | PROFILED | `profiles/terres-daventure.md` |
+| 78 | Peregrine Adventures | Adventure/Active | 35 | PROFILED — Intrepid Group sub-brand, 50+ demographic, NOT ultra-luxury | `profiles/peregrine-adventures.md` |
 
 ## Queue — Phase 1 (100 operators, 20 per vertical)
 
@@ -113,13 +120,13 @@ LINX Operator ICP Fit Score (0-100):
 | 11 | Ahoy Club | MEDIUM | PROFILED (58) |
 | 12 | CharterWorld | MEDIUM | PROFILED (55) |
 | 13 | Yachtzoo | MEDIUM | PROFILED (60) |
-| 14 | SuperYachtFan (charter) | LOW | QUEUED |
+| 14 | SuperYachtFan (charter) | LOW | SKIP — media/database site, not a charter operator |
 | 15 | Ocean Independence | MEDIUM | PROFILED (70) |
 | 16 | Denison Yachting | MEDIUM | PROFILED (72) |
 | 17 | Worth Avenue Yachts | MEDIUM | PROFILED (73) |
-| 18 | TWW Yachts | LOW | QUEUED |
-| 19 | Bluewater Yachting | LOW | QUEUED |
-| 20 | 4Yacht | LOW | QUEUED |
+| 18 | TWW Yachts | LOW | PROFILED (70) |
+| 19 | Bluewater Yachting | LOW | PROFILED (72) |
+| 20 | 4Yacht | LOW | QUEUED — insufficient data found |
 
 ### Safari / Lodge (20)
 | # | Operator | Priority | Status |
@@ -166,7 +173,7 @@ LINX Operator ICP Fit Score (0-100):
 | 16 | Heritage Expeditions | LOW | PROFILED (76) |
 | 17 | Poseidon Expeditions | LOW | PROFILED (70) |
 | 18 | Oceanwide Expeditions | LOW | PROFILED (65) |
-| 19 | G Adventures (luxury tier) | LOW | QUEUED |
+| 19 | G Adventures (luxury tier) | LOW | PROFILED (52) — NatGeo Signature tier profiled |
 | 20 | Atlas Ocean Voyages | LOW | PROFILED (83) |
 
 ### Luxury Resort / Lodge (20)
@@ -211,22 +218,22 @@ LINX Operator ICP Fit Score (0-100):
 | 13 | COMO Shambhala | MEDIUM | PROFILED (74) |
 | 14 | Chiva-Som | MEDIUM | PROFILED (77) |
 | 15 | Wilderness Scotland | LOW | PROFILED (50) |
-| 16 | Much Better Adventures | LOW | QUEUED |
+| 16 | Much Better Adventures | LOW | PROFILED (45) |
 | 17 | 50 Degrees North | LOW | PROFILED (60) |
-| 18 | Terres d'Aventure | LOW | QUEUED |
-| 19 | World Expeditions | LOW | QUEUED |
-| 20 | Peregrine Adventures | LOW | QUEUED |
+| 18 | Terres d'Aventure | LOW | PROFILED (48) |
+| 19 | World Expeditions | LOW | PROFILED (55) |
+| 20 | Peregrine Adventures | LOW | PROFILED (35) — Intrepid Group sub-brand, NOT a LINX target |
 
 ## Queue Summary
 
 | Vertical | Total Queued | HIGH Priority | Profiled | Remaining |
 |----------|-------------|---------------|----------|-----------|
-| Yacht Charter | 20 | 5 | 16 | 4 |
+| Yacht Charter | 20 | 5 | 18 (1 SKIP — SuperYachtFan) | 1 (4Yacht — no data) |
 | Safari/Lodge | 20 | 4 | 20 | 0 |
-| Expedition | 20 | 5 | 19 (1 defunct) | 1 |
+| Expedition | 20 | 5 | 20 (1 defunct) | 0 |
 | Luxury Resort | 20 | 3 | 20 | 0 |
-| Adventure/Wellness | 20 | 3 | 15 (1 SKIP) | 4 |
-| **TOTAL** | **100** | **20** | **90** | **10** |
+| Adventure/Wellness | 20 | 3 | 19 (1 SKIP — REI) | 0 |
+| **TOTAL** | **100** | **20** | **97 (2 SKIP, 1 DEFUNCT)** | **1 (4Yacht)** |
 
 ---
 
